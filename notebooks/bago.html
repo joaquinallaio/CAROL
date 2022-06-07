@@ -1,0 +1,2509 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+    <head>
+
+
+<meta name="viewport" content="width=device-width">
+
+<link rel="stylesheet" type="text/css" href="../css/alfabeta.css">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <link href="../img/lgab.ico" rel="icon" type="image/x-icon">
+    <link href="../img/lgab.ico" rel="shortcut icon" type="image/x-icon">
+    <script src="../js/jquery-3.1.1.min.js"></script>
+    <script src="../js/arreglar.js"></script>
+    <title>Grupo Alfa Beta</title>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-25459192-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <!-- Fin Google Analytics -->
+    <script type="text/javascript">
+        window.setTimeout(function(){document.getElementById('flotante').style.display = 'none';
+        document.getElementById('bloqueador').style.display = 'none';}, 30000);
+    </script>
+
+    <script type="text/javascript" src="../js/management.js"></script>
+    <script type="text/javascript" src="../js/validation.js"></script>
+</head>
+    <body>
+        <div id="contenedor">
+            <div id="latizq"></div>
+            <div id="web">
+                <div id="cabecera">
+                    <div id="zonatop">
+                        <table class="topsecc">
+    <tr>
+        <td class="topizq">
+            <table class="logo">
+                <tr>
+                    <td class="logoizq">
+                        <a href="../"><img alt="Alfabeta.Net" src="../img/logo.gif" ></a>
+                    </td>
+
+
+                    <td class="logoder">Ultima Actualización: 06/06/2022
+<br></td>
+
+
+                </tr>
+                <tr>
+                    <td colspan="2" class="logoinf">
+                        <img alt="Herramientas" src="../img/tools.gif" usemap="#tools" >
+                        <map name="tools">
+                            <area shape="rect" coords="0,0,82,30" href="../home/indice.jsp" alt="Mapa del sitio">
+                            <area shape="rect" coords="83,0,189,30" href="../home/contactenos.jsp" alt="alfabeta.net responde">
+                            <area shape="rect" coords="190,0,316,30" href="mailto:info@alfabeta.net?subject=Sugerencias" alt="Escríbanos...">
+                            <area shape="rect" coords="317,0,425,30" href="../descargas/index.jsp" alt="Actualización de Archivos y Otros Servicios">
+                        </map>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td class="topder">
+            <form target="_blank" id="go143" name="go143" action="../link" method="post"><input type="hidden" name="target" value="https://fortbentonlab.com.ar/products/D5hrKmn0E1m0GPwB9KYl"><input type="hidden" name="descripBanner" value="fortbentonfortcinolona2tjpg"><input type="hidden" name="seconds" value=""><input type="hidden" name="solapa" value=""><input type="hidden" name="idBanner" value="6"></form><a class="publimg" href="javascript:link('go143');javascript:document.go143.submit();"><img class="publimg" width="330" height="60" alt="" src="http://cdn.alfabeta.net/resources/img/fortbentonfortcinolona2t.jpg" ></a>
+        </td>
+    </tr>
+</table>
+                    </div>
+                    <div id="solapas">
+                        <img alt="Navegación horizontal" src="img/solapas.gif" usemap="#solapas" >
+    <map name="solapas">
+        <area shape="rect" coords="0,0,85,22" href="../" alt="Página de Inicio">
+        <area shape="rect" coords="86,0,280,22" href="../precio/" alt="Manual Farmacéutico">
+        <area shape="rect" coords="281,0,381,22" href="../medicamento/" alt="Manual Farmacoterapéutico (Argentina - Chile)">
+        <area shape="rect" coords="382,0,515,22" href="../obra-social/" alt="Obras Sociales">
+        <area shape="rect" coords="516,0,644,22" href="../suscripciones/" alt="Suscripciones On-Line">
+        <!--<area shape="rect" coords="645,0,705,22" href="../libros/" alt="Libros">-->
+    </map>
+                    </div>
+                </div>
+                <div id="izq">
+                    <table class="menu">
+    <tr>
+    <td>
+        <table class="search" >
+            <tr><td colspan="2">Índice de Productos:</td></tr>
+            <tr>
+                <td class="itsearchl">
+                    <form id="srvPr" name="srvPr" action="srv" method="post" onsubmit="return validaParamPr();">
+                    <input class="entrada" type="text" name="patron" size="10" value="">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="pat">
+                    <input class="mfsubmit" type="submit" value="Buscar">
+                    </form>
+                </td>
+            </tr>
+            <tr><td colspan="2">Índice de Laboratorios:</td></tr>
+            <tr>
+                <td class="itsearchl">
+                    <form id="srvLab" name="srvLab" action="srv" method="post" onsubmit="return validaParamLab();">
+                    <input class="entrada" type="text" name="patron" size="10" value="">
+                    <input type="hidden" name="src" value="labs">
+                    <input class="mfsubmit" type="submit" value="Buscar">
+                    </form>
+                </td>
+            </tr>
+            <tr><td colspan="2">Índice de Drogas:</td></tr>
+            <tr>
+                <td class="itsearchl">
+                    <form id="srvDrg" name="srvDrg" action="srv" method="post" onsubmit="return validaParamDrg();">
+                    <input class="entrada" type="text" name="patron" size="10" value="">
+                    <input type="hidden" name="src" value="drgs">
+                    <input class="mfsubmit" type="submit" value="Buscar">
+                    </form>
+                </td>
+                <!--<td class="itsearchr">
+                    <a class="publimg" href="javascript:validaParamDrg();"><img alt="Buscar" class="publimg" src="../img/buscar.gif"></a>
+                </td>-->
+            </tr>
+        </table>
+    </td>
+</tr>
+    <tr><td class="itmenu"><a href="../productos/manualdat-ar.jsp">Manual Farmacéutico Digital</a></td></tr>
+    <tr><td class="itmenu"><a href="../productos/">Nuestros Productos</a></td></tr>
+    <tr><td class="itmenu"><a href="../suscripciones/">Suscripciones</a></td></tr>
+    <tr><td class="itmenu"><a href="../precio/indexCatalogoPrecios.jsp">Catálogo de precios</a></td></tr>
+    <tr><td class="itmenu"><a href="../precio/indexAltasBajas.jsp">Altas y bajas</a></td></tr>
+    <tr><td class="itmenu"><a href="../precio/indexEstadisticas.jsp">Estadísticas</a></td></tr>
+</table>
+<form target="_blank" id="go144" name="go144" action="../link" method="post"><input type="hidden" name="target" value="https://celnova.com/"><input type="hidden" name="descripBanner" value="celnovainstitucional2iswebp"><input type="hidden" name="seconds" value=""><input type="hidden" name="solapa" value=""><input type="hidden" name="idBanner" value="7"></form><a class="publimg" href="javascript:link('go144');javascript:document.go144.submit();"><img class="publimg" width="155" height="185" alt="" src="http://cdn.alfabeta.net/resources/img/celnovainstitucional2is.webp" ></a>
+<tr>
+    <td>&nbsp;</td>
+</tr>
+<form target="_blank" id="go1260" name="go1260" action="../link" method="post"><input type="hidden" name="target" value="http://www.alfabeta.net/productos/winfarma-ar.jsp"><input type="hidden" name="descripBanner" value="abwinfarmawebp"><input type="hidden" name="seconds" value=""><input type="hidden" name="solapa" value=""><input type="hidden" name="idBanner" value="19"></form><a class="publimg" href="javascript:link('go1260');javascript:document.go1260.submit();"><img class="publimg" width="155" height="185" alt="" src="http://cdn.alfabeta.net/resources/img/abwinfarma.webp" ></a>
+                </div>
+                <div id="centro">
+                    <div id="centrot">&nbsp;</div>
+                    <div id="centroi">&nbsp;</div>
+                    <div id="centroc">
+                        <div id="home1">
+
+
+<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
+<style>
+	#eflotante {
+	    position: fixed;
+	    z-index: 3;
+	    top: 50%;
+	    left: 50%;
+	    background-color: #637B7D;
+	    display: block;
+		width: 600px;
+		height: 469.0px;
+		margin-left: -300.0px;
+		margin-top: -234.5px;
+	    letter-spacing: 2px;
+	    font-family: 'Roboto', sans-serif;
+	}
+	#eflotante1 {
+	    color: #BCD6BB;
+	    font-size: 20px;
+	    padding: 20px;
+	}
+	#eflotante2 {
+	    background-color: #465C6A;
+	    color: #BCD6BB;
+	    font-size: 16px;
+	    padding: 10px;
+	    line-height: 23px;
+	}
+	#eflotante3 {
+		position: absolute;
+		width: 100%;
+		bottom: 0;
+	    color: #FFFFFF;
+	    font-size: 18px;
+	    padding: 10px;
+	}
+	@media (max-width: 700px) {
+		#eflotante3 {
+			display: none;
+		}
+	}
+</style>
+
+<script>
+	window.onload = function() {
+		mostrarEncuesta();
+	};
+
+	function mostrarEncuesta() {/*
+		if (localStorage.getItem('encuesta') == 'enviada') {
+		    document.getElementById('eflotante').style.display = 'none';
+		} else {
+		    document.getElementById('eflotante').style.display = 'block';
+		}*/
+	}
+
+	function eclosead() {
+	    document.getElementById('eflotante').style.display = 'none';
+	}
+
+	function enviar() {
+		var edad = document.querySelector('input[name="edad"]:checked');
+		var sexo = document.querySelector('input[name="sexo"]:checked');
+		var profesion = document.querySelector('input[name="profesion"]:checked');
+
+		if (!edad) return;
+		if (!sexo) return;
+		if (!profesion) return;
+
+		var url = 'enviar.jsp?edad=' + edad.value + "&sexo=" + sexo.value + "&profesion=" + profesion.value;
+		fetch(url)
+		.then(response => response.json())
+		.then(data => {
+			console.log(data.status);
+			if (data.status == 'ok') {
+				localStorage.setItem('encuesta', 'enviada');
+			}
+		});
+		eclosead();
+	}
+</script>
+
+<div id="eflotante" style="display: none">
+	<div id="eflotante1">TE PEDIMOS TU AYUDA COMPLETANDO LOS SIGUIENTES DATOS PARA QUE LA WEB SIGA DE MANERA GRATUITA</div>
+	<div id="eflotante2">
+		<table style="width: 100%;">
+			<tr>
+				<td id="eizquierda">
+					<h3 style="text-align: left; padding-left: 20px;">1 - RANGO ETARIO</h3>
+					<div style="text-align: left; padding-left: 20px;">
+						<div><input name="edad" value="18a20" type="radio" /> 18 a 20</div>
+						<div><input name="edad" value="30a59" type="radio" /> 30 a 59</div>
+						<div><input name="edad" value="60a79" type="radio" /> 60 a 79</div>
+						<div><input name="edad" value="mas80" type="radio" /> + de 80</div>
+					</div>
+					<h3 style="text-align: left; padding-left: 20px;">2 - SEXO</h3>
+					<div style="text-align: left; padding-left: 20px;">
+						<div><input name="sexo" value="femenino" type="radio" /> FEMENINO</div>
+						<div><input name="sexo" value="masculino" type="radio" /> MASCULINO</div>
+						<div><input name="sexo" value="otro" type="radio" /> OTRO</div>
+					</div>
+				</td>
+				<td id="ederecha" style="vertical-align: top;">
+					<h3 style="text-align: left; padding-left: 20px;">3 - PROFESIÓN</h3>
+					<div style="text-align: left; padding-left: 20px;">
+						<div><input name="profesion" value="farmaceutico" type="radio" /> FARMACÉUTICO</div>
+						<div><input name="profesion" value="idoneo_farmacia" type="radio" /> IDONEO DE FARMACIA</div>
+						<div><input name="profesion" value="medico" type="radio" /> MÉDICO</div>
+						<div><input name="profesion" value="estudiante_farmacia" type="radio" /> ESTUDIANTE FARMACIA</div>
+						<div><input name="profesion" value="estudiante_medicina" type="radio" /> ESTUDIANTE MEDICINA</div>
+						<div><input name="profesion" value="personal_salud" type="radio" /> PERSONAL DE LA SALUD</div>
+						<div><input name="profesion" value="otros	" type="radio" /> OTROS</div>
+					</div>
+					<div style="text-align: left;  padding-left: 20px;  padding-top: 30px;">
+						<input type="button" value="enviar" onclick="enviar()" />
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div id="eflotante3">GRACIAS POR TU COLABORACION</div>
+</div>
+
+<table class="estandar" >
+
+
+    <tr>
+        <td class="textoe">
+            <p class="textonota">
+            <b>159</b> coincidencias para <span class="internos"><b>"Bagó"</b></span> en el índice de Nombres.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td><img alt="" src="../img/h2resultados.gif"></td>
+    </tr>
+    <tr>
+        <td class="textoe">
+            <p class="resultsearch">
+
+                <form name="pr1" action="actinerval.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ACTINERVAL">
+                </form>
+                <form name="lab1" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr1.submit();">ACTINERVAL</a> &#149; <a class="rlab" href="javascript:document.lab1.submit();">Bagó</a><br>
+
+                <form name="pr2" action="actual.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ACTUAL">
+                </form>
+                <form name="lab2" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr2.submit();">ACTUAL</a> &#149; <a class="rlab" href="javascript:document.lab2.submit();">Bagó</a><br>
+
+                <form name="pr3" action="actual-panto-24.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ACTUAL PANTO 24">
+                </form>
+                <form name="lab3" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr3.submit();">ACTUAL PANTO 24</a> &#149; <a class="rlab" href="javascript:document.lab3.submit();">Bagó</a><br>
+
+                <form name="pr4" action="afebril-forte.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="AFEBRIL FORTE">
+                </form>
+                <form name="lab4" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr4.submit();">AFEBRIL FORTE</a> &#149; <a class="rlab" href="javascript:document.lab4.submit();">Bagó</a><br>
+
+                <form name="pr5" action="afectol.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="AFECTOL">
+                </form>
+                <form name="lab5" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr5.submit();">AFECTOL</a> &#149; <a class="rlab" href="javascript:document.lab5.submit();">Bagó</a><br>
+
+                <form name="pr6" action="akineton.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="AKINETON">
+                </form>
+                <form name="lab6" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr6.submit();">AKINETON</a> &#149; <a class="rlab" href="javascript:document.lab6.submit();">Bagó</a><br>
+
+                <form name="pr7" action="alfaxin.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ALFAXIN">
+                </form>
+                <form name="lab7" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr7.submit();">ALFAXIN</a> &#149; <a class="rlab" href="javascript:document.lab7.submit();">Bagó</a><br>
+
+                <form name="pr8" action="amitax.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="AMITAX">
+                </form>
+                <form name="lab8" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr8.submit();">AMITAX</a> &#149; <a class="rlab" href="javascript:document.lab8.submit();">Bagó</a><br>
+
+                <form name="pr9" action="anaflex.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ANAFLEX">
+                </form>
+                <form name="lab9" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr9.submit();">ANAFLEX</a> &#149; <a class="rlab" href="javascript:document.lab9.submit();">Bagó</a><br>
+
+                <form name="pr10" action="anaflex-plus-rapida-accion.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ANAFLEX PLUS RAPIDA ACCION">
+                </form>
+                <form name="lab10" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr10.submit();">ANAFLEX PLUS RAPIDA ACCION</a> &#149; <a class="rlab" href="javascript:document.lab10.submit();">Bagó</a><br>
+
+                <form name="pr11" action="artinovo.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ARTINOVO">
+                </form>
+                <form name="lab11" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr11.submit();">ARTINOVO</a> &#149; <a class="rlab" href="javascript:document.lab11.submit();">Bagó</a><br>
+
+                <form name="pr12" action="artrilase.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ARTRILASE">
+                </form>
+                <form name="lab12" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr12.submit();">ARTRILASE</a> &#149; <a class="rlab" href="javascript:document.lab12.submit();">Bagó</a><br>
+
+                <form name="pr13" action="azecar.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="AZECAR">
+                </form>
+                <form name="lab13" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr13.submit();">AZECAR</a> &#149; <a class="rlab" href="javascript:document.lab13.submit();">Bagó</a><br>
+
+                <form name="pr14" action="azumel.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="AZUMEL">
+                </form>
+                <form name="lab14" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr14.submit();">AZUMEL</a> &#149; <a class="rlab" href="javascript:document.lab14.submit();">Bagó</a><br>
+
+                <form name="pr15" action="bacticel.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BACTICEL">
+                </form>
+                <form name="lab15" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr15.submit();">BACTICEL</a> &#149; <a class="rlab" href="javascript:document.lab15.submit();">Bagó</a><br>
+
+                <form name="pr16" action="bago-b1-b6-b12.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGO B1 B6 B12">
+                </form>
+                <form name="lab16" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr16.submit();">BAGO B1 B6 B12</a> &#149; <a class="rlab" href="javascript:document.lab16.submit();">Bagó</a><br>
+
+                <form name="pr17" action="bago-b1-b6-b12-cb-5000.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGO B1 B6 B12 CB 5000">
+                </form>
+                <form name="lab17" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr17.submit();">BAGO B1 B6 B12 CB 5000</a> &#149; <a class="rlab" href="javascript:document.lab17.submit();">Bagó</a><br>
+
+                <form name="pr18" action="bago-b1-b6-b12-detox.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGO B1 B6 B12 DETOX">
+                </form>
+                <form name="lab18" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr18.submit();">BAGO B1 B6 B12 DETOX</a> &#149; <a class="rlab" href="javascript:document.lab18.submit();">Bagó</a><br>
+
+                <form name="pr19" action="bago-b6-b12-folico.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGO B6 B12 FOLICO">
+                </form>
+                <form name="lab19" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr19.submit();">BAGO B6 B12 FOLICO</a> &#149; <a class="rlab" href="javascript:document.lab19.submit();">Bagó</a><br>
+
+                <form name="pr20" action="bagoactivamente.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGO+ACTIVAMENTE">
+                </form>
+                <form name="lab20" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr20.submit();">BAGO+ACTIVAMENTE</a> &#149; <a class="rlab" href="javascript:document.lab20.submit();">Bagó</a><br>
+
+                <form name="pr21" action="bagoenergia.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGO+ENERGIA">
+                </form>
+                <form name="lab21" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr21.submit();">BAGO+ENERGIA</a> &#149; <a class="rlab" href="javascript:document.lab21.submit();">Bagó</a><br>
+
+                <form name="pr22" action="bagoderm-vl.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGODERM VL">
+                </form>
+                <form name="lab22" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr22.submit();">BAGODERM VL</a> &#149; <a class="rlab" href="javascript:document.lab22.submit();">Bagó</a><br>
+
+                <form name="pr23" action="bagohepat.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGOHEPAT">
+                </form>
+                <form name="lab23" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr23.submit();">BAGOHEPAT</a> &#149; <a class="rlab" href="javascript:document.lab23.submit();">Bagó</a><br>
+
+                <form name="pr24" action="bagohepat-rapida-accion.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGOHEPAT RAPIDA ACCION">
+                </form>
+                <form name="lab24" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr24.submit();">BAGOHEPAT RAPIDA ACCION</a> &#149; <a class="rlab" href="javascript:document.lab24.submit();">Bagó</a><br>
+
+                <form name="pr25" action="bagotaz.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGOTAZ">
+                </form>
+                <form name="lab25" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr25.submit();">BAGOTAZ</a> &#149; <a class="rlab" href="javascript:document.lab25.submit();">Bagó</a><br>
+
+                <form name="pr26" action="bagovit-a-plus.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGOVIT A PLUS">
+                </form>
+                <form name="lab26" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr26.submit();">BAGOVIT A PLUS</a> &#149; <a class="rlab" href="javascript:document.lab26.submit();">Bagó</a><br>
+
+                <form name="pr27" action="bagovit-ae.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BAGOVIT AE">
+                </form>
+                <form name="lab27" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr27.submit();">BAGOVIT AE</a> &#149; <a class="rlab" href="javascript:document.lab27.submit();">Bagó</a><br>
+
+                <form name="pr28" action="benaprost.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BENAPROST">
+                </form>
+                <form name="lab28" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr28.submit();">BENAPROST</a> &#149; <a class="rlab" href="javascript:document.lab28.submit();">Bagó</a><br>
+
+                <form name="pr29" action="bil-13.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BIL 13">
+                </form>
+                <form name="lab29" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr29.submit();">BIL 13</a> &#149; <a class="rlab" href="javascript:document.lab29.submit();">Bagó</a><br>
+
+                <form name="pr30" action="bil-13-enzimatico.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BIL 13 ENZIMATICO">
+                </form>
+                <form name="lab30" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr30.submit();">BIL 13 ENZIMATICO</a> &#149; <a class="rlab" href="javascript:document.lab30.submit();">Bagó</a><br>
+
+                <form name="pr31" action="bosental.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BOSENTAL">
+                </form>
+                <form name="lab31" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr31.submit();">BOSENTAL</a> &#149; <a class="rlab" href="javascript:document.lab31.submit();">Bagó</a><br>
+
+                <form name="pr32" action="briotaz.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="BRIOTAZ">
+                </form>
+                <form name="lab32" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr32.submit();">BRIOTAZ</a> &#149; <a class="rlab" href="javascript:document.lab32.submit();">Bagó</a><br>
+
+                <form name="pr33" action="cardiorex.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="CARDIOREX">
+                </form>
+                <form name="lab33" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr33.submit();">CARDIOREX</a> &#149; <a class="rlab" href="javascript:document.lab33.submit();">Bagó</a><br>
+
+                <form name="pr34" action="carvedil.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="CARVEDIL">
+                </form>
+                <form name="lab34" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr34.submit();">CARVEDIL</a> &#149; <a class="rlab" href="javascript:document.lab34.submit();">Bagó</a><br>
+
+                <form name="pr35" action="carvedil-d.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="CARVEDIL D">
+                </form>
+                <form name="lab35" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr35.submit();">CARVEDIL D</a> &#149; <a class="rlab" href="javascript:document.lab35.submit();">Bagó</a><br>
+
+                <form name="pr36" action="carvedil-retard.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="CARVEDIL RETARD">
+                </form>
+                <form name="lab36" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr36.submit();">CARVEDIL RETARD</a> &#149; <a class="rlab" href="javascript:document.lab36.submit();">Bagó</a><br>
+
+                <form name="pr37" action="cefalex-max.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="CEFALEX MAX">
+                </form>
+                <form name="lab37" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr37.submit();">CEFALEX MAX</a> &#149; <a class="rlab" href="javascript:document.lab37.submit();">Bagó</a><br>
+
+                <form name="pr38" action="cefalex-vl.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="CEFALEX VL">
+                </form>
+                <form name="lab38" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr38.submit();">CEFALEX VL</a> &#149; <a class="rlab" href="javascript:document.lab38.submit();">Bagó</a><br>
+
+                <form name="pr39" action="cefalomicina.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="CEFALOMICINA">
+                </form>
+                <form name="lab39" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr39.submit();">CEFALOMICINA</a> &#149; <a class="rlab" href="javascript:document.lab39.submit();">Bagó</a><br>
+
+                <form name="pr40" action="chia-omega3-bago.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="CHIA OMEGA-3 BAGO">
+                </form>
+                <form name="lab40" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr40.submit();">CHIA OMEGA-3 BAGO</a> &#149; <a class="rlab" href="javascript:document.lab40.submit();">Bagó</a><br>
+
+                <form name="pr41" action="chia-plus-bago.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="CHIA PLUS BAGO">
+                </form>
+                <form name="lab41" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr41.submit();">CHIA PLUS BAGO</a> &#149; <a class="rlab" href="javascript:document.lab41.submit();">Bagó</a><br>
+
+                <form name="pr42" action="circlet.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="CIRCLET">
+                </form>
+                <form name="lab42" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr42.submit();">CIRCLET</a> &#149; <a class="rlab" href="javascript:document.lab42.submit();">Bagó</a><br>
+
+                <form name="pr43" action="cortistamin-l.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="CORTISTAMIN L">
+                </form>
+                <form name="lab43" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr43.submit();">CORTISTAMIN L</a> &#149; <a class="rlab" href="javascript:document.lab43.submit();">Bagó</a><br>
+
+                <form name="pr44" action="dioxaflex.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX">
+                </form>
+                <form name="lab44" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr44.submit();">DIOXAFLEX</a> &#149; <a class="rlab" href="javascript:document.lab44.submit();">Bagó</a><br>
+
+                <form name="pr45" action="dioxaflex-5.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX 5%">
+                </form>
+                <form name="lab45" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr45.submit();">DIOXAFLEX 5%</a> &#149; <a class="rlab" href="javascript:document.lab45.submit();">Bagó</a><br>
+
+                <form name="pr46" action="dioxaflex-b12.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX B12">
+                </form>
+                <form name="lab46" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr46.submit();">DIOXAFLEX B12</a> &#149; <a class="rlab" href="javascript:document.lab46.submit();">Bagó</a><br>
+
+                <form name="pr47" action="dioxaflex-cb.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX CB">
+                </form>
+                <form name="lab47" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr47.submit();">DIOXAFLEX CB</a> &#149; <a class="rlab" href="javascript:document.lab47.submit();">Bagó</a><br>
+
+                <form name="pr48" action="dioxaflex-cb-75.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX CB 75">
+                </form>
+                <form name="lab48" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr48.submit();">DIOXAFLEX CB 75</a> &#149; <a class="rlab" href="javascript:document.lab48.submit();">Bagó</a><br>
+
+                <form name="pr49" action="dioxaflex-cb-gesic.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX CB GESIC">
+                </form>
+                <form name="lab49" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr49.submit();">DIOXAFLEX CB GESIC</a> &#149; <a class="rlab" href="javascript:document.lab49.submit();">Bagó</a><br>
+
+                <form name="pr50" action="dioxaflex-cb-plus.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX CB PLUS">
+                </form>
+                <form name="lab50" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr50.submit();">DIOXAFLEX CB PLUS</a> &#149; <a class="rlab" href="javascript:document.lab50.submit();">Bagó</a><br>
+
+                <form name="pr51" action="dioxaflex-complex.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX COMPLEX">
+                </form>
+                <form name="lab51" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr51.submit();">DIOXAFLEX COMPLEX</a> &#149; <a class="rlab" href="javascript:document.lab51.submit();">Bagó</a><br>
+
+                <form name="pr52" action="dioxaflex-gesic.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX GESIC">
+                </form>
+                <form name="lab52" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr52.submit();">DIOXAFLEX GESIC</a> &#149; <a class="rlab" href="javascript:document.lab52.submit();">Bagó</a><br>
+
+                <form name="pr53" action="dioxaflex-migra.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX MIGRA">
+                </form>
+                <form name="lab53" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr53.submit();">DIOXAFLEX MIGRA</a> &#149; <a class="rlab" href="javascript:document.lab53.submit();">Bagó</a><br>
+
+                <form name="pr54" action="dioxaflex-plus.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX PLUS">
+                </form>
+                <form name="lab54" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr54.submit();">DIOXAFLEX PLUS</a> &#149; <a class="rlab" href="javascript:document.lab54.submit();">Bagó</a><br>
+
+                <form name="pr55" action="dioxaflex-protect.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX PROTECT">
+                </form>
+                <form name="lab55" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr55.submit();">DIOXAFLEX PROTECT</a> &#149; <a class="rlab" href="javascript:document.lab55.submit();">Bagó</a><br>
+
+                <form name="pr56" action="dioxaflex-rapid.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIOXAFLEX RAPID">
+                </form>
+                <form name="lab56" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr56.submit();">DIOXAFLEX RAPID</a> &#149; <a class="rlab" href="javascript:document.lab56.submit();">Bagó</a><br>
+
+                <form name="pr57" action="diurex.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIUREX">
+                </form>
+                <form name="lab57" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr57.submit();">DIUREX</a> &#149; <a class="rlab" href="javascript:document.lab57.submit();">Bagó</a><br>
+
+                <form name="pr58" action="diurex-a.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DIUREX A">
+                </form>
+                <form name="lab58" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr58.submit();">DIUREX A</a> &#149; <a class="rlab" href="javascript:document.lab58.submit();">Bagó</a><br>
+
+                <form name="pr59" action="drilyna.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DRILYNA">
+                </form>
+                <form name="lab59" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr59.submit();">DRILYNA</a> &#149; <a class="rlab" href="javascript:document.lab59.submit();">Bagó</a><br>
+
+                <form name="pr60" action="drinax-r.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="DRINAX R">
+                </form>
+                <form name="lab60" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr60.submit();">DRINAX R</a> &#149; <a class="rlab" href="javascript:document.lab60.submit();">Bagó</a><br>
+
+                <form name="pr61" action="enterobacticel.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ENTEROBACTICEL">
+                </form>
+                <form name="lab61" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr61.submit();">ENTEROBACTICEL</a> &#149; <a class="rlab" href="javascript:document.lab61.submit();">Bagó</a><br>
+
+                <form name="pr62" action="esoprazol.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ESOPRAZOL">
+                </form>
+                <form name="lab62" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr62.submit();">ESOPRAZOL</a> &#149; <a class="rlab" href="javascript:document.lab62.submit();">Bagó</a><br>
+
+                <form name="pr63" action="estreptocarbocaftiazol.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ESTREPTOCARBOCAFTIAZOL">
+                </form>
+                <form name="lab63" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr63.submit();">ESTREPTOCARBOCAFTIAZOL</a> &#149; <a class="rlab" href="javascript:document.lab63.submit();">Bagó</a><br>
+
+                <form name="pr64" action="exibral.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="EXIBRAL">
+                </form>
+                <form name="lab64" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr64.submit();">EXIBRAL</a> &#149; <a class="rlab" href="javascript:document.lab64.submit();">Bagó</a><br>
+
+                <form name="pr65" action="flebotropin-300.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="FLEBOTROPIN 300">
+                </form>
+                <form name="lab65" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr65.submit();">FLEBOTROPIN 300</a> &#149; <a class="rlab" href="javascript:document.lab65.submit();">Bagó</a><br>
+
+                <form name="pr66" action="flebotropin-500.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="FLEBOTROPIN 500">
+                </form>
+                <form name="lab66" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr66.submit();">FLEBOTROPIN 500</a> &#149; <a class="rlab" href="javascript:document.lab66.submit();">Bagó</a><br>
+
+                <form name="pr67" action="flogocox.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="FLOGOCOX">
+                </form>
+                <form name="lab67" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr67.submit();">FLOGOCOX</a> &#149; <a class="rlab" href="javascript:document.lab67.submit();">Bagó</a><br>
+
+                <form name="pr68" action="frugal.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="FRUGAL">
+                </form>
+                <form name="lab68" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr68.submit();">FRUGAL</a> &#149; <a class="rlab" href="javascript:document.lab68.submit();">Bagó</a><br>
+
+                <form name="pr69" action="furadantina.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="FURADANTINA">
+                </form>
+                <form name="lab69" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr69.submit();">FURADANTINA</a> &#149; <a class="rlab" href="javascript:document.lab69.submit();">Bagó</a><br>
+
+                <form name="pr70" action="furadantina-mc.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="FURADANTINA MC">
+                </form>
+                <form name="lab70" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr70.submit();">FURADANTINA MC</a> &#149; <a class="rlab" href="javascript:document.lab70.submit();">Bagó</a><br>
+
+                <form name="pr71" action="glevomicina.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="GLEVOMICINA">
+                </form>
+                <form name="lab71" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr71.submit();">GLEVOMICINA</a> &#149; <a class="rlab" href="javascript:document.lab71.submit();">Bagó</a><br>
+
+                <form name="pr72" action="gliosartan.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="GLIOSARTAN">
+                </form>
+                <form name="lab72" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr72.submit();">GLIOSARTAN</a> &#149; <a class="rlab" href="javascript:document.lab72.submit();">Bagó</a><br>
+
+                <form name="pr73" action="gliosartan-plus.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="GLIOSARTAN PLUS">
+                </form>
+                <form name="lab73" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr73.submit();">GLIOSARTAN PLUS</a> &#149; <a class="rlab" href="javascript:document.lab73.submit();">Bagó</a><br>
+
+                <form name="pr74" action="glioten.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="GLIOTEN">
+                </form>
+                <form name="lab74" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr74.submit();">GLIOTEN</a> &#149; <a class="rlab" href="javascript:document.lab74.submit();">Bagó</a><br>
+
+                <form name="pr75" action="gliotenzide.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="GLIOTENZIDE">
+                </form>
+                <form name="lab75" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr75.submit();">GLIOTENZIDE</a> &#149; <a class="rlab" href="javascript:document.lab75.submit();">Bagó</a><br>
+
+                <form name="pr76" action="glucemix.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="GLUCEMIX">
+                </form>
+                <form name="lab76" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr76.submit();">GLUCEMIX</a> &#149; <a class="rlab" href="javascript:document.lab76.submit();">Bagó</a><br>
+
+                <form name="pr77" action="glucemix-met.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="GLUCEMIX MET">
+                </form>
+                <form name="lab77" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr77.submit();">GLUCEMIX MET</a> &#149; <a class="rlab" href="javascript:document.lab77.submit();">Bagó</a><br>
+
+                <form name="pr78" action="humorap.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="HUMORAP">
+                </form>
+                <form name="lab78" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr78.submit();">HUMORAP</a> &#149; <a class="rlab" href="javascript:document.lab78.submit();">Bagó</a><br>
+
+                <form name="pr79" action="hyalart.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="HYALART">
+                </form>
+                <form name="lab79" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr79.submit();">HYALART</a> &#149; <a class="rlab" href="javascript:document.lab79.submit();">Bagó</a><br>
+
+                <form name="pr80" action="hyalone.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="HYALONE">
+                </form>
+                <form name="lab80" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr80.submit();">HYALONE</a> &#149; <a class="rlab" href="javascript:document.lab80.submit();">Bagó</a><br>
+
+                <form name="pr81" action="ibunastizol.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="IBUNASTIZOL">
+                </form>
+                <form name="lab81" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr81.submit();">IBUNASTIZOL</a> &#149; <a class="rlab" href="javascript:document.lab81.submit();">Bagó</a><br>
+
+                <form name="pr82" action="incoril.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="INCORIL">
+                </form>
+                <form name="lab82" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr82.submit();">INCORIL</a> &#149; <a class="rlab" href="javascript:document.lab82.submit();">Bagó</a><br>
+
+                <form name="pr83" action="incoril-ap.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="INCORIL AP">
+                </form>
+                <form name="lab83" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr83.submit();">INCORIL AP</a> &#149; <a class="rlab" href="javascript:document.lab83.submit();">Bagó</a><br>
+
+                <form name="pr84" action="incoril-monodosis.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="INCORIL MONODOSIS">
+                </form>
+                <form name="lab84" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr84.submit();">INCORIL MONODOSIS</a> &#149; <a class="rlab" href="javascript:document.lab84.submit();">Bagó</a><br>
+
+                <form name="pr85" action="leucotrofina.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="LEUCOTROFINA">
+                </form>
+                <form name="lab85" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr85.submit();">LEUCOTROFINA</a> &#149; <a class="rlab" href="javascript:document.lab85.submit();">Bagó</a><br>
+
+                <form name="pr86" action="lipomax.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="LIPOMAX">
+                </form>
+                <form name="lab86" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr86.submit();">LIPOMAX</a> &#149; <a class="rlab" href="javascript:document.lab86.submit();">Bagó</a><br>
+
+                <form name="pr87" action="longevital.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="LONGEVITAL">
+                </form>
+                <form name="lab87" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr87.submit();">LONGEVITAL</a> &#149; <a class="rlab" href="javascript:document.lab87.submit();">Bagó</a><br>
+
+                <form name="pr88" action="lucidex.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="LUCIDEX">
+                </form>
+                <form name="lab88" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr88.submit();">LUCIDEX</a> &#149; <a class="rlab" href="javascript:document.lab88.submit();">Bagó</a><br>
+
+                <form name="pr89" action="lucidex-complex-xr-sprinkle.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="LUCIDEX COMPLEX XR SPRINKLE">
+                </form>
+                <form name="lab89" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr89.submit();">LUCIDEX COMPLEX XR SPRINKLE</a> &#149; <a class="rlab" href="javascript:document.lab89.submit();">Bagó</a><br>
+
+                <form name="pr90" action="lucidex-xr.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="LUCIDEX XR">
+                </form>
+                <form name="lab90" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr90.submit();">LUCIDEX XR</a> &#149; <a class="rlab" href="javascript:document.lab90.submit();">Bagó</a><br>
+
+                <form name="pr91" action="lukast.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="LUKAST">
+                </form>
+                <form name="lab91" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr91.submit();">LUKAST</a> &#149; <a class="rlab" href="javascript:document.lab91.submit();">Bagó</a><br>
+
+                <form name="pr92" action="lukast-compuesto.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="LUKAST COMPUESTO">
+                </form>
+                <form name="lab92" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr92.submit();">LUKAST COMPUESTO</a> &#149; <a class="rlab" href="javascript:document.lab92.submit();">Bagó</a><br>
+
+                <form name="pr93" action="mezavant.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="MEZAVANT">
+                </form>
+                <form name="lab93" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr93.submit();">MEZAVANT</a> &#149; <a class="rlab" href="javascript:document.lab93.submit();">Bagó</a><br>
+
+                <form name="pr94" action="migra-dioxadol.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="MIGRA DIOXADOL">
+                </form>
+                <form name="lab94" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr94.submit();">MIGRA DIOXADOL</a> &#149; <a class="rlab" href="javascript:document.lab94.submit();">Bagó</a><br>
+
+                <form name="pr95" action="monotrin-20.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="MONOTRIN 20">
+                </form>
+                <form name="lab95" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr95.submit();">MONOTRIN 20</a> &#149; <a class="rlab" href="javascript:document.lab95.submit();">Bagó</a><br>
+
+                <form name="pr96" action="nastizol.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NASTIZOL">
+                </form>
+                <form name="lab96" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr96.submit();">NASTIZOL</a> &#149; <a class="rlab" href="javascript:document.lab96.submit();">Bagó</a><br>
+
+                <form name="pr97" action="nastizol-compositum.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NASTIZOL COMPOSITUM">
+                </form>
+                <form name="lab97" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr97.submit();">NASTIZOL COMPOSITUM</a> &#149; <a class="rlab" href="javascript:document.lab97.submit();">Bagó</a><br>
+
+                <form name="pr98" action="nebix.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NEBIX">
+                </form>
+                <form name="lab98" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr98.submit();">NEBIX</a> &#149; <a class="rlab" href="javascript:document.lab98.submit();">Bagó</a><br>
+
+                <form name="pr99" action="neumobacticel.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NEUMOBACTICEL">
+                </form>
+                <form name="lab99" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr99.submit();">NEUMOBACTICEL</a> &#149; <a class="rlab" href="javascript:document.lab99.submit();">Bagó</a><br>
+
+                <form name="pr100" action="neupax.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NEUPAX">
+                </form>
+                <form name="lab100" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr100.submit();">NEUPAX</a> &#149; <a class="rlab" href="javascript:document.lab100.submit();">Bagó</a><br>
+
+                <form name="pr101" action="neuroactil.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NEUROACTIL">
+                </form>
+                <form name="lab101" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr101.submit();">NEUROACTIL</a> &#149; <a class="rlab" href="javascript:document.lab101.submit();">Bagó</a><br>
+
+                <form name="pr102" action="neuryl.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NEURYL">
+                </form>
+                <form name="lab102" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr102.submit();">NEURYL</a> &#149; <a class="rlab" href="javascript:document.lab102.submit();">Bagó</a><br>
+
+                <form name="pr103" action="nocte.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NOCTE">
+                </form>
+                <form name="lab103" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr103.submit();">NOCTE</a> &#149; <a class="rlab" href="javascript:document.lab103.submit();">Bagó</a><br>
+
+                <form name="pr104" action="nocte-sublingual.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NOCTE SUBLINGUAL">
+                </form>
+                <form name="lab104" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr104.submit();">NOCTE SUBLINGUAL</a> &#149; <a class="rlab" href="javascript:document.lab104.submit();">Bagó</a><br>
+
+                <form name="pr105" action="novo-humorap.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NOVO HUMORAP">
+                </form>
+                <form name="lab105" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr105.submit();">NOVO HUMORAP</a> &#149; <a class="rlab" href="javascript:document.lab105.submit();">Bagó</a><br>
+
+                <form name="pr106" action="novo-klosidol-e3.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NOVO KLOSIDOL E-3">
+                </form>
+                <form name="lab106" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr106.submit();">NOVO KLOSIDOL E-3</a> &#149; <a class="rlab" href="javascript:document.lab106.submit();">Bagó</a><br>
+
+                <form name="pr107" action="noxibel.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="NOXIBEL">
+                </form>
+                <form name="lab107" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr107.submit();">NOXIBEL</a> &#149; <a class="rlab" href="javascript:document.lab107.submit();">Bagó</a><br>
+
+                <form name="pr108" action="octanyl.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="OCTANYL">
+                </form>
+                <form name="lab108" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr108.submit();">OCTANYL</a> &#149; <a class="rlab" href="javascript:document.lab108.submit();">Bagó</a><br>
+
+                <form name="pr109" action="pantomicina.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PANTOMICINA">
+                </form>
+                <form name="lab109" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr109.submit();">PANTOMICINA</a> &#149; <a class="rlab" href="javascript:document.lab109.submit();">Bagó</a><br>
+
+                <form name="pr110" action="parkinel.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PARKINEL">
+                </form>
+                <form name="lab110" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr110.submit();">PARKINEL</a> &#149; <a class="rlab" href="javascript:document.lab110.submit();">Bagó</a><br>
+
+                <form name="pr111" action="pen-di-ben.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PEN DI BEN">
+                </form>
+                <form name="lab111" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr111.submit();">PEN DI BEN</a> &#149; <a class="rlab" href="javascript:document.lab111.submit();">Bagó</a><br>
+
+                <form name="pr112" action="performa.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PERFORMA">
+                </form>
+                <form name="lab112" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr112.submit();">PERFORMA</a> &#149; <a class="rlab" href="javascript:document.lab112.submit();">Bagó</a><br>
+
+                <form name="pr113" action="permicaps.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PERMICAPS">
+                </form>
+                <form name="lab113" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr113.submit();">PERMICAPS</a> &#149; <a class="rlab" href="javascript:document.lab113.submit();">Bagó</a><br>
+
+                <form name="pr114" action="pivalpen.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PIVALPEN">
+                </form>
+                <form name="lab114" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr114.submit();">PIVALPEN</a> &#149; <a class="rlab" href="javascript:document.lab114.submit();">Bagó</a><br>
+
+                <form name="pr115" action="plenacor.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PLENACOR">
+                </form>
+                <form name="lab115" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr115.submit();">PLENACOR</a> &#149; <a class="rlab" href="javascript:document.lab115.submit();">Bagó</a><br>
+
+                <form name="pr116" action="plenacor-d.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PLENACOR D">
+                </form>
+                <form name="lab116" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr116.submit();">PLENACOR D</a> &#149; <a class="rlab" href="javascript:document.lab116.submit();">Bagó</a><br>
+
+                <form name="pr117" action="postiline.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="POSTILINE">
+                </form>
+                <form name="lab117" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr117.submit();">POSTILINE</a> &#149; <a class="rlab" href="javascript:document.lab117.submit();">Bagó</a><br>
+
+                <form name="pr118" action="presimax.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PRESIMAX">
+                </form>
+                <form name="lab118" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr118.submit();">PRESIMAX</a> &#149; <a class="rlab" href="javascript:document.lab118.submit();">Bagó</a><br>
+
+                <form name="pr119" action="presimax-a.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PRESIMAX A">
+                </form>
+                <form name="lab119" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr119.submit();">PRESIMAX A</a> &#149; <a class="rlab" href="javascript:document.lab119.submit();">Bagó</a><br>
+
+                <form name="pr120" action="presimax-d.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PRESIMAX D">
+                </form>
+                <form name="lab120" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr120.submit();">PRESIMAX D</a> &#149; <a class="rlab" href="javascript:document.lab120.submit();">Bagó</a><br>
+
+                <form name="pr121" action="pulmoxi.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="PULMOXI">
+                </form>
+                <form name="lab121" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr121.submit();">PULMOXI</a> &#149; <a class="rlab" href="javascript:document.lab121.submit();">Bagó</a><br>
+
+                <form name="pr122" action="racetam.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="RACETAM">
+                </form>
+                <form name="lab122" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr122.submit();">RACETAM</a> &#149; <a class="rlab" href="javascript:document.lab122.submit();">Bagó</a><br>
+
+                <form name="pr123" action="relaxedan.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="RELAXEDAN">
+                </form>
+                <form name="lab123" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr123.submit();">RELAXEDAN</a> &#149; <a class="rlab" href="javascript:document.lab123.submit();">Bagó</a><br>
+
+                <form name="pr124" action="remodulin.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="REMODULIN">
+                </form>
+                <form name="lab124" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr124.submit();">REMODULIN</a> &#149; <a class="rlab" href="javascript:document.lab124.submit();">Bagó</a><br>
+
+                <form name="pr125" action="rosuvast.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ROSUVAST">
+                </form>
+                <form name="lab125" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr125.submit();">ROSUVAST</a> &#149; <a class="rlab" href="javascript:document.lab125.submit();">Bagó</a><br>
+
+                <form name="pr126" action="rubifen.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="RUBIFEN">
+                </form>
+                <form name="lab126" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr126.submit();">RUBIFEN</a> &#149; <a class="rlab" href="javascript:document.lab126.submit();">Bagó</a><br>
+
+                <form name="pr127" action="rubifen10.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="RUBIFEN-10">
+                </form>
+                <form name="lab127" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr127.submit();">RUBIFEN-10</a> &#149; <a class="rlab" href="javascript:document.lab127.submit();">Bagó</a><br>
+
+                <form name="pr128" action="rubifen20.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="RUBIFEN-20">
+                </form>
+                <form name="lab128" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr128.submit();">RUBIFEN-20</a> &#149; <a class="rlab" href="javascript:document.lab128.submit();">Bagó</a><br>
+
+                <form name="pr129" action="safimide.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="SAFIMIDE">
+                </form>
+                <form name="lab129" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr129.submit();">SAFIMIDE</a> &#149; <a class="rlab" href="javascript:document.lab129.submit();">Bagó</a><br>
+
+                <form name="pr130" action="saikel.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="SAIKEL">
+                </form>
+                <form name="lab130" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr130.submit();">SAIKEL</a> &#149; <a class="rlab" href="javascript:document.lab130.submit();">Bagó</a><br>
+
+                <form name="pr131" action="septicide.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="SEPTICIDE">
+                </form>
+                <form name="lab131" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr131.submit();">SEPTICIDE</a> &#149; <a class="rlab" href="javascript:document.lab131.submit();">Bagó</a><br>
+
+                <form name="pr132" action="septilisin.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="SEPTILISIN">
+                </form>
+                <form name="lab132" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr132.submit();">SEPTILISIN</a> &#149; <a class="rlab" href="javascript:document.lab132.submit();">Bagó</a><br>
+
+                <form name="pr133" action="septilisin-duo.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="SEPTILISIN DUO">
+                </form>
+                <form name="lab133" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr133.submit();">SEPTILISIN DUO</a> &#149; <a class="rlab" href="javascript:document.lab133.submit();">Bagó</a><br>
+
+                <form name="pr134" action="seroquel.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="SEROQUEL">
+                </form>
+                <form name="lab134" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr134.submit();">SEROQUEL</a> &#149; <a class="rlab" href="javascript:document.lab134.submit();">Bagó</a><br>
+
+                <form name="pr135" action="seroquel-xr.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="SEROQUEL XR">
+                </form>
+                <form name="lab135" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr135.submit();">SEROQUEL XR</a> &#149; <a class="rlab" href="javascript:document.lab135.submit();">Bagó</a><br>
+
+                <form name="pr136" action="suanel.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="SUANEL">
+                </form>
+                <form name="lab136" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr136.submit();">SUANEL</a> &#149; <a class="rlab" href="javascript:document.lab136.submit();">Bagó</a><br>
+
+                <form name="pr137" action="tetrazol.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TETRAZOL">
+                </form>
+                <form name="lab137" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr137.submit();">TETRAZOL</a> &#149; <a class="rlab" href="javascript:document.lab137.submit();">Bagó</a><br>
+
+                <form name="pr138" action="tolvar.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TOLVAR">
+                </form>
+                <form name="lab138" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr138.submit();">TOLVAR</a> &#149; <a class="rlab" href="javascript:document.lab138.submit();">Bagó</a><br>
+
+                <form name="pr139" action="tonovital-plus-antioxidante-sd.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TONOVITAL PLUS ANTIOXIDANTE SD">
+                </form>
+                <form name="lab139" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr139.submit();">TONOVITAL PLUS ANTIOXIDANTE SD</a> &#149; <a class="rlab" href="javascript:document.lab139.submit();">Bagó</a><br>
+
+                <form name="pr140" action="trama-klosidol.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TRAMA KLOSIDOL">
+                </form>
+                <form name="lab140" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr140.submit();">TRAMA KLOSIDOL</a> &#149; <a class="rlab" href="javascript:document.lab140.submit();">Bagó</a><br>
+
+                <form name="pr141" action="tranquinal.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TRANQUINAL">
+                </form>
+                <form name="lab141" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr141.submit();">TRANQUINAL</a> &#149; <a class="rlab" href="javascript:document.lab141.submit();">Bagó</a><br>
+
+                <form name="pr142" action="trifacilina.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TRIFACILINA">
+                </form>
+                <form name="lab142" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr142.submit();">TRIFACILINA</a> &#149; <a class="rlab" href="javascript:document.lab142.submit();">Bagó</a><br>
+
+                <form name="pr143" action="trifacilina-ibl.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TRIFACILINA IBL">
+                </form>
+                <form name="lab143" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr143.submit();">TRIFACILINA IBL</a> &#149; <a class="rlab" href="javascript:document.lab143.submit();">Bagó</a><br>
+
+                <form name="pr144" action="trifamox.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TRIFAMOX">
+                </form>
+                <form name="lab144" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr144.submit();">TRIFAMOX</a> &#149; <a class="rlab" href="javascript:document.lab144.submit();">Bagó</a><br>
+
+                <form name="pr145" action="trifamox-bronquial.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TRIFAMOX BRONQUIAL">
+                </form>
+                <form name="lab145" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr145.submit();">TRIFAMOX BRONQUIAL</a> &#149; <a class="rlab" href="javascript:document.lab145.submit();">Bagó</a><br>
+
+                <form name="pr146" action="trifamox-bronquial-duo.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TRIFAMOX BRONQUIAL DUO">
+                </form>
+                <form name="lab146" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr146.submit();">TRIFAMOX BRONQUIAL DUO</a> &#149; <a class="rlab" href="javascript:document.lab146.submit();">Bagó</a><br>
+
+                <form name="pr147" action="trifamox-duo.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TRIFAMOX DUO">
+                </form>
+                <form name="lab147" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr147.submit();">TRIFAMOX DUO</a> &#149; <a class="rlab" href="javascript:document.lab147.submit();">Bagó</a><br>
+
+                <form name="pr148" action="trifamox-ibl.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TRIFAMOX IBL">
+                </form>
+                <form name="lab148" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr148.submit();">TRIFAMOX IBL</a> &#149; <a class="rlab" href="javascript:document.lab148.submit();">Bagó</a><br>
+
+                <form name="pr149" action="trifamox-ibl-duo.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TRIFAMOX IBL DUO">
+                </form>
+                <form name="lab149" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr149.submit();">TRIFAMOX IBL DUO</a> &#149; <a class="rlab" href="javascript:document.lab149.submit();">Bagó</a><br>
+
+                <form name="pr150" action="troken.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TROKEN">
+                </form>
+                <form name="lab150" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr150.submit();">TROKEN</a> &#149; <a class="rlab" href="javascript:document.lab150.submit();">Bagó</a><br>
+
+                <form name="pr151" action="tryptanol.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TRYPTANOL">
+                </form>
+                <form name="lab151" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr151.submit();">TRYPTANOL</a> &#149; <a class="rlab" href="javascript:document.lab151.submit();">Bagó</a><br>
+
+                <form name="pr152" action="tyvaso.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="TYVASO">
+                </form>
+                <form name="lab152" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr152.submit();">TYVASO</a> &#149; <a class="rlab" href="javascript:document.lab152.submit();">Bagó</a><br>
+
+                <form name="pr153" action="ulcozol.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ULCOZOL">
+                </form>
+                <form name="lab153" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr153.submit();">ULCOZOL</a> &#149; <a class="rlab" href="javascript:document.lab153.submit();">Bagó</a><br>
+
+                <form name="pr154" action="ulcozol-20.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ULCOZOL 20">
+                </form>
+                <form name="lab154" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr154.submit();">ULCOZOL 20</a> &#149; <a class="rlab" href="javascript:document.lab154.submit();">Bagó</a><br>
+
+                <form name="pr155" action="ulcozol-rapid-20.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ULCOZOL RAPID 20">
+                </form>
+                <form name="lab155" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr155.submit();">ULCOZOL RAPID 20</a> &#149; <a class="rlab" href="javascript:document.lab155.submit();">Bagó</a><br>
+
+                <form name="pr156" action="ulcozol-suspension.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ULCOZOL SUSPENSION">
+                </form>
+                <form name="lab156" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr156.submit();">ULCOZOL SUSPENSION</a> &#149; <a class="rlab" href="javascript:document.lab156.submit();">Bagó</a><br>
+
+                <form name="pr157" action="uroseptal.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="UROSEPTAL">
+                </form>
+                <form name="lab157" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr157.submit();">UROSEPTAL</a> &#149; <a class="rlab" href="javascript:document.lab157.submit();">Bagó</a><br>
+
+                <form name="pr158" action="vixcef.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="VIXCEF">
+                </form>
+                <form name="lab158" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr158.submit();">VIXCEF</a> &#149; <a class="rlab" href="javascript:document.lab158.submit();">Bagó</a><br>
+
+                <form name="pr159" action="zerodol.html" method="post">
+                    <input type="hidden" name="src" value="pr">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="ZERODOL">
+                </form>
+                <form name="lab159" action="srv" method="post">
+                    <input type="hidden" name="src" value="prs">
+                    <input type="hidden" name="mde" value="lab">
+                    <input type="hidden" name="idL" value="21">
+                    <input type="hidden" name="patron" value="Bagó">
+                </form>
+                <a class="rprod" href="javascript:document.pr159.submit();">ZERODOL</a> &#149; <a class="rlab" href="javascript:document.lab159.submit();">Bagó</a><br>
+
+            </p>
+        </td>
+    </tr>
+
+</table>
+                        </div>
+                        <div id="homesep2" class="homesep">
+                            &nbsp;
+                        </div>
+                    </div>
+                    <div id="centrod">&nbsp;</div>
+                </div>
+                <div id="der">
+
+
+<form target="_blank" id="go560" name="go560" action="../link" method="post"><input type="hidden" name="target" value="http://www.calmeva.com.ar"><input type="hidden" name="descripBanner" value="biolcalmeva2dsgif"><input type="hidden" name="seconds" value=""><input type="hidden" name="solapa" value=""><input type="hidden" name="idBanner" value="8"></form><a class="publimg" href="javascript:link('go560');javascript:document.go560.submit();"><img class="publimg" width="155" height="185" alt="" src="http://cdn.alfabeta.net/resources/img/biolcalmeva2ds.gif" ></a>
+<tr>
+    <td>&nbsp;</td>
+</tr>
+<form target="_blank" id="go126" name="go126" action="../link" method="post"><input type="hidden" name="target" value="https://www.dermaglos.com/cuidado-corporal"><input type="hidden" name="descripBanner" value="andromacodermaglosdltwebp"><input type="hidden" name="seconds" value=""><input type="hidden" name="solapa" value=""><input type="hidden" name="idBanner" value="17"></form><a class="publimg" href="javascript:link('go126');javascript:document.go126.submit();"><img class="publimg" width="155" height="185" alt="" src="http://cdn.alfabeta.net/resources/img/andromacodermaglosdlt.webp" ></a>
+<tr>
+    <td>&nbsp;</td>
+</tr>
+<form target="_blank" id="go605" name="go605" action="../link" method="post"><input type="hidden" name="target" value="http://www.urecrem.com"><input type="hidden" name="descripBanner" value="ethicusurecrem2digif"><input type="hidden" name="seconds" value=""><input type="hidden" name="solapa" value=""><input type="hidden" name="idBanner" value="48"></form><a class="publimg" href="javascript:link('go605');javascript:document.go605.submit();"><img class="publimg" width="155" height="185" alt="" src="http://cdn.alfabeta.net/resources/img/ethicusurecrem2di.gif" ></a>
+
+<form name="naf1" action="../actnotas/srv" method="post">
+    <input type="hidden" name="src" value="nt">
+    <input type="hidden" name="idN" value="3">
+</form>
+<table>
+
+<tr>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td>
+        <script type="text/javascript">
+            google_ad_client = "pub-5755819477327598";
+            google_alternate_color = "E7E7E7";
+            google_ad_width = 120;
+            google_ad_height = 240;
+            google_ad_format = "120x240_as";
+            google_ad_channel ="2441015215";
+            google_ad_type = "text";
+            google_color_border = "4783B5";
+            google_color_bg = "FFFFFF";
+            google_color_link = "4783B5";
+            google_color_url = "008000";
+            google_color_text = "000000";
+        </script>
+        <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+        </script>
+    </td>
+</tr>
+<!--
+<tr>
+    <td>
+		<script data-ad-client="ca-pub-7795772191269418" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    </td>
+</tr>
+-->
+<tr>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td><img class="publimg" alt="Actualidad" src="../img/actualidad.gif" ></td>
+</tr>
+<tr>
+    <td>
+        <table style="border-collapse: collapse;">
+            <tr>
+                <td class="nptexto">Investigación</td>
+            </tr>
+            <tr>
+                <td class="tituloderecha"><a class="tituloderecha" href="javascript:document.naf1.submit();">Mientras los casos de COVID-19 siguen aumentando en las Américas, la OPS insta a los países a "tomar nota de las cifras y actuar"</a></td>
+            </tr>
+            <tr>
+                <td class="nptexto">
+                    Dado que el virus "no va a desaparecer pronto", los países deben reforzar las pruebas y la vigilancia, y asegurar que las vacunas lleguen a donde más se necesitan
+                </td>
+            </tr>
+            <tr>
+                <td class="nptexto">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<tr>
+    <td><img class="publimg" alt="Actualidad" src="../img/veatambien.gif" ></td>
+</tr>
+<tr>
+    <td>
+        <table style="border-collapse: collapse;">
+            <tr>
+                <td class="nptexto"><a href="../medicamento/">Vademécum</a></td>
+            </tr><!--
+            <tr>
+                <td class="nptexto"><a href="../interacciones/">Interacciones</a></td>
+            </tr>-->
+            <tr>
+                <td class="nptexto"><a href="../obra-social/">Obras Sociales</a></td>
+            </tr>
+            <tr>
+                <td class="nptexto"><a href="../productos/">Nuestros productos</a></td>
+            </tr>
+        </table>
+    </td>
+</tr>
+</table>
+
+
+                </div>
+                <div id="footer">
+                    <span class="smalltxt">Alfabeta SACIFyS · Melián 3136 (C1430EYP) · Ciudad Autónoma de Buenos Aires · Tel: (5411) 4545-2233 · Mail: <a class="internos" href="mailto:info@alfabeta.net">info@alfabeta.net</a></span>
+<div style="display: none;">
+    <a href="../precio/lista_productos.jsp">Precios Medicamentos</a><br/>
+    <a href="../precio/lista_drogas.jsp">Lista Drogas</a><br/>
+    <a href="../medicamento/vad_producto.jsp">Lista Drogas</a><br/>
+</div>
+                </div>
+            </div>
+            <div id="latder"></div>
+            <div id="sep"></div>
+            <div id="apartado">
+                <table class="footer">
+    <tr>
+        <td class="pieimg">
+            <img class="publimg" alt="Alfa Beta Sistemas" width="100%" src="../resources/img/sistemas.gif" >
+        </td>
+        <td class="pieimg">
+            <img class="publimg" alt="Data Fiscal AFIP" width="100%" src="../resources/img/afip.bmp" usemap="#datafiscal" >
+        </td>
+    </tr>
+    <tr>
+        <td class="pietxt" colspan="2">El contenido de este sitio está protegido por el derecho de propiedad intelectual, encontrándose prohibida su reproducción y distribución total o parcial por el medio que sea.</td>
+    </tr>
+</table>
+<map name="datafiscal">
+        <area shape="rect" coords="150,0,214,89" href="http://qr.afip.gob.ar/?qr=bliTphUjH8pzCP-5P6yg_g,," alt="Alfa Beta">
+        <area shape="rect" coords="240,0,304,89" href="http://qr.afip.gob.ar/?qr=d4J9UvwitQoZ0UIa9UG-Hg,," alt="Alfa Beta Sistemas">
+        <area shape="rect" coords="330,0,394,89" href="http://qr.afip.gob.ar/?qr=dUkv9usbH_F1RA2nhJUkKA,," alt="Talleres Gráficos">
+    </map>
+ <script>$("[name='solapa']").val(window.location.href);</script>
+            </div>
+        </div>
+    </body>
+</html>
