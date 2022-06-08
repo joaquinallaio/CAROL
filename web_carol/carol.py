@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from gcloud import detect_text, predict, get_drugs
 
 with open("style.css") as f:
      st.markdown(f'<style>(f.read())</style>', unsafe_allow_html=True)
@@ -38,7 +39,16 @@ if image is not None:
     st.write("<h3 style='text-align: center; color: white;'>Cargaste tu receta!</h3>", unsafe_allow_html=True)
     st.write("<h5 style='text-align: center; color: light green;'>Continuemos👇🏽</h5>", unsafe_allow_html=True)
 
+    # Detect text
+    word_list = detect_text(image.getvalue())
+    print(word_list)
 
+    st.markdown(word_list)
+    prediction = predict(word_list)
+
+    print('prediction:', prediction)
+
+    st.markdown(get_drugs(prediction))
 
 
 
