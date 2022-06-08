@@ -6,8 +6,8 @@ from google.cloud import vision
 import io
 from jarowinkler import jarowinkler_similarity
 import requests
-
-
+from requests.adapters import HTTPAdapter
+from urllib3.util import Retry
 
 def detect_text(image_file):
     """Detects text in the file."""
@@ -80,9 +80,27 @@ def get_drugs(predicted_words):
     url = "https://appfarmacitymicroservice-prod.azurewebsites.net/api/Medicine/search?filter="
     for word in predicted_words:
         url = url + word + "%20"
-    print(url)
-    proxy = {'https' : 'https://47.245.0.169:80'}
-    print('before request')
-    response = requests.get(url, proxies=proxy, verify=False)
-    print(response.content)
-    return response.content
+    #print(url)
+
+    #print('before request')
+    session = requests.Session()
+    retry = Retry(connect=3, backoff_factor=0.5)
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount('http://', adapter)
+    session.mount('https://', adapter)
+    response = session.get(url)
+
+    prices= []
+    ids = []
+    description = []
+    labs = []
+
+    for drug in response.json():
+        prices.append(drug['publicPrice'])
+        #ids.append(drug['id'])
+        description.append(drug['description'])
+        labs.append(drug['medicalLaboratory']['abbreviation'])
+
+    df = pd.DataFrame(list(zip(description, labs, prices)), columns =['description', 'lab', 'prices'])
+
+    return df
