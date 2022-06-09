@@ -1,0 +1,33 @@
+00001No Clasificada                                    
+00002oral                                              
+00003inyectable IM                                     
+00004inyectable IV                                     
+00005inyectable IM/IV                                  
+00006inyectable SC                                     
+00007nasal                                             
+00008rectal                                            
+00009uso externo                                       
+00010inhalatoria                                       
+00011vaginal                                           
+00012intracavernoso                                    
+00013intraarterial                                     
+00014transdermal                                       
+00015intratecal                                        
+00016combinados                                        
+00017inyectable IV/IM/SC                               
+00018inyectable IM/SC                                  
+00019inyectable IV/SC/intracard¡aca                    
+00020inyectable IV/SC                                  
+00021intratraqueal                                     
+00022inyectable IM/IV/intraarterial                    
+00023intraarticular/intradermico                       
+00024intravesical                                      
+00025epidural                                          
+00026intraarticular                                    
+00027intravaricosa                                     
+00028intraocular                                       
+00030sublingual                                        
+00031sobres con l mina dispersable bucal               
+00032intralesional                                     
+00033endovesical                                       
+00034inyectable                                        

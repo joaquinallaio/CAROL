@@ -1,0 +1,3672 @@
+00001vit.k                           
+00002pripozolina                     
+00003acarbose                        
+00004clotrimazol+dexametasona        
+00005pol¡meros de dextrosa           
+00006atenolol+asoc.                  
+00007ibuprofeno+pseudoefedrina       
+00008oxibenzona                      
+00009pemolina magnesio               
+00010miconazol+asoc.                 
+00011vit.e+asoc.                     
+00012factores de coagulaci¢n         
+00014tegafur                         
+00015clomipramina                    
+00016drotaverina                     
+00017alfuzosina,clorh.               
+00018magnesio                        
+00019magnesio,carbonato+asoc.        
+00020alendronato                     
+00021salmeterol                      
+00022carteolol,clorh.                
+00023bencilhidroflumetiazida         
+00024dexclorfeniramina               
+00025propifenazona+adifenina         
+00026propifenazona+adifenina+code¡na 
+00027heparinoide                     
+00028clortalidona+reserpina          
+00029baclofeno                       
+00030flumetasona+clioquinol          
+00031xilometazolina                  
+00032triben¢sido+lidoca¡na           
+00033pseudoefedrina+asoc.            
+00034trihidroxietilrut¢sidos+asoc.   
+00035veraliprida+bromazepam          
+00036promegestona                    
+00037oxibutinina                     
+00038ginseng+piritinol+asoc.         
+00040mesalazina                      
+00041desmopresina acetato            
+00042tolperisona                     
+00043tolperisona+ibuprofeno          
+00044piroxicam+amoxicilina           
+00045glucomannan+fucus               
+00046mupirocina                      
+00047paroxetina                      
+00048granisetr¢n                     
+00049l ctico, c.+urea+asoc.          
+00050hexetidina+bencidamina          
+00051piroxicam+carisoprodol+asoc.    
+00052flumetasona+salic¡lico, c.      
+00053oxcarbazepina                   
+00054estreptomicina+asoc.            
+00055aceite de pr¡mula               
+00056lomustina                       
+00057megestrol                       
+00058mitomicina                      
+00059carisoprodol                    
+00060aminoglutetimida                
+00061tenip¢sido                      
+00062magnesio+asoc.                  
+00063paracetamol+pseudoefedrina      
+00064pancuronio,bromuro              
+00065quinapril                       
+00066colina,alfoscerato              
+00067etambutol                       
+00068simvastatin                     
+00069paracetamol+fenilefrina+asoc.   
+00070pamidronato dis¢dico+asoc.      
+00071paracetamol+difenhidramina+asoc.
+00072vit.c+vit.e+betacaroteno        
+00073poliacr¡lico, c.                
+00074cetrimida                       
+00075fenilpropanolamina+asoc.        
+00076domperidona+enzimas digest.+asoc
+00077dihidrocodeinona+feniltoloxam   
+00078morfina,clorhidrato             
+00079zinc-piridin-3carboxilato       
+00080sulfadiazina de plata+asoc.     
+00081esbiol+piperonilbut¢xido        
+00082code¡na+asoc.                   
+00083hierro,sulfato+asoc.            
+00084sodio,perborato+asoc.           
+00085epomediol                       
+00086bioaletrina+piperonilbut¢xido   
+00087benzalconio,cloruro             
+00088felodipina                      
+00089goma guar                       
+00090naproxeno+carisoprodol          
+00091bametano+asoc.                  
+00092cefalexina+bromhexina           
+00093escina(extr.cast.de Indias)     
+00094trioxsaleno                     
+00095col geno est‚ril liof.          
+00097alg¡nico, c.+asoc.              
+00098glucuronolactona+asoc.          
+00099iodo                            
+00100hidroquinona+asoc.              
+00101potasio,cloruro+asoc.           
+00102fsh                             
+00103carboximetilcelulosa s¢dica     
+00104alcohol polivin¡lico+asoc.      
+00105dipivefrina,clorhidrato         
+00106cefpirome                       
+00107ipratropio,bromuro+fenoterol    
+00108cromoglicato dis¢dico+asoc.     
+00109globulinas heter¢logas          
+00110lisozima+g‚rmenes               
+00111suero antilinfocitario          
+00112amonio,lactato+asoc.            
+00113pralidoxima                     
+00114metilo,dietilsalicilato         
+00115‚ter                            
+00116gallamina                       
+00117calcio,carbonato+asoc.          
+00118aceite de almendras             
+00119dinoprostona                    
+00120hexametilmelamina               
+00121mequitazina                     
+00122omoconazol                      
+00123piel de oveja                   
+00124mentol+alcanfor                 
+00125propericiazina                  
+00126piracetam                       
+00127hexomedine                      
+00128pefloxacina                     
+00129pipotiazina                     
+00130acebutolol                      
+00131alprostadil                     
+00132espiramicina                    
+00133cromo,tripicolinato             
+00134irinotecan                      
+00135trimipramina                    
+00136metilendioxicin mico, c.3,4     
+00137trazodone                       
+00138vinblastina                     
+00139perindopril                     
+00140sulbutiamina                    
+00141triiodotironina+flumetasona     
+00142levonorgestrel+mestranol        
+00143toxoide tet nico+dift‚rico      
+00144metilendioxicin mico, c.3,4+asoc
+00145aceite de ajo                   
+00146acetilciste¡na                  
+00147lisina,acetilsalicilato         
+00148metilfenidato                   
+00149gentamicina+dexametasona        
+00150acetilsalic¡lico, c.            
+00151iobitridol                      
+00152acetilsalic¡lico, c.+asoc.      
+00154dexametasona+vit.b,complejo     
+00155terazosina                      
+00156tiras reactivas                 
+00157butimerina+asoc.                
+00158saccharomyces boulardii         
+00159progesterona                    
+00161miocamicina                     
+00162ricinoleico, c.triglic‚rido     
+00163hialur¢nico, c.                 
+00164psyllium+asoc.                  
+00165l ctico, c.                     
+00166trimetoprima+polimixina b       
+00167tretino¡na+eritromicina         
+00168ant¡geno hepatitis a            
+00169venlafaxina                     
+00170cinam‚tico, c.                  
+00171clonixinato lisina+vit.b,compl. 
+00172l ctico, c.+urea                
+00173pancreatina                     
+00174epinastina                      
+00175tianeptina                      
+00176mefen mico, c.                  
+00177centella asi tica               
+00178dehidroc¢lico, c.+asoc.         
+00179pygeum africanum+serenoa rep.   
+00180furosemida+amilorida            
+00181potasio,canrenoato              
+00182ranitidina+domperidona          
+00183clonixinato lisina+clorzoxazona 
+00184suero antibotul¡nico            
+00185ipriflavona                     
+00186levodropropizina                
+00187amonio,lactato                  
+00188benzofenona+asoc.               
+00189nalid¡xico, c.                  
+00190bacilos acid¢filos+bacteriof.   
+00191l.r.o.25+vaselina+cera          
+00192nifl£mico, c.                   
+00193dextr n polimerizado            
+00194domperidona+clorazepato         
+00195parsol 1789+asoc.               
+00196acetanilida+asoc.               
+00197gentamicina+metampicilina       
+00198meropenem                       
+00199hialuronato s¢dico              
+00200pipem¡dico, c.                  
+00201metampicilina                   
+00202enzimas digestivas              
+00203enzimas digestivas+asoc.        
+00204noscapina+efedrina+asoc.        
+00205hialuronidasa                   
+00206lisado bacteriano               
+00207glucagon                        
+00208pipem¡dico, c.+fenazopiridina   
+00209anastrozol                      
+00210haemophilus influenz.tipo b+DPT 
+00211teicoplanina                    
+00212hidroxiurea                     
+00213salic¡lico, c.+asoc.            
+00214sodio,bicarbonato+asoc.         
+00215azufre+asoc.                    
+00216diclofenac resinato             
+00217salic¡lico, c.                  
+00218gabapentin                      
+00219rifabutina                      
+00220pirarubicina                    
+00221urea+alfahidroxi cidos          
+00222carmustina                      
+00223metazolamida                    
+00224ti¢ctico, c.+cocarboxilasa      
+00225potasio,acetato                 
+00226zinc,sulfato                    
+00227piridinol+acetilsalicil.ac.     
+00228molibdeno                       
+00229estradiol+prasterona            
+00230algas marinas                   
+00231ajo+vit.c                       
+00232tolfen mico, c.                 
+00233zinc+vit.c+e+betacaroteno       
+00234glucomannan+asoc.               
+00235clonixinato lisina+asoc.        
+00236betametilprednisona             
+00237vit.e                           
+00239undecil‚nico, c.                
+00240undecil‚nico, c.+asoc.          
+00241f¢lico, c.                      
+00242cefoperazona                    
+00243oxitetraciclina+polimixina      
+00244azitromicina                    
+00245sertralina                      
+00246prote¡nas plasm ticas           
+00247antitrombina III                
+00248dihidroxiacetona                
+00249centella asi tica+asoc.         
+00250precursores fibrina humana      
+00251inmunoglobulina a               
+00252col geno+elastina+asoc.         
+00253inhibidor c1-esterasa           
+00254fibrin¢geno humano              
+00255hidroxietil almid¢n             
+00256ursodesoxic¢lico, c.            
+00257aloe vera+asoc.                 
+00258col geno+vit.e+asoc.            
+00259alcohol cet¡lico+asoc.          
+00260nadroparina c lcica             
+00261acebrofilina                    
+00262dipirona+trospio                
+00263vaselina+magnesio,hidr¢x.       
+00264cistina+asoc.                   
+00265acex mico, c.                   
+00266ant¡genos virus influenza       
+00268melatonina                      
+00269vit.d+zinc,¢x.+b¢rico, c.       
+00270oxaprozina                      
+00271eucalipto+pino+niaouli          
+00273algas marinas+potasio,ioduro    
+00275aceites minerales               
+00277hierro+vit.b12+f¢lico, c.+asoc. 
+00278carbociste¡na+asoc.             
+00279piperacilina+tazobactam         
+00280acemetacina                     
+00281suero antitimocitario           
+00282zinc piritiona                  
+00283ciproterona                     
+00284amidotrizoico, c.               
+00285losart n+hidroclorotiazida      
+00286iopodato de sodio               
+00287azelaico, c.                    
+00288acemetacina+clorzoxazona        
+00289lisurida                        
+00291extracto de algas               
+00292prote¡nas+asoc.                 
+00293iopamidol                       
+00294aceite de rosa mosqueta         
+00295difluocortolona                 
+00296acemetacina+prednisolona        
+00297suero antiof¡dico               
+00298gestonorona                     
+00299fluocortolona                   
+00301amidotrizoato de sodio          
+00302cromoglicato s¢dico+salbutamol  
+00303glucosamina                     
+00304acenocumarol                    
+00305ibuprofeno+vit.b12              
+00306loratadina                      
+00307ibuprofeno+ciclonium,br.        
+00308sodio,dibunato                  
+00309polisacaridosulf£rico, c.(‚ster)
+00310dietildioxiestilbestrol         
+00311rutilina                        
+00312goserelin,acetato               
+00313mesna                           
+00314polip‚ptidos+amino cidos        
+00315sodio,cloruro                   
+00316domperidona+bromazepam+simetic. 
+00317gallopamilo                     
+00318ciclopirox                      
+00319prednicarbato                   
+00320cromo,tripicolinato+asoc.       
+00321vit.a+betacaroteno              
+00322condroit¡n,sulfato              
+00323dibekacina                      
+00324pilocarpina+timolol             
+00325didanosina                      
+00327epirubicina                     
+00328idarrubicina                    
+00329lidoca¡na+asoc.                 
+00330citicolina+dihidroergotoxina    
+00331hierro+vit.+minerales+amino cid.
+00332oxaliplatino                    
+00333acetazolamida                   
+00334haemophilus influenz.tipo b     
+00335efedrina                        
+00336glicolmonosalicilato+asoc.      
+00337titanio,di¢xido                 
+00338nilutamida                      
+00339vit.a+vit.d+asoc.               
+00341dipirona+papaver.+homatropina   
+00342camilofina+dipirona             
+00343aqualane+vit.a+col geno         
+00345aluminio,sulfato+asoc.          
+00346simeticona+carb¢n activado      
+00347pirvinio,pamoato+tiabendazol    
+00348calcipotriol                    
+00349glucosa                         
+00350acetilsalic¡lico, c.+vit.c      
+00351code¡na+homatropina,metilbr.    
+00352aluminio,cloruro                
+00353doxazosina                      
+00354dexametasona+astemizol          
+00355bacitracina+neomicina+asoc.     
+00356pseudoefedrina                  
+00357piroxicam+dexametasona+asoc.    
+00360acex mico, c.+neomicina         
+00361clobutinol+ambroxol             
+00362proglumetacina                  
+00363aceite de coco+asoc.            
+00364edetato c lcico+vit.d2+b12      
+00365siliconas                       
+00366aztreonam                       
+00367vit.e+betacaroteno+asoc.        
+00368aciclovir                       
+00369cromo,cloruro                   
+00370aciclovir+interfer¢n            
+00371edetato c lcico+asoc.           
+00374cobre,sulfato                   
+00375paracetamol+astemizol+asoc.     
+00376retinoico, c.                   
+00377paracetamol+fenilefrina         
+00378ergotamina+cafe¡na+asoc.        
+00379cefuroxima                      
+00380vit.b1+vit.b12                  
+00381pantot‚nico, c.+asoc.           
+00382acetilsalic¡lico, c.+cafe¡na    
+00383cinamedrina+acetilsal. c+caf.   
+00384salic¡lico, c.+l ctico, c.      
+00385amilo,salicilato+asoc.          
+00386fludarabina                     
+00388ti¢ctico, c.                    
+00389ti¢ctico, c.+pancreatina+asoc.  
+00390cefoxitina                      
+00391finasteride                     
+00392imipenem+cilastat¡n             
+00393acipimox                        
+00394ganciclovir                     
+00395estradiol+medroxiprogesterona   
+00396doxorubicina                    
+00397fotemustine                     
+00398vinorelbine                     
+00400acth                            
+00401sorbitol+asoc.                  
+00402aceite vegetal+asoc.            
+00403code¡na+efedrina                
+00404praziquantel                    
+00405ceramidas                       
+00406meprednisona                    
+00407betametasona+terfenadina        
+00408adrenalina                      
+00409alanto¡na                       
+00410dermis porcina+asoc.            
+00411gammaglobulina+fenilefrina+asoc.
+00412fenilefrina+clorfeniramina+asoc.
+00413cart¡lago de tibur¢n            
+00414mefenesina+asoc.                
+00415decualinio+benzoca¡na           
+00416adrenalina+atropina             
+00417transretinoico, c.              
+00418diclofenac libre                
+00419aceite de pescado               
+00420lacidipina                      
+00421aceite de germen de trigo       
+00422citrus bioflavon.+digitalina    
+00424albendazol                      
+00425lauro macro gol 400             
+00426hierro+f¢lico, c.               
+00427nafazolina+hidrocortisona       
+00428diclofenac+vit.b,complejo       
+00429fentanilo+droperidol            
+00430anatoxina tet nica y dift‚r.    
+00431piperonal                       
+00432alb£mina humana                 
+00433estroncio                       
+00434pergolida                       
+00435cynara+boldo+mentol             
+00436aceite de h¡gado de bacalao     
+00437tretino¡na                      
+00438alcanfor+asoc.                  
+00439alfametildopa                   
+00440amino cidos+asoc.               
+00441furosemida+amilorida+indapam.   
+00442aceite de primrose              
+00443escina+heparina+fosfol¡pidos    
+00444sevoflurano                     
+00445fentanilo                       
+00446hierro,succinato                
+00447prometazina+asoc.               
+00448glicopirrolato                  
+00449polimixina b+hidrocort.+lidoc.  
+00450bisabolol                       
+00451lindano                         
+00452alizaprida                      
+00453iopromida                       
+00454ruscogenina+lidoca¡na           
+00455sertaconazol                    
+00456allopurinol                     
+00457allopurinol+colchicina          
+00458fenilefrina+tropicamida         
+00459gabob+piritinol                 
+00460lindano+benzoca¡na              
+00461fenolftale¡na+asoc.             
+00462antipirina+sodio,carbonato+asoc.
+00463antipirina+cloramfenicol        
+00464almitrina                       
+00465acetilsalic¡lico, c.+cloramf.   
+00466griseofulvina                   
+00467sodio,borato+asoc.              
+00468tinidazol+miconazol             
+00469sulfadiazina de plata           
+00470ant¡geno hepatitis b            
+00471prote¡nas de soja               
+00472almitrina+raubasina             
+00473levocabastine                   
+00474cortivazol                      
+00475glucoprot.de enterobacterias    
+00476alcanfor+metilo,salicilato+asoc.
+00477naftidrofuril+acetilsal. c.     
+00478dexclorfeniramina+asoc.         
+00479aprotinina                      
+00480aloe vera                       
+00481araquid¢nico, c.+asoc.          
+00482hidroxicloroquina               
+00483nortriptilina                   
+00484lisozima+g‚rmenes+asoc.         
+00485piroxicam+asoc.                 
+00486proca¡na+asoc.                  
+00487efedrina+asoc.                  
+00488alprazolam                      
+00489alprazolam+sulpirida            
+00490estradiol+noretisterona         
+00491dextropropoxifeno+dipirona+asoc.
+00493fluoresce¡na s¢dica             
+00494aluminio,hidr.+magnesio,hidr.   
+00495bisacodilo+simeticona           
+00496aluminio,hidr.+magn.hidr.+simet.
+00497vaselina l¡quida                
+00498hialur¢nico, c.+asoc.           
+00499calcio,carbonato+vit.d3         
+00500fucus                           
+00501vit.b,complejo+asoc.            
+00502benzoca¡na                      
+00503calcio+asoc.                    
+00504alquitr n de hulla+asoc.        
+00505progesterona+etinilestradiol    
+00506homatropina,metilbr.+asoc.      
+00507sodio,lactato                   
+00508llant‚n+sen¢sidos A y B         
+00509manganeso,sulfato               
+00510meperidina                      
+00511sodio,fosfato+asoc.             
+00512natamicina                      
+00513glicerina+asoc.                 
+00514azul de metileno+asoc.          
+00515vit.a+vit.d+vit.b,complejo+asoc.
+00516aceclofenac                     
+00517flumazenil                      
+00518aluminio,flufenamato            
+00519aluminio,fluf.+clorzoxazona     
+00520aluminio,hidr¢xido              
+00521valepotriatos                   
+00522sumatript n                     
+00523difenhidramina+alcanfor+asoc.   
+00524alcanfor+b¢rico, c.+asoc.       
+00525bifonazol+difenhidramina        
+00526alcanfor+benzalconio+asoc.      
+00527c scara sagrada                 
+00528amantadina                      
+00529prote¡nas+grasas+carbohid.      
+00530netilmicina                     
+00531citicolina                      
+00532sodio,nitroprusiato             
+00533triac                           
+00534trietanolamina+asoc.            
+00535ambroxol                        
+00536ambroxol+butamirato+clorfeniram.
+00537vit.+amino cidos+minerales      
+00538diclofenac dietilamina+asoc.    
+00539mucopolisac rido,polisulfato    
+00540cetilpiridinio+asoc.            
+00541tiocol+asoc.                    
+00542cefoperazona+sulbactam          
+00544ambroxol+clembuterol            
+00545sorbitol                        
+00546ambroxol+paracetamol+asoc.      
+00547hialuronato s¢dico+asoc.        
+00548fleroxacina                     
+00549metilo,salicilato+asoc.         
+00550vit.e+vit.a+asoc.               
+00551bromhexina+asoc.                
+00552amcinonida                      
+00553carbinoxamina+asoc.             
+00554risperidona                     
+00555polen+asoc.                     
+00556galactomanano+asoc.             
+00557plasma vacuno+asoc.             
+00558ginseng+asoc.                   
+00559aminofilina+asoc.               
+00560amezinium                       
+00561cefepime                        
+00562gentamicina+benzoca¡na+asoc.    
+00564sodio,hipoclorito+asoc.         
+00565antralina                       
+00566bismuto resorcina+asoc.         
+00567pramoxina+zinc,¢xido+asoc.      
+00568amikacina                       
+00569ciproheptadina+asoc.            
+00570cloroxilenol                    
+00571oxipoligelatina                 
+00572sulfacetamida s¢dica+asoc.      
+00573aceite de citronela             
+00574detergentes hipoalerg‚nicos     
+00575gluconolactona                  
+00576amineptino                      
+00577col geno+asoc.                  
+00578ibuprofeno+clorzoxazona         
+00579aceite de cade+asoc.            
+00580nitrofuranto¡na+tetraca¡na      
+00581sodio,acexamato+cetrimonio,br   
+00582antipirina                      
+00583hidrotalcita                    
+00584amino cidos                     
+00585bicalutamida                    
+00586salbutamol+beclometasona        
+00587clonidina+clortalidona          
+00589benzo¡lo,per¢xido+asoc.         
+00591lactosa+asoc.                   
+00592amino cidos+vit.b,complejo      
+00593ti¢ctico, c.+vit.b12            
+00594esmolol                         
+00595glucoprot.de k.pneumoniae       
+00596bleomicina                      
+00597glucomannan                     
+00598cardo mariano+asoc.             
+00599bromperidol                     
+00600terpineol+eucaliptol+asoc.      
+00601glutaraldeh¡do                  
+00602fluoximesterona+vit.e+asoc.     
+00603calcio,gluconato+asoc.          
+00604ciproheptadina+calcio+asoc.     
+00605c scara sagrada+asoc.           
+00606clozapina                       
+00607alcoderm                        
+00608ortiga+asoc.                    
+00609tirotricina+benzoca¡na+asoc.    
+00610metformina+glibenclamida        
+00611jalea real+vit.+minerales       
+00612nabumetona                      
+00613torasemida                      
+00614nitrazepam+asoc.                
+00615carbomer 934 P                  
+00616amino cidos+vit.b12             
+00617ceftibuten                      
+00618cefatrizina                     
+00619polen,extracto                  
+00620dipirona+clorpromazina          
+00621zinc,¢xido+asoc.                
+00622inmunoglobulina anticitomegalov.
+00623calcio,cloruro                  
+00624aminocaproico, c.               
+00625iopanoico, c.                   
+00626triglic‚ridos cad.media+asoc.   
+00627aceite de peppermint            
+00628aminofilina                     
+00629tuberculina                     
+00630dactinomicina                   
+00631siliconas+asoc.                 
+00632amiodarona                      
+00633warfarina                       
+00634octatropina+dipirona            
+00635amisulprida                     
+00636doxepina                        
+00637vit.a+alanto¡na+asoc.           
+00638coaltar+urea+alanto¡na          
+00639difenilhidanto¡na+asoc.         
+00640amitriptilina                   
+00641penicilamina                    
+00642ticarcilina+clavul nico, c.     
+00643selegilina                      
+00644sultamicilina                   
+00645dimetilsulf¢xido                
+00646tubocurarina                    
+00647rimantadina                     
+00648amlodipina                      
+00649pirrolidoncarbox¡lico, c.       
+00650tintura pelitre+asoc.           
+00651carbamida+rosa mosqueta         
+00652mefloquina                      
+00653amoxapina                       
+00654amoxicilina                     
+00655calamina+difenhidramina+asoc.   
+00656amoxicilina+asoc.               
+00657pantenol+asoc.                  
+00658fibras+vit.b6+vit.c             
+00659amino cidos azufrados+asoc.     
+00660rifampicina+isoniacida+pirazinam
+00661olsalazina                      
+00662betametasona+salic¡lico, c.     
+00663g‚rmenes liofilizados           
+00664hexetidina                      
+00665interfer¢n alfa 2 A             
+00666pantoprazol                     
+00667mometasona                      
+00668fenilpropanolamina              
+00669cloroxilenol+asoc.              
+00670sodio,fluoruro+asoc.            
+00671sotalol                         
+00672amoxicilina+ambroxol            
+00673desonida                        
+00674azelastina                      
+00675ibuprofeno+ergotamina+cafe¡na   
+00676amoxicilina+clavul nico, c.     
+00677etiladrianol                    
+00678clotiapina                      
+00679cloranfenicol+dexametasona      
+00680amoxicilina+diclofenac          
+00681fenofibrato+asoc.               
+00682colfoscerilo                    
+00683azufre                          
+00684isradipina                      
+00685amoxicilina+bromhexina          
+00686mazindol+asoc.                  
+00687cadex¢mero iodado               
+00688amoxicilina+sulbactam           
+00689interfer¢n alfa 2 B             
+00690butoconazol                     
+00691potasio,nitrato+asoc.           
+00692sodio,monofl£or fosfato         
+00693fluticasona                     
+00694ginkgo biloba+vit.e+asoc.       
+00696amoxicilina+probenecid          
+00697foscarnet                       
+00698interfer¢n beta                 
+00699coenzima Q-10                   
+00700fus¡dico, c.                    
+00701pirilamina+asoc.                
+00702aluminio,silicato+asoc.         
+00703cisapride+simeticona            
+00704mentol                          
+00705clomifeno                       
+00706ginseng+minerales               
+00707gramicidina+neomicina+asoc.     
+00708aceite de salm¢n                
+00709naloxona                        
+00710ampicilina                      
+00711citalopram                      
+00712serenoa repens+asoc.            
+00713griseofulvina+neomicina+asoc.   
+00714hexaclorofeno+asoc.             
+00715hierro,fumarato                 
+00716policarb¢filo  cido             
+00717amifostina                      
+00718filtrado de Pseudomonas         
+00719zinc,undecilenato+asoc.         
+00720bixa orellana+asoc.             
+00721zalcitabina                     
+00722glic¢lico, c.                   
+00723emepronio,carragenato           
+00724fibra+asoc.                     
+00725olig¢meros procianid¢l.+pentoxif
+00726inmunoglobulina antirr bica     
+00727piritinol                       
+00728cladribina                      
+00729neomicina+nafazolina+asoc.      
+00730antipirina+efedrina+asoc.       
+00731losart n                        
+00732zolpidem                        
+00733cresol+azufre                   
+00734triclorocarbanilida+asoc.       
+00735soja,lecitina+asoc.             
+00736ampicilina+asoc.                
+00737cart¡lago bovino+asoc.          
+00738alanto¡na+asoc.                 
+00739urea+asoc.                      
+00740garlico, c.+asoc.               
+00741yohimbina+asoc.                 
+00742glicoprote¡nas+ribosomas        
+00743potasio,citrato                 
+00744ampicilina+diclofenac           
+00745g‚rmenes+vit.c                  
+00746stavudina                       
+00747tranilcipromina+trifluoperazina 
+00748polisac ridos de gram(-)        
+00749benzalconio,cloruro+asoc.       
+00750salbutamol+ipratropio,br.       
+00751nortriptilina+asoc.             
+00752fus¡dico, c.+betametasona       
+00753apraclonidina                   
+00754selenio                         
+00755l ctico, c.+asoc.               
+00756b¢rico, c.+asoc.                
+00757terbinafina                     
+00758vit.a+asoc.                     
+00759molgramostim                    
+00760timomodulina                    
+00761fibras+minerales                
+00762trans-aletrina+asoc.            
+00763ranitidina citrato de bismuto   
+00764penicilina                      
+00765fenofibrato                     
+00766gentamicina+asoc.               
+00767melatonina+asoc.                
+00768flunisolida                     
+00769metionina+cistina               
+00770amorolfina                      
+00771tacrolimus                      
+00772estradiol+ciproterona           
+00773proca¡na+vinpocetina+asoc.      
+00774carotenos hidrosolubles         
+00775selenioso, c.                   
+00776sodio,fosfato                   
+00777quina,extracto+asoc.            
+00778amrinona                        
+00779buprenorfina                    
+00780anfotericina B                  
+00781hidrocortisona+vit.a+asoc.      
+00782placenta,extracto               
+00783coaltar+asoc.                   
+00784psyllium                        
+00785metaraminol                     
+00786prednisona                      
+00787estevi¢sido                     
+00789ketoconazol+asoc.               
+00790homatropina                     
+00791terlipresina                    
+00792amiloca¡na+asoc.                
+00793fenilalanina+asoc.              
+00794acetilcolina                    
+00795carbacol                        
+00796cefodizima                      
+00797astemizol+ambroxol+asoc.        
+00798paracetamol+dipirona            
+00799perfenazina+amitriptilina       
+00800mucopolisac ridos+asoc.         
+00801idebenona+vit.e                 
+00802clodronato dis¢dico             
+00803tropisetr¢n                     
+00804polimixina b+neomicina+asoc.    
+00805propanidida                     
+00806acitretina                      
+00807difluocortolona+asoc.           
+00808ant¡genos                       
+00809hidralazina                     
+00810ant¡genos+asoc.                 
+00811filgrastim                      
+00812acetilcarnitina                 
+00813bifemelano                      
+00814niftolida                       
+00815betacaroteno                    
+00816alfametildopa+asoc.             
+00817pygeum africanum+asoc.          
+00818sodio,benzoato+asoc.            
+00819metoxsaleno                     
+00820carbinoxamina                   
+00821borotrioxibenzoico, c.          
+00822pepsina+asoc.                   
+00823ioversol                        
+00824cefpodoxima                     
+00825potasio,orotato                 
+00826potasio,orotato+asoc.           
+00827levadura de cerveza             
+00828mefen mico, c.+asoc.            
+00829aniracetam                      
+00830decualinio+asoc.                
+00831silimarina+asoc.                
+00832antraquinona                    
+00833ambay+asoc.                     
+00834papa¡na+asoc.                   
+00835pentamidina                     
+00836colina+asoc.                    
+00838alfalfa natural                 
+00840apolato sod.+bencilo,nicotinato 
+00841prop¢leo de abeja               
+00842buclicina+vit.b6                
+00843pravastatina                    
+00844noretisterona+etinilestradiol   
+00845suprofen                        
+00846diaz¢xido                       
+00847diatomea+asoc.                  
+00848arginina                        
+00849felbamato                       
+00850arginina,n-acetil asparaginato  
+00851spirulina                       
+00852boldo+asoc.                     
+00853parsol MCX+asoc.                
+00854fentolamina                     
+00855valeriana+asoc.                 
+00856jalea real                      
+00857acex mico, c.+asoc.             
+00858eritrosina                      
+00859retinoico, c.+asoc.             
+00860fluoresce¡na s¢dica+asoc.       
+00861octreotida                      
+00862prednisolona+asoc.              
+00863prote¡nas+minerales             
+00864selenio,sulfuro                 
+00865salvado de trigo                
+00866docetaxel                       
+00867paracetamol+piroxicam+asoc.     
+00868ciclox¡lico, c.                 
+00869promestriene                    
+00870ppg-policosanol                 
+00871diacere¡na                      
+00872aspartamo                       
+00873trifluoperazina                 
+00874extracto de cart¡lago           
+00875etinilestradiol+norgestimato    
+00876loratadina+pseudoefedrina       
+00877somatostatina                   
+00878vacuna polimicrob.polimic¢t.    
+00879hierro                          
+00880astemizol                       
+00881astemizol+asoc.                 
+00882fosfol¡pidos+asoc.              
+00883amino cidos+calcio+magnesio     
+00884alfalfa+asoc.                   
+00885vit.a+bencetonio,cl.+asoc.      
+00886paclitaxel                      
+00887triglic‚ridos                   
+00888atapulgita+pectina+asoc.        
+00889uroquinasa                      
+00890meglumina,ioxitalamato+asoc.    
+00891pramipexol                      
+00892timopentina                     
+00893bario,sulfato+asoc.             
+00894carbetapentano+terpina          
+00895estroncio,cloruro+asoc.         
+00896atenolol                        
+00897imiquimod                       
+00898tioconazol                      
+00899tioconazol+asoc.                
+00900levoglutamina+vit.b6+asoc.      
+00901nimorazol+clotrimazol           
+00902aluminio,hidr.+asoc.            
+00903fluocortolona+asoc.             
+00904atracurio,besilato              
+00905clorhexidina+asoc.              
+00906valeriana                       
+00907clorpromazina+asoc.             
+00908fibras+prote¡nas+asoc.          
+00909eprazinona                      
+00910paraminobenzoico, c.            
+00911gemtuzumab-ozogamicin           
+00912nomegestrol                     
+00914nifl£mico, c.+orfenadrina       
+00915lanolina                        
+00916antocian¢sidos                  
+00917duasorb                         
+00918dextr n+hidroxipropilmetilcel   
+00919alcoderm+asoc.                  
+00920atropina,sulfato                
+00921aceite de purcelina+asoc.       
+00922dnasa humana recombinante       
+00923interfer¢n gamma                
+00924vit.+asoc.                      
+00925calcio+vit.d                    
+00926enoxaparina                     
+00927capsicina                       
+00928auranofin                       
+00929neomicina+hidrocortisona+asoc.  
+00930trans-aletrina                  
+00931s-adenosil-l-metionina+vit.b12  
+00934bendroflumetiazida+asoc.        
+00935colina,orotato                  
+00936sodio,aurotiosulfato            
+00937clobetasol+neomicina+nistatina  
+00938peg 3350                        
+00939yohimbina                       
+00940pulpa de frutas+asoc.           
+00941ibuprofeno+dexametasona+asoc.   
+00942glicerina cr¢mica               
+00943meglumina,ioxagalato+asoc.      
+00944azapropazona                    
+00945lamotrigina                     
+00946l¡pidos marinos                 
+00947octopirox                       
+00948betanechol,cloruro              
+00949meglumina,diatrizoato           
+00950prote¡nas                       
+00951benzobromarona                  
+00952azatioprina                     
+00953vit.c+vit.e+betacaroteno+asoc.  
+00954lidoca¡na+hidrocortisona+asoc.  
+00955fluvastatina                    
+00956cefprozil                       
+00957etidronato dis¢dico             
+00958estramustina                    
+00959cincoca¡na,clorh.+asoc.         
+00960diritromicina                   
+00961zinc piritiona+asoc.            
+00962alfahidroxi cidos               
+00963aceite de pr¡mula+ac.de pescado 
+00964ciproterona+etinilestradiol     
+00965nimesulida+orfenadrina          
+00966nimodipina+citicolina           
+00967diazepam+simeticona+asoc.       
+00968carbamida,per¢xido              
+00969lansoprazol                     
+00970calcio,alginato                 
+00971trandolapril                    
+00972leflunomida                     
+00973hip‚rico                        
+00974vecuronio,brom.                 
+00975terbutalina                     
+00976fludrocortisona                 
+00977lactitol                        
+00978protirelina                     
+00979bifonazol+urea                  
+00980oxeladina+reproterol            
+00981dextropropoxifeno               
+00982tacrine                         
+00983meglumina,gadoterato            
+00984mivacurium,clorh.               
+00985micofenolato mofetil            
+00986sodio,monofl£or fosfato+asoc.   
+00987enoxacina                       
+00988paracetamol+carisoprodol        
+00989paracetamol+dexametasona+asoc.  
+00990valaciclovir                    
+00991loratadina+betametasona         
+00992zuclopentixol                   
+00993minerales                       
+00995fluvoxamina                     
+00996aceite de arachis+asoc.         
+00997meloxicam                       
+00998ciclosporina p/microemulsi¢n    
+00999clobetasona+neomicina           
+01000condroit¡n,sulfato+asoc.        
+01001octopirox+asoc.                 
+01002ceramidas+asoc.                 
+01003gemcitabina                     
+01004abciximab                       
+01005lenograstin                     
+01006bametano                        
+01007agua de hamamelis               
+01008triflusal                       
+01009cera de abejas+asoc.            
+01010hexoprenalina                   
+01011adapaleno                       
+01012glimepiride                     
+01013beta¡na+asoc.                   
+01014agua termal+asoc.               
+01016dorzolamida                     
+01017extractos vegetales+asoc.       
+01018ritonavir                       
+01019ginseng+amino cidos fosf.+asoc. 
+01020dietanolamina l urica+asoc.     
+01021coenzima Q-10+asoc.             
+01022barbexaclona                    
+01023hierro+vitaminas                
+01024tretino¡na+asoc.                
+01025garcinia cambogia               
+01026extracto de palta-soja          
+01027tamsulosina                     
+01028lactobacilos                    
+01029papaverina                      
+01030bario,sulfato                   
+01031memantine                       
+01032spirulina+asoc.                 
+01033glic¢lico, c.+asoc.             
+01034gramicidina+neomicina           
+01035lamivudina                      
+01036retinal                         
+01037hidrosmina                      
+01038beclometasona                   
+01039riluzol                         
+01040valsart n                       
+01041desflurano                      
+01042clorhexidina+xilitol            
+01043reviparina                      
+01044talco+asoc.                     
+01045troxerrutina                    
+01046belladona+asoc.                 
+01047cisapride+simeticona+asoc.      
+01049piroxicam á-ciclodextrina       
+01050quinina,sulfato                 
+01051globulina antilinfocitaria T Hn 
+01052d-fenotrin                      
+01053zolmitript n                    
+01055triclos n+asoc.                 
+01056cart¡lago de tibur¢n+asoc.      
+01057aceites sulfonados compuestos   
+01058uridina 5'monofosf.             
+01059virus atenuados sarampi¢n       
+01060virus atenuados rub‚ola         
+01061virus atenuados fiebre amarilla 
+01062salcatonina                     
+01063nevirapina                      
+01064mirtazapina                     
+01065alprazolam+domperidona+asoc.    
+01066ac‚tico, cido                   
+01067podofilox                       
+01068ginkgo biloba+asoc.             
+01069coaxel+asoc.                    
+01070omeprazol+amoxicilina           
+01071cabergolina                     
+01072tegafur+uracilo                 
+01073cilostazol                      
+01074eritrosina+asoc.                
+01075mibefradil                      
+01076trimetrexato                    
+01077calcio,citrato                  
+01078benfluorex                      
+01079bromhexina+code¡na+asoc.        
+01080unoprostona isoprop¡lica        
+01081toremifeno                      
+01082dexibuprofeno                   
+01083astemizol+pseudoefedrina        
+01084latanoprost                     
+01085teofilina                       
+01086benoxinato                      
+01087acetil aspartil glut mico, c.   
+01088olanzapina                      
+01089aminexil                        
+01090cal‚ndula+asoc.                 
+01091cisatracurium                   
+01092inosina,monofosfato dis¢dico    
+01093topotecan                       
+01094bencidamina,clorhidrato         
+01095topiramato                      
+01096extracto de ajo+asoc.           
+01097difenilhidanto¡na               
+01098copol¡mero-1                    
+01099teofilina+efedrina              
+01100norfloxacina+fenazopiridina     
+01101brimonidina                     
+01102fexofenadina                    
+01103insulina humana modificada      
+01104flavoxato+propifenazona         
+01105glicirric¡nico, c.              
+01106glic¢lico, c.+hidroquinona      
+01107tazarotene                      
+01108apomorfina                      
+01109mexoryl SX+asoc.                
+01110benzoca¡na+asoc.                
+01111dextrometorfano                 
+01112zafirlukast                     
+01113cerivastatin                    
+01114hidrato de cloral               
+01115tolcapone                       
+01116avena+asoc.                     
+01117didrogesterona                  
+01118trietanolamina,salicilato       
+01119dihidroxiacetona+asoc.          
+01120erdoste¡na                      
+01121perejil+asoc.                   
+01122antipirina+sodio,carbonato      
+01123formoterol                      
+01124ebastine                        
+01125ramipril+hidroclorotiazida      
+01126naltrexona                      
+01127al‚rgenos de dermatofagoides    
+01128espiramicina+metronidazol       
+01129proteocondroit¡n sulfato A      
+01130aceite de almendras+vit.e       
+01131atorvastat¡n                    
+01132zinc,¢xido                      
+01133fosfomicina trometamol          
+01134calcio,acetato                  
+01135hierbas medicinales+vitaminas   
+01136asiaticoside                    
+01137polividona                      
+01138lomefloxacina                   
+01139ferum¢xido                      
+01140arbekacina                      
+01141oxicodona                       
+01142benzo¡lo,per¢xido               
+01143pentosan polisulfato            
+01144iohexol                         
+01145gadodiamida                     
+01146agar-agar+asoc.                 
+01147garum arm¢ricum                 
+01148formestane                      
+01149omeprazol+asoc.                 
+01150glicina+asoc.                   
+01151lisina,acetilsalicilato+asoc.   
+01152melatonina+vit.b6               
+01153colina,salicilato               
+01154garcinia cambogia+asoc.         
+01155factor IX                       
+01156anti-inhibidor factor VIII      
+01157avena                           
+01158iodoformo                       
+01159limeciclina                     
+01160galactosa+palm¡tico,ac.         
+01161sodio,hipoclorito               
+01163tetraca¡na+asoc.                
+01165levofloxacina                   
+01166irbesart n                      
+01167rivastigmina                    
+01168olopatadine                     
+01169letrozol                        
+01170beta-alanina+oxazepam           
+01171omeprazol+amoxicil.+claritromic.
+01173diclofenac s¢dico+code¡na       
+01174beta-sitosterol                 
+01175calamina+difenhidramina         
+01176oligoelementos                  
+01177hidroquinona                    
+01178 cidos grasos de coco+asoc.     
+01179miltefosina                     
+01180fosfestrol                      
+01181fracc.inmunomodul.de E.Coli     
+01182betametasona                    
+01183carbamida,per¢xido+fl£or        
+01184montelukast                     
+01185valsart n+hidroclorotiazida     
+01186cetirizina+pseudoefedrina       
+01187aceite de pescado+asoc.         
+01188candesart n cilexetil           
+01189aluminio,clorhidr¢xido+asoc.    
+01190betametasona+asoc.              
+01191betametasona+clioquinol         
+01192betametasona+neomicina          
+01193delavirdina                     
+01194levonorgestrel+estradiol        
+01195peg 3350+asoc.                  
+01196poliestiren sulfonato c lcico   
+01197virus atenuados parotiditis     
+01198virus atenuados varicela        
+01199metadona                        
+01200metilo,salicilato               
+01201triticum vulgare+asoc.          
+01202aluminio,cloruro+asoc.          
+01203vit.b6+asoc.                    
+01204remifentanil                    
+01205orlistat                        
+01206betametasona+fenilefrina        
+01207hidroximetilquinoleina          
+01208verapamilo+trandolapril         
+01209hidrocoloide                    
+01210raltitrexida                    
+01211hidrocoloides+propilenglicol    
+01212raloxifeno                      
+01213sildenafil                      
+01214betametasona+gentamicina        
+01215bromelina+rutina+asoc.          
+01216mecobalamina                    
+01217lamivudina+zidovudina           
+01218flavonoides+asoc.               
+01219fructosa                        
+01220aceite de h¡gado de tibur¢n     
+01221nefazodone                      
+01222betametasona+gentamicina+asoc.  
+01223tacalcitol                      
+01224semilla de uva,extr.            
+01225oximetazolina+hialuronato s¢dico
+01226bismuto,subsalicilato           
+01227ant¡geno hepatitis a y b        
+01228ropinirol                       
+01229hilano G-F 20                   
+01230betaxolol                       
+01231ivermectina                     
+01232bacitracina                     
+01233estr¢genos conj.+medroxiprogest.
+01234estr.conj/estr.conj+medroxiprog.
+01235bezafibrato                     
+01236donepecilo                      
+01237semilla de uva,extr.+asoc.      
+01238bifonazol                       
+01239loperamida+simeticona           
+01240azasetr¢n                       
+01241tolterodina                     
+01242metilprednisolona,aceponato     
+01244pl ntago ovata                  
+01245iloprost                        
+01246biperideno                      
+01247basiliximab                     
+01248leucocianidol                   
+01249dorzolamida+timolol             
+01250homatropina,metilbr.+simeticona 
+01251quetiapina                      
+01253factor VII                      
+01254bisacodilo                      
+01255cumarina                        
+01257vit.a+alfahidroxi cidos         
+01259sodio,dioctilsulfosuccinato     
+01260miglio+asoc.                    
+01261ruibarbo,extr.+salic¡lico, c.   
+01262bisacodilo+asoc.                
+01263sibutramina                     
+01264rizatriptan                     
+01265betametasona+salic¡lico, c.+asoc
+01266fluocinolona+asoc.              
+01267rilmenidina                     
+01268ac‚tico, cido+asoc.             
+01269betacaroteno+asoc.              
+01270fucus+asoc.                     
+01271aluminio,clorhidr¢xido          
+01272 cidos nucleicos                
+01273triclorocarbanilida             
+01274oxibenzona+asoc.                
+01275cetrimonio,cloruro              
+01276aluminio,dihidroxialant.+asoc.  
+01277aceite de joboba+palta+asoc.    
+01279mexoryl SX                      
+01280tiludronato                     
+01281clometiazol                     
+01282hamamelis+asoc.                 
+01283pentano+butano                  
+01284clopidogrel                     
+01285carnitina+asoc.                 
+01286bismuto,hidr¢xido+pectina       
+01287sulfadiazina                    
+01288guaran                          
+01289guaran +asoc.                   
+01290lupines                         
+01291lupines+asoc.                   
+01292galactosa                       
+01293creatina                        
+01294bismuto,subsalicilato+asoc.     
+01295hidrocodona+paracetamol         
+01296hidromorfona                    
+01297oxicodona+paracetamol           
+01298naratript n                     
+01299creatina+ATP+asoc.              
+01300levonorgestrel                  
+01301brinzolamida                    
+01302bromazepam                      
+01303fexofenadina+pseudoefedrina     
+01304hioscina,n-butilbr.+ibuprofeno  
+01305cimicifuga                      
+01306escina+dietilamina salicilato   
+01307magnesio,salicilato             
+01308trovafloxacina                  
+01309permetrina+asoc.                
+01311 cidos grasos                   
+01312hexamidina                      
+01313diclofenac dietilamonio         
+01314mebeverina                      
+01315nitazoxanida                    
+01317reteplase                       
+01318bromhexina                      
+01319bromhexina+difenhidramina+asoc. 
+01320piribedil                       
+01321amobarbital+asoc.               
+01322rocuronio,brom.                 
+01323rabeprazol                      
+01324celecoxib                       
+01325toxina botul¡nica tipo a        
+01326bromhexina+oxeladina            
+01327ciste¡na                        
+01328bupropi¢n                       
+01329abacavir                        
+01330ajo                             
+01331diclofenac colestiram¡nico      
+01332adenosina                       
+01333noradrenalina                   
+01334amlodipina+benazepril           
+01335mentol+asoc.                    
+01336palivizumab                     
+01337nadifloxacina                   
+01338glutamina,dip‚ptido             
+01339emolientes naturales            
+01340eptifibatide                    
+01341ibuprofeno+mentol               
+01342bromocriptina                   
+01343fosfol¡pidos                    
+01344rofecoxib                       
+01345eucalipto                       
+01346budesonide                      
+01347telmisart n                     
+01348lansoprazol+amoxicil.+claritrom.
+01349bufexamac                       
+01350buflomedil                      
+01351creatina+asoc.                  
+01352ajo+perejil                     
+01353isoflavonas de soja             
+01354enoxolona+asoc.                 
+01355nafarelina                      
+01356milrinona                       
+01357calcio,citrato+vit.d3           
+01358buflomedil+diosmina             
+01359racecadotril                    
+01360litio,succinato+asoc.           
+01361dexametasona+polimix.+trimetrop.
+01362paracetamol+pseudoefedrina+asoc.
+01363bisoprolol+hidroclorotiazida    
+01364poliacr¡lico, c.+vit.a          
+01365temozolomida                    
+01366ar ndano                        
+01367reboxetina                      
+01368enalapril+diltiazem             
+01369ciprofloxacina+hidrocortisona   
+01371mexoryl XL+asoc.                
+01372almid¢n de ma¡z modificado      
+01373alverina                        
+01374alverina+simeticona             
+01375alverina+sterculia              
+01376sulconazol                      
+01377isosorbide,mononitrato+aspirina 
+01378citrulina                       
+01380perindopril+indapamida          
+01381hidroxipropilmetilcelulosa      
+01382bumetanida                      
+01383b lsamo de tol£+asoc.           
+01384furfuryladenine                 
+01385bupivaca¡na                     
+01386maltodextrina                   
+01387gelatina modificada             
+01389xilitol+asoc.                   
+01390busereline                      
+01391aceite de rosa mosqueta+asoc.   
+01392pantotenato de calcio+asoc.     
+01393minoxidil+finasteride           
+01394capecitabina                    
+01396Pseudomona a.,polisac ridos     
+01397mentol+alcanfor+asoc.           
+01398busulfano                       
+01399metamizol magn‚sico             
+01401tirofiban                       
+01402nicorandil                      
+01403repaglinida                     
+01404etanercept                      
+01405tibenzonio,ioduro               
+01406butamirato,citrato              
+01407fominoben+bromhexina            
+01408mofezolac                       
+01409diltiazem+hidroclorotiazida     
+01410amoxicilina+clonixinato lisina  
+01411amoxicilina+lansoprazol         
+01412cefuroxima+acetilciste¡na       
+01413irbesart n+hidroclorotiazida    
+01414triglic‚ridos+asoc.             
+01415ti¢ctico, c.+magnesio+asoc.     
+01416eritromicina+benzo¡lo,per¢xido  
+01418felbinac                        
+01419telmeste¡na                     
+01420propentofilina                  
+01421trepibutona                     
+01422hioscina,n-butilbr.+dipirona    
+01423piketrofeno                     
+01424ciproheptadina                  
+01425bisoprolol                      
+01426oxiracetam                      
+01427rosiglitazona                   
+01428betahistina                     
+01429mentol+pectina                  
+01430hioscina,n-butilbr.+paracetamol 
+01431moxifloxacina                   
+01432alcohol diclorobenc¡lico+asoc.  
+01433buzepida+clocinizina+asoc.      
+01434hierbas+miel                    
+01435gatifloxacina                   
+01436fenazopiridina                  
+01437milnacipran                     
+01438famciclovir                     
+01439melaleuca alternifolia          
+01440biotina                         
+01441amprenavir                      
+01442oseltamivir                     
+01443dimeticona                      
+01444copol¡mero de acrilato+asoc.    
+01445acamprosato de calcio           
+01446imidapril                       
+01447oprelvekin                      
+01448ibuprofeno+asoc.                
+01449cobre,oleato                    
+01450mosapride                       
+01451hidroxipropilmetilcelulosa+asoc.
+01452zinc+vit.c                      
+01453metipranolol                    
+01454metipranolol+asoc.              
+01455dexpantenol+asoc.               
+01457zanamivir                       
+01458carbomer 974 P                  
+01459benazepril                      
+01460quinapril+hidroclorotiazida     
+01461lornoxicam                      
+01462sirolimus                       
+01463agua de hamamelis+asoc.         
+01464mizolastina                     
+01465risedronato                     
+01466octocrileno+Parsol 1789         
+01467trospio,cloruro                 
+01468cafe¡na                         
+01469amonio,estearato                
+01470nelfinavir                      
+01471prote¡nas de suero de leche     
+01472prote¡nas de suero de queso     
+01473loteprednol,etabonato           
+01474glutamina                       
+01475col geno tipo II+asoc.          
+01476calcio                          
+01477interfer¢n alfa 2 B pegilado    
+01478calcio,carbonato                
+01479zalepl¢n                        
+01480candesart n+hidroclorotiazida   
+01481aspartamo+acesulfame k          
+01482epoprostenol                    
+01483galantamina                     
+01484modafinilo                      
+01485nateglinida                     
+01486calcio,gluconato                
+01487cinitaprida                     
+01488linezolid                       
+01489butenafina                      
+01490acetil mand‚lico, c.            
+01491gluconolactona+asoc.            
+01492calcio+vit.c                    
+01493bacilus subtillis               
+01494dexmedetomidina                 
+01495commiphora mukul                
+01496ruscogenina+hesperidina+asoc.   
+01497timosin alfa-1                  
+01498lercanidipina                   
+01499vit.e natural                   
+01500calcio auroqueratinato          
+01508calcitonina                     
+01516cantaxantina                    
+01524captopril                       
+01540carbamazepina                   
+01548carb¢n activado                 
+01564carboplatino                    
+01572carboximetilciste¡na            
+01580carboximetilciste¡na+amoxicilina
+01583carboximetilciste¡na+dextrometor
+01592carqueja,extracto               
+01594carvedilol                      
+01604casta¤o de indias+asoc.         
+01620catalin+asoc.                   
+01636cefaclor                        
+01644cefadroxilo                     
+01652cefadroxilo+ambroxol            
+01676cefalexina                      
+01730cefalotina                      
+01735cefazolina                      
+01740cefixima                        
+01742cefotaxima                      
+01744cefradina                       
+01746ceftazidima                     
+01747ceftizoxima                     
+01748ceftriaxona                     
+01752celulosa+agar-agar              
+01758cetirizina                      
+01764prasterona+proca¡na+asoc.       
+01780dipirona+vit.b12                
+01787ciclobenzaprina                 
+01788ciclofosfamida                  
+01796ciclonamina                     
+01804ciclopentolato                  
+01808ciclopiroxolamina               
+01820ciclosporina                    
+01828cilazapril                      
+01835cimetidina                      
+01851cinarizina                      
+01852cinarizina+asoc.                
+01884ciprofibrato                    
+01892ciprofloxacina                  
+01900ciproheptadina+dexametasona     
+01904ciproheptadina+vit.             
+01905ciproheptadina+vit.+asoc.       
+01926ciruela+asoc.                   
+01932cisapride                       
+01940cisplatino                      
+01948citarabina                      
+01956citidina+uridina+asoc.          
+01969claritromicina                  
+01972clebopride                      
+01980clebopride+simeticona+asoc.     
+02004clembuterol                     
+02020clindamicina                    
+02028clobazam                        
+02036clobetasol                      
+02052clobutinol                      
+02053clobutinol+orciprenalina        
+02060clobutinol+teofilina+asoc.      
+02076clofedianol+bromhexina          
+02084clofibrato                      
+02092clonazepam                      
+02100clonidina                       
+02108clonidina+ciclotiazida          
+02116clonidina+bendroflumetiazida    
+02132clonixinato lisina              
+02133clonixinato lisina+ergotamina   
+02140clorambucilo                    
+02148cloranfenicol                   
+02156cloranfenicol+asoc.             
+02180cloranfenicol+neomicina         
+02212clorazepato dipot sico          
+02219clordiazep¢xido                 
+02220clordiazep¢xido+asoc.           
+02243clorfeniramina                  
+02244clorfeniramina+dextrometorfano  
+02276dihidrocodeinona+resina-clorf.  
+02289clorfeniramina+asoc.            
+02300buspirona                       
+02303dexrazoxane,clorh.              
+02308fenilefrina                     
+02316fenilefrina+asoc.               
+02326proca¡na                        
+02332clorhexidina                    
+02348clorocresol+asoc.               
+02356clorpropamida                   
+02364cloroquina                      
+02380clorpromazina                   
+02388clortalidona                    
+02404clorzoxazona+paracetamol        
+02412clorzoxazona+paracetamol+dexamet
+02428clotrimazol                     
+02436clotrimazol+betametasona        
+02444cloxazolam                      
+02452tetroxoprima+sulfadiazina       
+02460tetroxoprima+sulfadiazina+asoc. 
+02467coaltar                         
+02484code¡na                         
+02488col geno                        
+02500colchicina                      
+02508colestiramina                   
+02516colina,salicilato+asoc.         
+02532colistina metansulfonato        
+02564vit.b,complejo                  
+02580vit.b,complejo+vit.c            
+02590vit.c+citroflavonoide           
+02595complejo ose¡nico mineral       
+02612factor VIII                     
+02652cromoglicato dis¢dico           
+02660dietilamina,cromona-2-carbox.   
+02668cumarina+troxerrutina           
+02674cynara scolymus                 
+02675cynara scolymus+boldo           
+02676cynara+boldo+asoc.              
+02738dacarbazina                     
+02742danazol                         
+02754dantrona+asoc.                  
+02762dapsona                         
+02768decametrina                     
+02770decametrina+piperonilbut¢xido   
+02794deflazacort                     
+02808triptorelina                    
+02810desferoxamina                   
+02818desipramina                     
+02826desogestrel+etinilestradiol     
+02833dexametasona                    
+02834dexametasona+neomicina+asoc.    
+02858dexametasona+nafazolina+asoc.   
+02866dexametasona+neomicina          
+02882dexametasona+triamcinolona      
+02890dexametasona+clorfeniramina     
+02898dexametasona+asoc.              
+02914dexetimida                      
+02922dexfenfluramina                 
+02946dextrometorfano+asoc.           
+02949dextrosa                        
+02951dextrosa+asoc.                  
+02952hidroxiestrona,16-alfa          
+02954meglumina,diatrizoato+asoc.     
+02978diazepam                        
+02986diazepam+asoc.                  
+02994diazepam+isopropamida           
+03010diciclomina                     
+03034diclofenac                      
+03040diclofenac+vit.b12+asoc.        
+03041diclofenac pot sico+paracetamol 
+03050diclofenac dietilamina          
+03058diclofenac pot sico             
+03060diclofenac pot sico+asoc.       
+03066diclofenac s¢dico               
+03070diclofenac+pridinol             
+03082dicloxacilina                   
+03090dietilamina,salicilato+asoc.    
+03098difenhidramina                  
+03100difenhidramina+asoc.            
+03106fenilalanina                    
+03114difenilhidantoinato ca+fenobarb.
+03138difenilhidantoinato de calcio   
+03146diflorasona+gentamicina         
+03154diflorasona+econazol+gentamicina
+03178digoxina                        
+03186dihidroergocristina             
+03194dihidroergotamina               
+03201dihidroergotoxina               
+03202dihidroergotoxina+vit.b12+asoc. 
+03210dihidroergotoxina+cinarizina    
+03218dihidroergotoxina+flunarizina   
+03234dihidroergotoxina+piritinol+asoc
+03242dihidroestreptomicina+asoc.     
+03261dihidroxiprogesterona+estradiol 
+03282diltiazem                       
+03290dimenhidrinato                  
+03314diosmina                        
+03315diosmina+hesperidina micronizada
+03322dipiridamol                     
+03323dipiridamol+acetilsalic. c.     
+03330dipirona                        
+03338dipirona+asoc.                  
+03340dipirona+vit.b,complejo         
+03376etidronato dis¢dico+asoc.       
+03378disulfiram                      
+03401dobesilato c lcico              
+03402dobesilato c lcico+cinarizina   
+03426dobutamina                      
+03434domperidona                     
+03438domperidona+simeticona          
+03443dopamina                        
+03450doxiciclina                     
+03455dextropropoxifeno+dipirona      
+03474dropropizina+asoc.              
+03499etilo aminobenzoato             
+03518etilefrina                      
+03523emepronio,bromuro               
+03528enalapril                       
+03536enalapril+hidroclorotiazida     
+03544enflurano                       
+03584ergonovina                      
+03590ergotamina+asoc.                
+03606eritromicina                    
+03616eritromicina+bromhexina         
+03640eritromicina+sulfisoxazol       
+03664eritropoyetina recomb.humana    
+03672escina+asoc.                    
+03688escopolamina,metilbrom.+asoc.   
+03704fsh+lh                          
+03712espectinomicina                 
+03728espironolactona                 
+03736espironolactona+furosemida      
+03744espironolactona+isobutilhidroc. 
+03752estazolam                       
+03760estreptoquinasa                 
+03776etofenamato                     
+03784estradiol                       
+03792estradiol+progesterona          
+03808estradiol transdermal           
+03816estradiol+hidroxiprogesterona   
+03824estreptomicina                  
+03840estriol                         
+03848estr¢genos conjugados nat.      
+03855glicerilguayac¢lico ‚ter        
+03856glicerilguayac¢lico ‚ter+asoc.  
+03864etilnicotinato                  
+03868etodolac                        
+03872etop¢sido                       
+03880etosuximida                     
+03895extractos vegetales             
+03902extracto de ajo                 
+03904extracto de fol¡olos de sen     
+03912extracto de tejido conjuntivo   
+03914extracto de tejido prost tico   
+03920extracto tisular anim.j¢venes   
+03950famotidina                      
+03958febuprol                        
+03960fedrilato                       
+04030nafazolina+feniramina           
+04038fenito¡na                       
+04046fenobarbital                    
+04054fenobarbital+asoc.              
+04073fenolftale¡na                   
+04078fenoterol                       
+04083fenoxazolina                    
+04094fenoximetilpenicilina           
+04102fenticonazol,nitrato            
+04110ferritina                       
+04118hierro,sulfato                  
+04134fibras dietarias                
+04150fibrinolisina+cloramf.+asoc.    
+04198flecainida                      
+04206flavoxato                       
+04209flubendazol                     
+04214floroglucinol+trimetoxibenceno  
+04230fluconazol                      
+04246flumetasona+neomicina           
+04254flunarizina+dobesilato c lcico  
+04262flunarizina                     
+04270flunarizina+nicergolina         
+04278flunitrazepam                   
+04286fluocinolona                    
+04310fluorometolona+asoc.            
+04318fluorometolona                  
+04334fluorouracilo                   
+04342sodio,fluoruro                  
+04347fluoxetina                      
+04350fluprednilideno+neomicina       
+04358flurazepam                      
+04366flurbiprofeno                   
+04382fluspirileno                    
+04383flutamida                       
+04393fosfol¡pidos+vit.b,complejo     
+04395fosfomicina                     
+04398fracci¢n antit¢xica de h¡gado   
+04422ftalilsulfatiazol+asoc.         
+04430furazolidona                    
+04438furosemida                      
+04462sodio,fusidato                  
+04508gaba+cinarizina+vit.b6          
+04516gaba+vit.b6                     
+04524gabob                           
+04532dimeglumina,gadopentetato       
+04553gammaglobulina                  
+04556inmunoglobulina antihepatitis B 
+04564gammaglobulina antitet n.+toxoid
+04568gammaglobulina humana+histamina 
+04572gammaglobulina polivalente      
+04580gangli¢sidos                    
+04588gangli¢sidos+vitaminas          
+04596gas refrigerante                
+04604gemfibrozil                     
+04611gentamicina                     
+04612gentamicina+clotrimazol+betamet.
+04631etinilestradiol+gestodeno       
+04633gestrinona                      
+04635ginkgo biloba                   
+04636ginkgo biloba+heptaminol        
+04652ginkgo biloba+ginseng+asoc.     
+04654ginkgo biloba+vit.e             
+04660ginseng                         
+04668arginina+ginseng                
+04709ginseng+vit.+minerales          
+04724glafenina+asoc.                 
+04732glibenclamida                   
+04737glic‚ridos nat.+vit.a+vit.d     
+04740glicerina                       
+04756gliclazida                      
+04759glicosaminoglicanos+asoc.       
+04764glipizida                       
+04780potasio,gluconato               
+04804gonadotrofina cori¢nica         
+04832tioguanina                      
+04836guanfacina                      
+04866haloperidol                     
+04874halotano                        
+04882butetamato                      
+04898heparina                        
+04914heparinoide+asoc.               
+04946hexilresorcinol+asoc.           
+04962hidroclorotiazida               
+04965hidroclorotiazida+amilorida     
+04970hidroclorotiazida+asoc.         
+04978hidroclorotiazida+reserpina     
+05002hidrocortisona                  
+05010hidrocortisona+asoc.            
+05018neomicina+hidrocortisona        
+05026hidroxicina                     
+05033vit.b12                         
+05052magnesio,hidr¢xido              
+05058polidocanol                     
+05066hidroxiprogesterona             
+05082hierbas medicinales             
+05122homatropina,metilbr.            
+05184ibuprofeno                      
+05192ibuprofeno+homatropina          
+05200ibuprofeno+dextropropoxifeno    
+05205idebenona                       
+05208idoxuridina                     
+05216idoxuridina+asoc.               
+05240ifosfamida                      
+05248imipramina                      
+05256indapamida                      
+05264indometacina                    
+05272indometacina+dexametasona       
+05304inmunoglobulina anti-rho        
+05320inmunoglobulina humana          
+05328inositol,hexanicotinato         
+05336insulina bovina                 
+05368insulina humana                 
+05374insulina porcina                
+05408interfer¢n alfa                 
+05411interleukina-2 humana recomb.   
+05424iodopovidona                    
+05440meglumina,iotalamato            
+05448sodio,iotalamato                
+05452ipratropio,bromuro              
+05456isoconazol                      
+05464isoflurano                      
+05472isoniacida                      
+05480isoproterenol                   
+05488isosorbide,dinitrato            
+05504isotipendilo                    
+05512isotretino¡na                   
+05528isoxsuprina                     
+05536itraconazol                     
+05550kanamicina                      
+05551kanamicina+asoc.                
+05559ketamina                        
+05566ketanserina                     
+05574ketazolam                       
+05582ketoconazol                     
+05598ketoconazol+secnidazol          
+05606ketoconazol+hidrocort.+gentamic.
+05614ketoprofeno                     
+05630ketorolac                       
+05638ketotifeno                      
+05668amino cidos+vit.b6              
+05676asparaginasa                    
+05684carnitina                       
+05692eburnamonina                    
+05716lactulosa                       
+05724lanat¢sido c                    
+05727lapirio,cloruro                 
+05728alcoholes de lanolina+asoc.     
+05729soja,lecitina                   
+05730leucovorina                     
+05732leuprolide,acetato              
+05740levamisol                       
+05748levobunolol                     
+05756levodopa+benserazida            
+05764levodopa+carbidopa              
+05772levoglutamina                   
+05780levomepromazina                 
+05788levonorgestrel+etinilestradiol  
+05796levotiroxina                    
+05804lhrh                            
+05812lidoca¡na                       
+05828lidoca¡na+adrenalina            
+05836lincomicina                     
+05844linestrenol                     
+05850terfenadina+dexametasona        
+05852linestrenol+etinilestradiol     
+05860liotironina                     
+05862liotironina+levotiroxina        
+05892lisinopril                      
+05893lisinopril+hidroclorotiazida    
+05900litio,carbonato                 
+05905lodoxamida                      
+05908loflazepato de etilo            
+05924lomifilina+dihidroergocristina  
+05940loperamida                      
+05945loperamida+neomicina            
+05948loprazolam                      
+05956lorazepam                       
+05960lormetazepam                    
+05970lovastat¡n                      
+05984magaldrato                      
+05986magaldrato+simeticona           
+06026mazindol                        
+06034mebendazol+tinidazol            
+06042mebendazol                      
+06050medrogestona                    
+06058medroxiprogesterona             
+06074melfalano                       
+06090mentol+eucaliptol               
+06098mercaptopurina                  
+06103mesoinositol+asoc.              
+06107metformina                      
+06122metil-atropina+asoc.            
+06130metildigoxina                   
+06138metildopa                       
+06140metildopa+asoc.                 
+06154metilergonovina                 
+06162metilmelubrina+vit.b1           
+06170metil-lorazepam                 
+06178metilprednisolona               
+06194metimazol                       
+06202metionina                       
+06226metoclopramida                  
+06227metoclopramida+asoc.            
+06234metoclopramida+simeticona+asoc. 
+06250metoprolol                      
+06258metoprolol+asoc.                
+06260metotrexato                     
+06266metronidazol                    
+06274metronidazol+asoc.              
+06290mexiletina                      
+06306mezlocilina                     
+06314mianserina                      
+06322miconazol                       
+06338miconazol+hidrocortisona        
+06340miconazol+metronidazol+asoc.    
+06354midazolam                       
+06378minociclina                     
+06386minoxidil                       
+06394misoprostol                     
+06395diclofenac s¢dico+misoprostol   
+06402mitoxantrona                    
+06410moclobemida                     
+06418molsidomina                     
+06426fl£or+calcio                    
+06434inosina,monofosf.+nicotinamida  
+06442isosorbide,mononitrato          
+06450adrenocromo,monosemicarb.       
+06458monosialogangli¢sido gm-1       
+06468morfina,sulfato                 
+06482mucopolisacaridasa              
+06490mucopolisacaridasa+vit.a        
+06506muromonab cd3                   
+06552hioscina,n-butilbr.             
+06560nadolol                         
+06576nafazolina                      
+06578nafazolina+prednisolona         
+06584nafazolina+asoc.                
+06595naftazona+rutina                
+06600naftidrofuril                   
+06601nalbufina                       
+06608nandrolona                      
+06624naproxeno                       
+06628nedocromil s¢dico               
+06629neo heliopan                    
+06631neomicina                       
+06648neomicina+asoc.                 
+06664neomicina+furazolidona          
+06672prednisolona+neomicina          
+06680triamcinolona+neomicina+asoc.   
+06688neostigmina                     
+06696nicardipina                     
+06704nicergolina                     
+06720nicergolina+flunarizina         
+06731nicotina                        
+06736nifedipina                      
+06737atenolol+nifedipina             
+06750nifuratel                       
+06752nifurtimox                      
+06760nimesulida                      
+06776nimodipina                      
+06784nimorazol                       
+06789nisoldipina                     
+06792nistatina+neomicina+asoc.       
+06800nistatina                       
+06808econazol,nitrato                
+06824nitrendipina                    
+06832nitrofuranto¡na                 
+06848nitrofuranto¡na+hexilresorcinol 
+06855nitrofurazona                   
+06880nitroglicerina                  
+06888nitroglicerina+cafe¡na          
+06892nonivamida+nicoboxil            
+06896nonoxinol                       
+06908noretindrona+etinilestradiol    
+06912noretisterona                   
+06920norfloxacina                    
+06925etinilestradiol+norgestrel      
+06935noscapina+guaifenesina          
+06950hidroxietil rut¢sidos           
+06958otilonio,bromuro                
+06966otilonio,bromuro+diazepam       
+06974ofloxacina                      
+06982olig¢meros procianid¢licos      
+06990omeprazol                       
+06992ondansetr¢n                     
+06998diclofenac s¢dico+orfenadrina   
+07014ornidazol                       
+07030oxaceprol                       
+07038oxatomida                       
+07046oxeladina                       
+07054oxeladina+carbinoxamina         
+07081oxiconazol                      
+07094oximetazolina                   
+07102oxitetraciclina                 
+07110ocitocina                       
+07130pamidronato dis¢dico            
+07156pirantelo,pamoato               
+07180pancreatina+asoc.               
+07182metoclopramida+pancreatina+asoc.
+07188pancreatina+simeticona          
+07196papa¡na                         
+07204papa¡na+acetilsalicilico, c.    
+07228paracetamol                     
+07236paracetamol+asoc.               
+07244paracetamol+bals micos          
+07252paracetamol+clorfeniramina+asoc.
+07260paracetamol+ibuprofeno          
+07276pargeverina                     
+07284pargeverina+dipirona            
+07288parsol MCX                      
+07292penbutolol                      
+07308penicilina+estreptomic.+asoc.   
+07316penicilina g benzat¡nica        
+07324penicilina g proca¡nica         
+07332penicilina g s¢dica             
+07357penimepiciclina+lidoca¡na       
+07364pentoxifilina                   
+07372vit.c+asoc.                     
+07378permetrina                      
+07380permetrina+bencilo,benzoato     
+07392sodio,picosulfato               
+07394dermis porcina                  
+07396pilocarpina                     
+07412pimozida                        
+07420pinaverio,bromuro               
+07440piperacilina                    
+07452piprinhidrinato+dexametasona    
+07464pirazinamida                    
+07476pirenzepina                     
+07500piridostigmina                  
+07508dihidroergotoxina+vit.b6        
+07532pirimetamina                    
+07540piroxicam                       
+07548piroxicam+carisoprodol          
+07550piroxicam+vit.b12               
+07564piroxicam+nopoxamina            
+07572piroxicam+paracetamol           
+07588piroxicam+prednisona            
+07612piroxicam+vit.b,complejo        
+07628pirvinio,pamoato                
+07636pizotifeno                      
+07640policarb¢filo c lcico           
+07642policresulen                    
+07647hierro,polimaltosato            
+07684vitaminas                       
+07692vit.+amino cidos                
+07724pool bacteriano                 
+07740potasio                         
+07742potasio,cloruro                 
+07746potasio+magnesio+asoc.          
+07748potasio sulfoguayacolato+asoc.  
+07769prazepam                        
+07772prazosin                        
+07788prednisolona                    
+07796prednisolona+cloramfenicol      
+07804prednisolona+fenilefrina        
+07813primidona                       
+07820procarbazina                    
+07836prometazina                     
+07844propafenona                     
+07851propranolol                     
+07852propranolol+hidroclorotiazida   
+07860proparaca¡na                    
+07868propinox                        
+07869propinox+clonixinato de lisina  
+07876propinox+dipirona               
+07879propofol                        
+07900protamina                       
+07918prote¡nas+grasas+carbohid.+asoc.
+07924proteolisado de h¡gado          
+07932hidrolisado de ¢rganos          
+07944isoefedrina+asoc.               
+07978quinestrol                      
+07986quinestrol+etinodiol            
+07994quinidina                       
+08024ramipril                        
+08032ranitidina                      
+08040ranitidina+pirenzepina          
+08056resorcina                       
+08064resorcinol+asoc.                
+08080rifamicina+prednisolona         
+08088rifamicina                      
+08096rifampicina                     
+08104rifampicina+isoniacida          
+08112rifampicina+trimetoprima        
+08120ritodrine                       
+08128roxitromicina                   
+08132activador tisular plasmin¢geno  
+08136ruscogenina                     
+08155sacarina                        
+08160sacarina+ciclamato              
+08163s-adenosil-l-metionina          
+08182salbutamol                      
+08183salbutamol+guaifenesina         
+08198sales biliares+boldo+belladona  
+08214diatrizoico, c.                 
+08235sangre de ternera,ext.desprotein
+08246secnidazol                      
+08250serenoa repens                  
+08254serrapeptasa                    
+08262silimarina                      
+08278simeticona                      
+08286simeticona+asoc.                
+08296simeticona+pancreatina+domperid.
+08297sodio,bicarbonato               
+08298sodio,cloruro+asoc.             
+08302glucosa+vit.                    
+08305resinas neutras                 
+08310somatotrofina                   
+08326streptococcus faecium           
+08334succinilcolina                  
+08336sucralfato                      
+08342ampicilina+sulbactam            
+08394sulfacrisoidina s¢dica          
+08398sulfadiazina+alanto¡na+asoc.    
+08401sulfametoxazol+trimetoprima     
+08405sulfatiazol                     
+08406sulfatiazol+asoc.               
+08408sulfasalazina                   
+08430sulpirida                       
+08438sulpirida+clorazep.dipot sico   
+08446cynara scolymus+asoc.           
+08484talniflumato                    
+08492tamoxifeno                      
+08524tenoxicam                       
+08525tenoxicam+carisoprodol+dexamet. 
+08532teofilina anhidra               
+08533teofilina+dexametasona          
+08535teofilina+asoc.                 
+08548terfenadina                     
+08556terfenadina+pseudoefedrina      
+08564oxitetraciclina+hidrocortisona  
+08572oxitetraciclina+hidrocort.+asoc.
+08580testosterona                    
+08588tetraca¡na                      
+08604tetraciclina                    
+08605tetraciclina+asoc.              
+08612tetraciclina+papa¡na            
+08620tetraciclina+naproxeno          
+08628tetrahidrozolina                
+08636tetrahidrozolina+asoc.          
+08640thio-tepa                       
+08644tiabendazol                     
+08680tiapride                        
+08684tibolona                        
+08692ticlopidina                     
+08700timerosal                       
+08716timolol,maleato                 
+08717timolol+hidroclorotiazida+asoc. 
+08724tinidazol                       
+08732tinidazol+nistatina             
+08740tiopenthal s¢dico               
+08748tioridazina                     
+08752tiroglobulina                   
+08764tirotricina+asoc.               
+08778titanio,di¢xido+asoc.           
+08780tizanidina                      
+08796tobramicina                     
+08804tobramicina+dexametasona        
+08805tobramicina+dexametasona+asoc.  
+08820tolnaftato                      
+08827tolrestato                      
+08828toxoide tet nico                
+08836toxoide tet n.+dift‚r.+pertusis 
+08840tramadol                        
+08844tranilcipromina                 
+08860trh                             
+08868tri fluoro timidina             
+08876triamcinolona                   
+08882triamcinolona+asoc.             
+08916trihexifenidilo                 
+08940trimebutina                     
+08948trimebutina+bromazepam          
+08956sulfametoxazol+trimetoprima+asoc
+08980trimetazidina                   
+08996bismuto subcitrato              
+09004tropicamida                     
+09020troxerrutina+escina             
+09028tulobuterol                     
+09032urapridil                       
+09035urea                            
+09058vit.c+citroflavonoide+asoc.     
+09066valproico, c.                   
+09074vancomicina                     
+09082vaselina s¢lida                 
+09084vaselina+asoc.                  
+09085veraliprida                     
+09090verapamilo                      
+09098vidarabine                      
+09110vigabatrin                      
+09114vincamina                       
+09130vincamina+cinarizina            
+09138vincristina                     
+09146vindesina                       
+09148vinpocetina                     
+09152vit.a                           
+09153vit.a+vit.d                     
+09154vit.a+vit.e                     
+09165vit.a+triamcinolona             
+09170vit.a+vit.c+vit.d               
+09178vit.a+vit.c+vit.d+fl£or         
+09180vit.b1                          
+09183vit.b6                          
+09194vit.k+vit.c+rutina              
+09202vit.d                           
+09218vit.d3                          
+09266vit.c                           
+09274vit.c+vit.a                     
+09285vit.+minerales                  
+09342yerba mate                      
+09350iodo+metilo,salicilato          
+09404zipeprol                        
+09408zidovudina                      
+09412zopiclona                       
+09998Pendiente                       
+09999fl£or+asoc.                     
+10000prote¡nas+hierro+asoc.          
+10001factor natural humectaci¢n+asoc.
+10002troglitazona                    
+10003adenosina trifosfato            
+10004mycobacterium bovis             
+10005trietanolamina                  
+10007entacapone                      
+10008chitosan                        
+10009ant¡geno hepatitis b+asoc.      
+10010diclofenac+pridinol+asoc.       
+10011ambroxol+clofedianol+asoc.      
+10012infliximab                      
+10013alcohol+glicerina+asoc.         
+10014colindifosfato de citidina      
+10015exemestano                      
+10016pioglitazona                    
+10017isoflavonas de soja+asoc.       
+10018trimebutina+ruscogenina         
+10019levetiracetam                   
+10020benznidazol                     
+10021enalapril+felodipina            
+10022ibuprofeno+code¡na              
+10023doxorubicina liposomal          
+10025ritonavir+lopinavir             
+10026estr¢genos esterificados        
+10027carbetocina                     
+10028cuassia amara                   
+10029verteporfin                     
+10030sulfacrisoidina+benzoca¡na+asoc.
+10031budesonide+formoterol           
+10033carbomer 980                    
+10035sulfacetamida s¢dica            
+10036biop‚ptidos+asoc.               
+10037indinavir                       
+10038heparina+cepae,extr.+asoc.      
+10039alb£mina+asoc.                  
+10040barnidipina                     
+10041piroxilina+asoc.                
+10042lanre¢tido                      
+10043metilo,metacrilato              
+10044metilo,metacrilato+asoc.        
+10045ibandr¢nico, c.                 
+10046zoledr¢nico, c.                 
+10047hedera helix                    
+10048dexketoprofeno                  
+10049estradiol+norgestimato          
+10050esomeprazol                     
+10052formaldeh¡do                    
+10053vanadil,sulfato                 
+10054placenta,extracto+vit.c+vit.e   
+10055travoprost                      
+10056ziprasidona                     
+10057dimetilfumarato+asoc.           
+10058caspofungin                     
+10059c scara sagrada+aloe            
+10060abacavir+lamivudina+zidovudina  
+10061alcohol isoprop¡lico+asoc.      
+10062harpagofito,extr.               
+10063casta¤o de indias               
+10064code¡na+paracetamol             
+10065bimatoprost                     
+10066dolasetr¢n                      
+10067loxoprofeno                     
+10068lactobacilos+estriol+progest.   
+10069desloratadina                   
+10070aceites esenciales naturales    
+10071piroctona olamina+climbazol     
+10072haemophilus influenz.b+DPT+asoc.
+10074wild yam,extracto               
+10075flutrimazol                     
+10076desogestrel                     
+10077cetrorelix                      
+10079tinzaparina                     
+10080atenolol+clortalidona           
+10082ceraphyl RMT+urea+silanoles     
+10083carbohidratos+asoc.             
+10084hidroximetilbutirato            
+10085vanadil,sulfato+asoc.           
+10086hierro,lactato                  
+10087nebivolol                       
+10088gadoversetamida                 
+10089furfuryladenina+asoc.           
+10090etomidato                       
+10091sodio,picosulfato+asoc.         
+10092ajo+asoc.                       
+10093latanoprost+timolol             
+10094alistin+amonio,glicolato        
+10095amino cidos+carbohidratos+asoc. 
+10096ribavirina                      
+10097levosimendan                    
+10098aceite de coco                  
+10099paracetamol+clorfeniramina      
+10101alfatradiol                     
+10102atosiban                        
+10103tegaserod                       
+10104sen¢sidos+sodio,docusato        
+10105aceite de purcelin+asoc.        
+10106efavirenz                       
+10107ganirelix                       
+10109licopeno                        
+10112sodio,tetradecilsulfato         
+10115vaselina+lanolina               
+10116lute¡na                         
+10117alfacalcidol                    
+10118calcitriol                      
+10119floroglucinol                   
+10120floroglucinol+asoc.             
+10121arginina+asoc.                  
+10122bupivaca¡na+epinefrina          
+10123telitromicina                   
+10124mand‚lico, c.+asoc.             
+10126labetalol                       
+10127biotina+asoc.                   
+10128vit.a+vit.e+asoc.               
+10129lactobacilos+asoc.              
+10130balsalazide                     
+10131polisorbato 80                  
+10132rofecoxib+pridinol              
+10134magnesio+vit.c                  
+10135ambroxol+butetamato             
+10136biotina+metionina+cistina       
+10137levosalbutamol                  
+10138enzimas vegetales               
+10139soluc.parent/fisiol/glucos/otras
+10140staphylococcus aureus           
+10141vacuna antipoliomiel¡tica trival
+10142vacuna antimeningoc¢ccica       
+10143vacuna antirr bica              
+10144polisac ridos de neumococos     
+10145vacuna antituberculosa          
+10146col geno tipo 1+fase mineral    
+10147vacuna antitifoidea             
+10148vacuna antitricomoni sica       
+10149copol¡m.metilvinil eter maleico 
+10150alcohol,test para determinaci¢n 
+10151vacuna oral polivalente         
+10152virus saram.+parotiditis+rub‚ola
+10153teofilina+ketotifeno            
+10154levobupivaca¡na                 
+10155alcohol iodado                  
+10156b¢rico, c.                      
+10157alcohol boricado                
+10158sodio,borato                    
+10159magnesio,sulfato                
+10160calcio,lactogluconato           
+10161dimetindeno+fenilefrina         
+10162cassia angustifolia             
+10163zinc,acetato                    
+10164cafe¡na liposomada+asoc.        
+10165polisac ridos de S.pneumoniae   
+10166lidoca¡na+hidrocortisona        
+10167zotepina                        
+10169piribenzamina+asoc.             
+10170pl ntago ovata+cassia angustif. 
+10171alcohol+aloe vera               
+10172factor VIII+fact.von Willebrand 
+10173hierro,sacarosa                 
+10174carb¢n activado+asoc.           
+10176escitalopram                    
+10177diclofenac s¢dico+tobramicina   
+10178ciprofloxacina+dexametasona     
+10179algas marinas+germen de trigo   
+10180tobramicina+asoc.               
+10181clobetasol+amonio,lactato       
+10182ergotamina+cafe¡na              
+10183insaponificables                
+10184drospirenona+etinilestradiol    
+10185loratadina+ambroxol             
+10186extracto seco de equin cea      
+10187aceite de pr¡mula+vit.e         
+10188etoricoxib                      
+10190potasio,ioduro+asoc.            
+10191telmisart n+hidroclorotiazida   
+10192epinastina+pseudoefedrina       
+10193acetilsalic¡lico, c.+vit.c+vit.e
+10194vit.b3                          
+10195betametasona (acet.y fosf.disod)
+10196betametasona (diprop.y f.disod.)
+10197amoxicilina+brovanexina         
+10198condroit¡n,sulfato+glucosamina  
+10199sodio,divalproato               
+10201clofedianol+carbinoxamina+asoc. 
+10202hamamelis                       
+10203norelgestromin+etinilestradiol  
+10204ezetimibe                       
+10205etilbutil acetilamino propionato
+10206propinox+dihidroxidibutil ‚ter  
+10207rutina+ajo,extr.                
+10208adalimumab                      
+10209idebenona+nimodipina            
+10210insulina glargina               
+10211tadalafilo                      
+10212edetato dis¢d.+polihexanida+asoc
+10213escherichia coli inactivada     
+10214escherichia coli+hidrocortisona 
+10215aminoclorobenzofenona           
+10216ertapenem                       
+10217acetilcarnitina+l-carnitina     
+10218penciclovir                     
+10219efedrina+antipirina             
+10220f¢lico, c.+vit.b                
+10221aripiprazol                     
+10222estradiol+trimegestona          
+10223m scara facial anat¢mica o bucal
+10224isoproterenol+calcio,ioduro     
+10225valdecoxib                      
+10226parecoxib                       
+10227levosulpiride                   
+10228pimecrolimus                    
+10229micofenolato s¢dico             
+10230ambroxol+butetamato+asoc.       
+10231cal‚ndula                       
+10232plata,fluoruro diamino          
+10233surfactante pulmonar            
+10234tiotropio,bromuro               
+10235rosuvastatina                   
+10236hedera helix+asoc.              
+10237soja,polisac ridos+asoc.        
+10238diosmina+benzoca¡na             
+10239daclizumab                      
+10240rosiglitazona+metformina        
+10241proceramidas de cafe¡na+asoc.   
+10242hierro,fumarato+asoc.           
+10243citrus aurantium+asoc.          
+10244bifonazol+asoc.                 
+10246levocetirizina                  
+10247k¢jico, c.+asoc.                
+10249dexametasona+loratadina         
+10250fluconazol+secnidazol           
+10251atomoxetina                     
+10252fluocinolona+hidroquinona+asoc. 
+10253atazanavir                      
+10254aprepitant                      
+10255voriconazol                     
+10256aloe arborescens                
+10257tenofovir disoproxil            
+10258pamabrom+paracetamol+asoc.      
+10259clopidogrel+acetilsalic¡lico, c.
+10260sodio,docusato                  
+10261valganciclovir                  
+10262efalizumab                      
+10263mosapride+simeticona            
+10264quassia amara+asoc.             
+10265olmesartan                      
+10266teriparatida                    
+10267fulvestrant                     
+10268vardenafil                      
+10269adefovir dipivoxil              
+10270fosamprenavir                   
+10271metilcelulosa                   
+10272sultiamo                        
+10273levadura de cerveza+asoc.       
+10274t‚ verde+asoc.                  
+10275cucumis melo,extracto           
+10276emtricitabina                   
+10277algas marinas+centella as.+asoc.
+10278beclometasona+neomicina         
+10279fitoesteroles                   
+10280ibuprofeno+cafe¡na              
+10282gefitinib                       
+10283ezetimibe+simvastatin           
+10284everolimus                      
+10285DMAE+asoc.                      
+10286olanzapina+fluoxetina           
+10287insulina asp rtica              
+10288pemetrexed                      
+10289betametasona+gentamic.+miconazol
+10290insulina detemir                
+10291levodopa+carbidopa+entacapone   
+10292 cidos grasos omega 3+asoc.     
+10293ximelagatran                    
+10294melagatran                      
+10295polietilenglicol+propilenglicol 
+10296saquinavir                      
+10297imatinib                        
+10298clindamicina+ketoconazol        
+10299inmunoglobulina contra varicela 
+10300nicot¡nico, c.                  
+10303duloxetina                      
+10304amlodipina+atorvastat¡n         
+10305fosfato dis¢dico+fosfato monos¢d
+10306pegvisomant                     
+10307atorvastat¡n+ezetimibe          
+10308dietilestilbestrol              
+10309succ¡nico, c.+asoc.             
+10310dispositivo para aplic.insulina 
+10311risedronato+calcio,carbonato    
+10312clobetasona                     
+10313lute¡na+vit.c+vit.e+asoc.       
+10314hierro+f¢lico, c.+asoc.         
+10315aceite de lim¢n+asoc.           
+10316mosapride+pancreatina+simeticona
+10317alefacept                       
+10318enalapril+atorvastat¡n          
+10319drospirenona+estradiol          
+10320famotidina+calcio,carbon.+asoc. 
+10321per¢xido de hidr¢geno           
+10322nesiritide                      
+10323valsart n+amlodipina            
+10324palonosetr¢n                    
+10325diazepam+trimebutina            
+10326glucosamina+vit.e+vit.c         
+10327bexaroteno                      
+10328alitretino¡na                   
+10329ciclesonida                     
+10330mepivaca¡na                     
+10331alendronato+calcio,citrato+d3   
+10332leciflavone                     
+10333sodio,acexamato+gentamicina     
+10334lactasa                         
+10335metronidazol+miconazol          
+10336pregabalina                     
+10337hexaclorociclohexano+asoc.      
+10338hexaclorociclohexano            
+10339anfotericina B liposomal        
+10340alfa-1-antitripsina             
+10341deferiprona                     
+10342abacavir+lamivudina             
+10343cymbopogon nardus+chitosane     
+10344tilo+passiflora                 
+10346alendronato+vit.d3              
+10347entecavir                       
+10348rotavirus                       
+10349dexametasona+clorofeniram.+asoc.
+10350pirole¤oso, c.+asoc.            
+10353hesperidina+asoc.               
+10354nabilona                        
+10355anagrelide                      
+10356alendronato+calcio,carbonato    
+10357risedronato+calcio,carb.+vit.d3 
+10358solifenacina                    
+10359eritromicina+zinc               
+10360ar ndano,ext.+asoc.             
+10361selenio+asoc.                   
+10362brimonidina+timolol             
+10363manzanilla,extr.+miel           
+10364meloxicam+pridinol              
+10365calcio,citrato+vit.d3+isoflavon.
+10366drotrecogin alfa activado       
+10367nepafenac                       
+10368calcio,citr.+magnesio+asoc.     
+10369tigeciclina                     
+10370omalizumab                      
+10371amoxicilina+acetilciste¡na      
+10373aceite de Salvia chia           
+10374dutasteride                     
+10375colchicina+diciclomina          
+10376dhamatanes                      
+10377tirotricina+benzoca¡na          
+10379loteprednol+tobramicina         
+10380lumiracoxib                     
+10381palmitamide MEA+asoc.           
+10382quinina,sulfato+asoc.           
+10384eritromicina+colistimetato      
+10385glucosamina+asoc.               
+10387estroncio,ranelato              
+10388bivalirudina                    
+10389ramipril+felodipina             
+10390carvedilol+hidroclorotiazida    
+10391permetrina+ac‚tico, cido        
+10392copol¡mero vin¡lico             
+10393eritromicina+asoc.              
+10394rimonabant                      
+10396vit.b3+asoc.                    
+10397guaifenesina                    
+10398condroit¡n,sulf+glucosamina+asoc
+10399ibandr¢nico, c.+asoc.           
+10400deferasirox                     
+10401eszopiclona                     
+10402hierro,polimaltosa+f¢lico, c.   
+10403calmoactive+asoc.               
+10404insulina glulisina              
+10405tinosorb                        
+10406magnesio,valproato              
+10407f¢lico, c.+asoc.                
+10408melanina                        
+10409etilbutil acetilamino prop.+asoc
+10410xilitol+sodio,fluoruro+asoc.    
+10411ciclopiroxolamina+salic¡lico, c.
+10412rasagilina                      
+10413manzanilla+asoc.                
+10414diente de le¢n+asoc.            
+10415sauce                           
+10416melisa+asoc.                    
+10417ciproflox.+hidrocort.+lidocaina 
+10419magnesio+ginseng                
+10420magnesio+ginseng+asoc.          
+10421valsart n+hidrocloroti.+amlodip.
+10422emtricitabina+tenofovirdisoprox.
+10423aluminio,hidr.+magn.hidr.+oxetac
+10424part.similares a HPV (VLPs)     
+10425bencidamina,clor.+cetilpiridinio
+10426clindamicina+benzo¡lo,per¢xido  
+10427polietileno,microgr nulos       
+10428bemiparina                      
+10429hierro+vit.b12+f¢lico, c.       
+10430drospirenona+etinilestr.+hierro 
+10431bupivaca¡na+dextrosa            
+10432latanoprost+timolol+ c.hialur¢n.
+10433ant¡geno hepatitis b+RC-529     
+10434ciclopentaxiloxano+dimeticona   
+10435ciclopentaxiloxano+ac.esenciales
+10436peg 3350+bisacodilo             
+10437omeprazol+sodio,bicarbonato     
+10439acetyl hexapeptide-3+sk-influx  
+10440retinol,palmitato+sk-influx     
+10441alendronato+calcio,carb.+d3     
+10442paricalcitol                    
+10443vit.c+vit.e                     
+10444ruscogenina+meliloto,ext.fluido 
+10445vareniclina,tartrato            
+10446nimotuzumab                     
+10448sertindol                       
+10449ivabradina                      
+10450nuez de kola                    
+10451arrope de miel                  
+10452miel+asoc.                      
+10453tilo,extr.                      
+10454t‚ verde                        
+10455t‚ rojo                         
+10456prop¢leo+asoc.                  
+10457sodio,fosfato+bisacodilo        
+10458hedera helix+benzoca¡na         
+10459carbomer 974 P+asoc.            
+10460abatacept                       
+10461fondaparinux                    
+10462piroctona olamina+climbazol+aloe
+10463cocoamidopropil beta¡na+asoc.   
+10464glimepiride+metformina          
+10465argireline+asoc.                
+10466lamivudina+zidovudina+nevirapina
+10467bimatoprost+timolol             
+10468exenatida                       
+10469sitagliptina                    
+10470metil 5-aminolevulinato         
+10471bromfenac                       
+10472flucitosina                     
+10473amino cidos+vit.b7              
+10474ginseng+creatina+amino c.+asoc. 
+10475carbohidratos                   
+10476daptomicina                     
+10477telbivudine                     
+10478brivudina                       
+10479itopride                        
+10480histrelina,acetato              
+10481desloratadina+betametasona      
+10482ranibizumab                     
+10484rifaximina                      
+10485cetuximab                       
+10486olmesartan+hidroclorotiazida    
+10488zonisamide                      
+10489ezetimibe+fenofibrato           
+10490alginato+plata                  
+10494darifenacina                    
+10495povidona+asoc.                  
+10496diclofenac+vit.b12+betametasona 
+10497cafe¡na+carnitina               
+10498biotina+metionina+cistina+asoc. 
+10499accesorio radiol¢gico           
+10500accesorio                       
+10501protector solar                 
+10502toallitas embebidas             
+10503ar ndano,ext.                   
+10504atorvastat¡n+acetilsalic¡lico, c
+10505dienogest+etinilestradiol       
+10506enoxaparina s¢dica              
+10507amlodipina+losart n,pot sico    
+10508linoleico, c.conjugado          
+10509glutamina+asoc.                 
+10510vacuna DPT+antipoliomiel¡tica   
+10511dalteparina,s¢dica              
+10512loratadina+pseudoefedrina+asoc. 
+10513eucaliptus+aloe vera            
+10514adapaleno+benzo¡lo,per¢xido     
+10515cassia angustifolia+asoc.       
+10516polypodium leucotomos,extracto  
+10517enalapril+carvedilol            
+10518sitagliptina+metformina,clorh.  
+10519clomifeno,citrato               
+10520lupines,extracto                
+10521adefovir                        
+10522cerebrolysin                    
+10523hierro,sacarato                 
+10524desloratadina+pseudoefedrina    
+10525benjui                          
+10526limasina+asoc.                  
+10527alfahidroxi cidos+asoc.         
+10528travoprost+timolol              
+10529paliperidona                    
+10530daunorubicina (daunomicina)     
+10531etilmorfina,clorh.              
+10532acetilciste¡na+tirotricina+asoc.
+10533cola de caballo+asoc.           
+10534pasionaria+asoc.                
+10535yerba mate+asoc.                
+10536eter dimet¡lico,propano         
+10537ciprofloxacina+fenazopiridina   
+10538lauril sulfato de sodio         
+10539bisabolol+asoc.                 
+10540carbociste¡na                   
+10542cilostazol+acetilsal¡cilico, c. 
+10543prote¡nas marinas+vit.c+zinc    
+10544diclofenac s¢dico+omeprazol     
+10545polihexanida                    
+10546subtilisina A                   
+10551estroncio,ranel.+calcio+vit.D3  
+10552tinosorb+asoc.                  
+10553nafazolina+cromoglicato dis¢dico
+10554sodio,perborato+sodio,bicarbonat
+10555aspartamo+sacarina              
+10556poliaminopropilbiguanida        
+10557alcanfor                        
+10558carbopol 974 P                  
+10559mentol+eucaliptol+asoc.         
+10562vit.+amino cidos+minerales+asoc.
+10564amlodipina+losart n+hidroclorot.
+10565pramoxina+fenilefrina+asoc.     
+10567tilo,extr.+manzanilla+vit.+asoc.
+10568vildagliptin                    
+10569higos secos+asoc.               
+10574prote¡nas+vitaminas+minerales   
+10575metoxipolietilenglicol-epoetinaá
+10576l-salbutamol                    
+10578matrixil                        
+10579polietilieno,tulverizado+asoc.  
+10580parsol+asoc.                    
+10581argireline                      
+10582retapamulina                    
+10583carbomer                        
+10584doxazosina+finasteride          
+10585vildagliptin+metformina         
+10587icodextrina                     
+10588dabigatr n                      
+10591anfotericina B complejo lip¡dico
+10592fluticasona,furoato             
+10593aspartamo+asoc.                 
+10594maltodextrina+asoc.             
+10595fitoesteroles+asoc.             
+10596zincamida                       
+10597fibras+prote¡nas                
+10598lapacho+asoc.                   
+10599aceite de macadamia+asoc.       
+10600aceite de almendras+asoc.       
+10601manteca de karit‚+asoc.         
+10602humectantes+emolientes          
+10603metformina+pioglitazona         
+10605fus¡dico, c.+hidrocortisona     
+10606putamen ovi                     
+10607agomelatina                     
+10608omega 3+lute¡na+vit.+minerales  
+10609hidrolizado de col geno+asoc.   
+10611prote¡nas de col geno           
+10612rosiglitazona+glimepirida       
+10613doripenem                       
+10614glucosamina,pot sica            
+10615dextrometorfano+difenhidramina  
+10616l¡pidos+aceite de oliva         
+10618tetracos ctido                  
+10619per¢xido de hidr¢geno+asoc.     
+10620dietanolamina+asoc.             
+10621ar ndano+asoc.                  
+10622carboximetilcelulosa s¢d.+asoc. 
+10623atropina sulfato+asoc.          
+10624enzimas pancre ticas            
+10625aceite de jojoba                
+10626aceite de uva                   
+10627magnesio,fosfato+asoc.          
+10628poliaminopropilbiguanida+asoc.  
+10629almid¢n de ma¡z+asoc.           
+10630producto cosm‚tico              
+10631trimebutina+simeticona          
+10632calcipotriol+betametasona,diprop
+10633l¡pidos marinos+omega3+asoc.    
+10634rupatadina                      
+10635amonio,laurilsulfato+asoc.      
+10637estradiol+algestona,acetofenido 
+10638rivaroxab n                     
+10639moxifloxacina+dexametasona clor.
+10640lauril sulfato de sodio+asoc.   
+10641hierro+asoc.                    
+10642drenoactive fitocomplex+asoc.   
+10643trolamina,salicilato            
+10644lauril sulfato de amonio        
+10645vit.b1+vit.b2+asoc.             
+10646apis,extracto+asoc.             
+10648hierro,dextrano bajo peso molec.
+10649alimentos infantiles            
+10650aliskiren                       
+10651aceite de oliva+asoc.           
+10652dimeticona+asoc.                
+10653prote¡nas de suero              
+10655dietiltoluamida                 
+10656extracto de citronella+asoc.    
+10657midodrine                       
+10658iodixanol                       
+10659B.C.G.inmunoterap‚utico         
+10660amoxicilina+ c.clavul nico+asoc.
+10662omega 3-6                       
+10663valer‚nico, c.+asoc.            
+10664bosentan                        
+10665fluticasona+salmeterol          
+10666aliskiren+hidroclorotiazida     
+10667zinc                            
+10668cafe¡na+asoc.                   
+10669eplerenona                      
+10670insulina lispro                 
+10671ins.lispro+ins.lispro protamina 
+10672metilnaltrexona,bromuro         
+10673centella asi tica+cacao         
+10674ar ndano rojo+asoc.             
+10675aceite de h¡gado de tibur¢n+asoc
+10676sil¡cio+asoc.                   
+10678DHA(dihydroxyacetone)+vit.e     
+10679retinol+asoc.                   
+10680aceite de citronela+asoc.       
+10681alcohol et¡lico+asoc.           
+10682plata+alginato+maltodextrina    
+10683maltodextrina+vit.c             
+10684pantenol+vitamina e             
+10685dexpantenol                     
+10686retinol+glicerina               
+10687pantenol+bisabolol              
+10688 cido dioico+asoc.              
+10689licochalcona                    
+10690arctiina+p‚ptidos apiaceae+asoc.
+10691urea+lactato                    
+10692urea+lactato+carnitina          
+10693carragenatos+asoc.              
+10694potasio,citrato+asoc.           
+10695vac.antimeningoc¢ccica ACYW-135 
+10696extractos naturales+asoc.       
+10697omega 3                         
+10699tranex mico, c.                 
+10700pridinol,mesilato               
+10701tripelenamina                   
+10702l-5-hidroxitriptofano           
+10703lute¡na+asoc.                   
+10704streptococcus pneumoniae+asoc.  
+10705allium cepa+asoc.               
+10706alcohol                         
+10708copolimero de metilvinileter    
+10709sodio perborato                 
+10710alcohol isopropilico            
+10711triclosan                       
+10712copol¡m.metilv.eter maleico+asoc
+10713glucosa+asoc.                   
+10714hidroxietilcelulosa+glicerina   
+10715 cidos grasos+asoc.             
+10716cymbopogon+chitosan             
+10717nicot¡nico. c.+asoc.            
+10718sacarosa                        
+10719coffeeberry+asoc.               
+10720coffeeberry+cafe¡na+asoc.       
+10721alcachofa+asoc.                 
+10722manzanilla                      
+10723naranja dulce                   
+10724palta                           
+10725pr¡mula                         
+10726romero                          
+10727rosas rojas                     
+10728jengibre+asoc.                  
+10729s‚samo+asoc.                    
+10730cedr¢n+asoc.                    
+10732arnica montana+asoc.            
+10733extracto seco de ch¡a           
+10734liporeductyl+asoc.              
+10735eflornitina,clorhidrato         
+10736vasopresina sint‚tica           
+10737prasugrel                       
+10738cetilo,lactato+asoc.            
+10739amonio cuaternario              
+10740irgasan+asoc.                   
+10741placenta,extracto+asoc.         
+10742pol¡mero,acrilato+asoc.         
+10743parafina+asoc.                  
+10744salvado de lino+asoc.           
+10745cymbopogon nardus+asoc.         
+10746tetrap‚ptidos+asoc.             
+10747lapacho                         
+10749dantroleno                      
+10750licopeno+asoc.                  
+10751sulbactam                       
+10752alcohol et¡lico                 
+10753cymbopogon                      
+10754betametasona (fosfato dis¢dico) 
+10755decitabine                      
+10756deferoxamina,mesilato           
+10758posaconazol                     
+10759tocilizumab                     
+10760vitis vin¡fera                  
+10761acetilciste¡na+paracet.+asoc.   
+10762chitosan+asoc.                  
+10763brinzolamida+timolol            
+10764tramadol+paracetamol            
+10766travoprost+hialuronato s¢dico   
+10767folitropina alfa+lutropina alfa 
+10768alcohol+aloe vera+asoc.         
+10769saxagliptina                    
+10770polisorbato 80+glicerina        
+10771candesart n cilexetil+felodipina
+10772sodio,carbonato                 
+10773carbohidratos,amino cidos+asoc. 
+10774dapoxetina,clorhidrato          
+10775ant¡genos virus influenza+A/H1N1
+10776telmisartan+amlodipina          
+10777tiotropio                       
+10778heparina s¢dica+asoc.           
+10780dismutasa,super¢xido            
+10781heparina c lcica                
+10782heparina s¢dica                 
+10783dexametasona fosfato s¢dico     
+10784tiocolchicosido                 
+10785salic¡lico, c.+glic¢lico, c.    
+10787fce-hr                          
+10788dienogest+valerato de estradiol 
+10789desvenlafaxina                  
+10790bacillus clausii,esporas        
+10791omega 3+omega 9+asoc.           
+10792moxifloxacina+dexametasona fosf.
+10793hialur¢nico, c.+sodio,alginato  
+10794atorvastat¡n+fenofibrato        
+10795etonogestrel+etinilestradiol    
+10796prednisolona+oximetazolina      
+10797indacaterol                     
+10798trimebutina+domperidona+simetic.
+10799trimebutina+mosapride           
+10800omeprazol+mosapride             
+10801liraglutida                     
+10802omega 3+l¡pidos marinos         
+10803glucosamina+meloxicam           
+10804clindamicina fosfato+tretino¡na 
+10805lacosamida                      
+10806fenofibrato micronizado         
+10807degarelix                       
+10808vit.+minerales+asoc.            
+10809colistina                       
+10810terpenos                        
+10811colistimetato,sodico            
+10812hidrogel sintetico              
+10813ciclopentaxiloxano+asoc.        
+10814azacitidina                     
+10815aceite de halibut               
+10816besifloxacina clorh.            
+10817poractant alfa                  
+10819memantine clorh.+donepecilo clor
+10820febuxostat                      
+10821arnica montana                  
+10822antiacnil fast                  
+10823polisac.meningoc¢c.A-C-Y-W135   
+10824meloxicam+betametasona+asoc.    
+10825gatifloxacina+dexametasona      
+10826onabotulinumtoxina              
+10828gel pouch                       
+10829temsirolimus                    
+10830naproxeno+lidocaina,clorh.+asoc.
+10831etifoxina clorh.                
+10832ibuprofeno+clorfeniramina+asoc. 
+10833dapoxetina                      
+10834perindopril+amlodipina          
+10835arginina+citrulina              
+10836levofloxacina+fenazopiridina    
+10837tamsulosina+finasteride         
+10838colagenasa+cloranfenicol+asoc.  
+10839aceite de argan+vit.e           
+10840memantine+donepecilo            
+10841tri¢xido ars‚nico               
+108425-azacetidina                   
+10843mometasona furoato              
+10844propilenglicol                  
+10846diacere¡na+sulf.glucosamina pot.
+10847calcio,caseinato                
+10848porf¡mero s¢dico                
+10850dasatinib                       
+10851lenalidomida                    
+10852talidomida                      
+10853panitumumab                     
+10854denosumab                       
+10855diclofenac pot sico+betametasona
+10856roflumilast                     
+10857dienogest                       
+10858ranitidina+domperidona+simetic. 
+10859aliskiren+amlodipina            
+10860extracto de ginger+vit.B6       
+10861dutasteride+tamsulosina         
+10862miconazol,nitr.+¢x.de zinc      
+10863bendamustina,clorh.             
+10864clofarabina                     
+10865nebivolol+hidroclorotiazida     
+10866cabazitaxel                     
+10867fingolimod                      
+10868glucosamina+vit.b6              
+10869inmunog.antilinfocito t humana  
+10870chia+avena+asoc.                
+10871zinc,pidolato+sodio,pidol.+asoc.
+10872zinc,gluconato+aceloglicina+asoc
+10873zinc+vit.b5+asoc.               
+10874zinc,pidol.+cobre,pidol.+asoc.  
+10875piroctone olamine+glicina+aloe v
+10876vit.c+vit.e+asoc.               
+10878vit.e+lanolina+asoc.            
+10879ibandronato,sod.+calcio+vit.d3  
+10881cinacalcet                      
+10882linagliptina                    
+10883romiplostim                     
+10884tetrabenazina                   
+10885poloxamer                       
+10886efavirenz+emtricitabina+tenofov.
+10887enalapril+simvastatina          
+10889resveratrol                     
+10890rosuvastatina+fenofibrato       
+10891meloxicam+diacere¡na            
+10892tafluprost                      
+10893fenilefrina+beclometasona+neomic
+10894ticagrelor                      
+10895adapaleno+clindamicina          
+10896sapropterina,diclorh.           
+10897saxagliptina+metformina clorh.  
+10898belatacept                      
+10899naproxeno+esomeprazol           
+10900diclofenac pot sico+pridinol    
+10901rotigotina                      
+10902etonogestrel                    
+10903bortezomib                      
+10904aceite de chia                  
+10905clofedianol+guafenesina+asoc.   
+10907ID-alG+asoc.                    
+10908canakinumab                     
+10909aceit.borraja+aceit.jojoba+asoc.
+10910glic¢lico, c.+retinol           
+10911prednisolona acetato+fenilefrina
+10912asenapina                       
+10913boceprevir                      
+10914dexlansoprazol                  
+10915drospirenona+etinilestrad.+asoc.
+10916zofenopril                      
+10917fenof¡brico, c.                 
+10918mometasona+formoterol           
+10919cantaxantina+asoc.              
+10920ketorolac trometamina           
+10921tirotricina                     
+10922arginina+ginseng+ar ndanos+asoc.
+10923ciprofloxacina+dexametasona+ c.h
+10924fotoliasa                       
+10925tenofovir disoproxil+lamivudina 
+10926benfotiamina+piridoxina,clorh.  
+10927benfotiamina                    
+10928certolizumab pegol              
+10929sugammadex                      
+10930pazopanib                       
+10931aceites minerales+asoc.         
+10932pirfenidona                     
+10933pluronic                        
+10934glatiramer,acetato              
+10935fosaprepitant dimeglumina       
+10936vit.b1 b6 b12+ c.ti¢ctico       
+10937cinitaprida+simeticona          
+10938nomegestrol,acetato+estradiol   
+10939omega 3-6+avena+pantenol+vit.e  
+10940pantoprazol magnesico           
+10941gatifloxacina+prednisolona,acet.
+10942crizotinib                      
+10943anidulafungina                  
+10944sunitinib                       
+10945factor VIII coagulaci¢n recomb. 
+10946l-isoleucina+asoc.              
+10947fibra prebiotica                
+10948fibra prebiotica+asoc.          
+10949linagliptina+metformina         
+10950fibras de keratina              
+10951resveratrol+asoc.               
+10952peginterferon alfa-2b           
+10953vit.a+vit.e+urea                
+10954isopropyl myristate             
+10955inmunocianina                   
+10956irbesartan+amlodipino           
+10957bepotastina,besilato            
+10958bilastina                       
+10959temoporfin                      
+10960alcaftadina                     
+10961corifolitropina alfa            
+10963darunavir+ritonavir             
+10964axitinib                        
+10965echinacea+vit.c                 
+10966prote¡nas+gl£cidos+vit.+miner.  
+10967vitis vinifera+arandanos+asoc.  
+10968apixaban                        
+10969trolamina                       
+10970guaifenisina+asoc.              
+10971alquitran de hulla              
+10972ext.de avena+manteca de karite  
+10973metilsoyato+quassia             
+10974aceite glicerol trioleato       
+10975vit.k2                          
+10976pro vit.b5                      
+10977tofacitinib                     
+10978fluticasona+oximetazolina clorh.
+10979octocrileno+asoc.               
+10980paclitaxel+alb£mina             
+10981espironolactona+hidroc.         
+10982caf‚ verde,ext+asoc.            
+10983creatina etil                   
+10984ang‚lica+enebro+menta+sauco+asoc
+10985prop¢leo+enebro+menta+vit.c+asoc
+10986hydrocotyle bonaerensis+asoc.   
+10987cafe¡na+cent.asi tica+ginkgo b. 
+10988glicopirronio                   
+10989linoleico, c.conjugado+asoc.    
+10991omega 3+omega 9                 
+10992schizandra+asoc.                
+10993ang‚lica+asoc.                  
+10994abiraterona,acetato             
+10995zinc+l-leucina+l-valina         
+10996metionina,l-cistina,vit.c+asoc. 
+10997metil sulfonil metano           
+10998ribosomas+proteoglicanos        
+10999dapagliflozina                  
+11000p‚ptido c£prico                 
+11001p‚ptido c£prico+asoc.           
+11002rufinamida                      
+11003maca (lipidium periuvianum)     
+11004caf‚ verde                      
+11005nitrato de plata                
+11006darunavir                       
+11008agua termal                     
+11009vilazodona clorh.               
+11010oximetazolina clor.+asoc.       
+11011viscum album L                  
+11012prote¡na soja+grasas+carb.+asoc.
+11013gl£cido bifidog‚nico            
+11014pur‚ frutal,libre de gluten     
+11015difluprednato                   
+11016vinagre nat.+aceite esenc.+asoc.
+11017indacaterol+budesonide          
+11019omega 3+aceite de chia          
+11020omega+licochalcona+decandiol    
+11021poliuretano                     
+11022carisoprolol+paracetamol        
+11024indacaterol+glicopirronio       
+11025mupirocina+hidrocortisona       
+11026insulina degludec               
+11028aceite de jazmin                
+11029aceite de manzana               
+11030gadobutrol                      
+11031virus atenuados herpes zoster   
+11033brimonidina tartrato            
+11034vandetanib                      
+11035ceftarolina fosamil             
+11036hidroxi cidos+tensioactivos     
+11037loxoprofeno sodico anhidro      
+11038chlorella+clorofila+vit.a       
+11039prote¡nas+l¡pidos+gl£cidos      
+11040hexilresorcinol+lidoca¡na+asoc. 
+11041DTaP+IPV+Hep.B+Hib              
+11042fluticasona,propionato          
+11043lurasidona,clorhidrato          
+11044sodio,valproato                 
+11045raltegravir                     
+11046mirabegron                      
+11047losart n, pot sico              
+11048di¢xido de cloro+zinc           
+11049l-arginina+ginseng+asoc.        
+11050selenio metionina               
+11051hip‚rico+soja isoflavonas       
+11052silodosina                      
+11053per¢xido de calcio+fl£or+xilitol
+11054teneligliptina                  
+11055levonorgestrel+etinilestradiol+f
+11056estroncio,acetato+asoc.         
+11057sevelamer,carbonato             
+11058D-Chiro-inositol                
+11061clorfeniramina maleato+ibuprofen
+11062filgrastim peguilado            
+11064polimixina,sulfato              
+11065fentermina                      
+11066espirulina+vit.c+asoc.          
+11067per¢xido de calcio+asoc.        
+11068vortioxetina                    
+11069Vinflunina ditartrato           
+11070solifenacina+tamsulosina        
+11073fluticasona,furoato+vilanterol  
+11074aceite de krill                 
+11075enzalutamida                    
+11076Micafungina S¢dica              
+11077factor XIII                     
+11078daclatasvir                     
+11079leucina                         
+11080beta-alanina                    
+11081dimetil fumarato                
+11083plerixafor                      
+11084ceritinib                       
+11085iodo povacrylex                 
+11086polietilenglicol                
+11087rituximab                       
+11088trehalosa 3                     
+11089bevacizumab                     
+11090vismodegib                      
+11091enfuvirtide                     
+11092trastuzumab                     
+11093trastuzumab+emtasina            
+11094pertuzumab                      
+11095erlotinib                       
+11096vemurafenib                     
+11097elvitegravir+emtricitabina+tenof
+11098albendazol+ivermectina          
+11099perampanel                      
+11100ocriplasmina                    
+11101secukinumab                     
+11102cereal libre de gluten+asoc.    
+11103armodafinilo                    
+11104clonixinato lisina+ciclobenzapri
+11105quinidina,sulfato               
+11106fexofenadina+betametasona       
+11107goma konjac, goma acacia+algas m
+11108propilenglicol+asoc.            
+11109fibras+amino cidos+vitaminas    
+11110perindopril+indapamida+amlodipin
+11111prucalopride                    
+11112sofosbuvir                      
+11113canagliflozina                  
+11114aceite de casta¤a               
+11115semillas de chia+vit.c          
+11116umeclidinio+vilanterol          
+11117empagliflozina                  
+11118doxilamina+piridoxina           
+11121carfilzomib                     
+11122brinzolamida+brimonidina        
+11123fampridina                      
+11124aceite de coco+ c.linoleico conj
+11125dolutegravir                    
+11130ombitasvir+asoc.                
+11131sacubitrilo+valsart n           
+11132lisado bacteriano+vit.a         
+11136rilpivirina+emtricitabina+tenofo
+11137racotumomab                     
+11138aciclovir+hidrocortisona        
+11140interfer¢n beta 1 A             
+11141interfer¢n beta 1 A sin albumina
+11142treprostinil                    
+11143rosuvastatina+ezetimibe         
+11144doxercalciferol                 
+11145rasburicasa                     
+11146soluc.p/conservaci¢n de ¢rganos 
+11147erwinia crisantaspasa           
+11148pembrolizumab                   
+11149vorinostat                      
+11150afatinib                        
+11151tipranavir                      
+11152miglustat                       
+11153macitentan                      
+11154nilotinib                       
+11155ruxolitinib                     
+11156pasireotida                     
+11157ixabepilona                     
+11158ipilimumab                      
+11159natalizumab                     
+11160tafamidis meglumina             
+11161palbociclib                     
+11162belimumab                       
+11163ambrisentan                     
+11164ofatumumab                      
+11165eltrombopag                     
+11166dabrafenib                      
+11167ibrutinib                       
+11168telaprevir                      
+11169etravirina                      
+11170simeprevir                      
+11171golimumab                       
+11172ustekinumab                     
+11173sufentanil, citrato             
+11174trabectedina                    
+11175lapatinib                       
+11176teriflunomida                   
+11177enzimas prote¢liticas           
+11178regorafenib                     
+11179sorafenib                       
+11180aflibercept                     
+11181riociguat                       
+11182olodaterol                      
+11183nivolumab                       
+11184brentuximab vedotin             
+11185mifamurtida                     
+11186myo-inositol+f¢lico, c.         
+11187metil sulfonil metano+asoc.     
+11190eicosapentanoico, c.+asoc.      
+11191benzoca¡na+permetrina+bencilo,be
+11192triptorelina,acetato            
+11193maraviroc                       
+11194dolutegravir+abacavir+lamivudina
+11195atazanavir+cobicistat           
+11196polifenoles de uva+l-arginina   
+11198trametinib                      
+11199hialur¢nico, c+lidoca¡na        
+11200vit.c+magnesio+asoc.            
+11201umeclidinio                     
+11202ajo+perejil+asoc.               
+11203espuma de poliuretano+hidrocoloi
+11204espuma de poliuretano           
+11205espuma de poliuretano+asoc.     
+11206olaparib                        
+11207neoglucosamina                  
+11208zinc+malva+hammamelis           
+11209tiotropio+olodaterol            
+11210garcinia cambogia+l-carnitina+as
+11211pomalidomida                    
+11212aceite de krill+omega 3 DHA     
+11213barosma+asoc.                   
+11214venetoclax                      
+11215gadoxetato,sodio                
+11216nintedanib                      
+11217factor II, IX, X de la coagulaci
+11218deep+eucalipto                  
+11219dapagliflozina+metformina,clorh.
+11220ch¡a+s‚samo+lino                
+11221c£rcuma                         
+11222teanina                         
+11223dicloruro de radio 223          
+11224ledipasvir+sofosbuvir           
+11225obinutuzumabe                   
+11226fluticasona+azelastina          
+11227taurina+asoc.                   
+11229eslicarbazepina                 
+11230aceite de karite+jazm¡n         
+11231ranitidina+simeticona           
+11232claritromicina+ambroxol         
+11233 cidos grasos esenciales omega 3
+11234pertuzumab+trastuzumab          
+11235ulipristal,acetato              
+11236 cido Omega 3-‚steres et¡licos a
+11237poroto blanco+garcinia cambogia+
+11238piroctone olamine               
+11239trifluridina+tipiracilo         
+11240cobimetinib                     
+11241elbasvir+grazoprevir            
+11242loxapina                        
+11243empagliflozina+metformina clorh.
+11244hidrofibra+alginato+carb¢n activ
+11245octanodiol                      
+11247teanina+asoc.                   
+11249stilvid                         
+11250sal baja en sodio 0.03%         
+11251canagliflozina+metformina       
+11252magnesio bisglicinato+asoc.     
+11253magnesio bisglicinato           
+11254zinc,bisglicinato               
+11256cocoamfodiacetato dis¢d.+aceite 
+11257etionamida                      
+11259phytoqueratina+biotina+asoc.    
+11260calcio,lactogluconato+calcio,car
+11262daratumumab                     
+11264hialur¢nico, c.+colageno+resvera
+11265linaclotida                     
+11266cicloserina                     
+11267procapil+asoc.                  
+11268fluticasona,propionato+formotero
+11269ceftolozano+tazobactam          
+11270propranolol,clorh.              
+11271ramucirumab                     
+11273vac.meningoc¢cica multicomponent
+11276lactogluconato,calcio+calcio,car
+11277montelukast+levocetirizina      
+11278efinaconazol                    
+11279ribociclib                      
+11280macrogol                        
+11281osimertinib                     
+11282eletript n                      
+11283fenolftale¡na+per¢xido de hidr¢g
+11284zinc+magnesio+potasio           
+11285faseolamina+prote¡na vegetal    
+11286ciclopentaxiloxano+dimeticona+as
+11287yac¢n+asoc.                     
+11288tenofovir+efavirenz+lamivudina  
+11289kale                            
+11290c£rcuma+jengibre                
+11291cetona de frambuesa             
+11292urapidilo                       
+11293elotuzumab                      
+11294pancreatina+dimetilpolisiloxano 
+11295clorofila+hierro+minerales+vit. 
+11297lumacaftor+ivacaftor            
+11298hidrofibra                      
+11299idarucizumab                    
+11300lipegfilgrastim                 
+11301dexibuprofeno+cafe¡na           
+11302alectinib                       
+11303virus sarampi¢n+papera+rub‚ola+v
+11304amino cidos+vitaminas           
+11305lidoca¡na+clorhexidina          
+11306atezolizumab                    
+11307mepolizumab                     
+11308aceite de tea tree              
+11309psidium guajava                 
+11310col geno hidrolizado            
+11311aceite de citronela+aceite de jo
+11312ivacaftor                       
+11314coaltar+salic¡lico, c.          
+11315paroxetina mesilato             
+11316linagliptina+empagliflozina     
+11317sofosbuvir+velpatasvir          
+11318ceftobiprol medocarilo          
+11319ixazomib                        
+11320baricitinib                     
+11321ixekizumab                      
+11322pegaspargasa                    
+11323bromhexina+butetamato           
+11324apremilast                      
+11325ingenol mebutato                
+11326cal‚ndula,extr.glic¢lico        
+11327peginterferon beta-1a           
+11328fibra soluble de ma¡z           
+11329interfer¢n beta 1 b             
+11330lenvatinib                      
+11332midostaurina                    
+11333Hidr¢xido ferrico III Dextran   
+11334levocetirizina+betametasona     
+11336alirocumab                      
+11337test inmunocromatografico       
+11338vit.k1                          
+11340ceftazidima+avibactam           
+11341eptacog alfa                    
+11342pimienta cayena+pimienta negra+a
+11343carbociste¡na+dextrometorfano br
+11344xilitol+niacinamida+manteca de k
+11345xilitol+niacinamida             
+11346polipodium leucotomos+filtros so
+11347liposomas de vit.a,b3,b2,b7,c,e 
+11348tenofovir alafenamide           
+11349astragalo+quercetina+vit.+miner.
+11350resveratrol+quercetina+vit.+asoc
+11351isoflavonas de soja+calcio+vit.+
+11352cart¡lago de tibur¢n+vit.+miner.
+11353resveratrol+caroteno+vit.+asoc. 
+11354resveratrol+coenzima Q10+vit.+as
+11355dulaglutida                     
+11356emtricitabina+tenofovir alafenam
+11357vedolizumab                     
+11358faseolamina+asoc.               
+11359salic¡lico, c.+glic¢lico, c.+ret
+11360p‚ptidos+urea+asoc.             
+11361yodo+vit.d+ext.vegetal          
+11362trehalosa+caboximetilcelulosa,s¢
+11363frutas+vitaminas                
+11364sarilumab                       
+11365miristamidopropil dimetilamina+a
+11366homomenthyl salicylate+asoc.    
+11367glecaprevir+pibrentasvir        
+11368cistina+biotina+zinc+asoc.      
+11369etelcalcetida                   
+11370avelumab                        
+11371ponatinib                       
+11372ropivacaina                     
+11373brivaracetam                    
+11375ciclopentaxiloxano              
+11376sodio,sulfato anhidro+asoc.     
+11377selexipag                       
+11378fluticasona,furoato+umeclidinio+
+11379apalutamida                     
+11380col geno hidrolizado+lisina+asoc
+11381benzalconio,cloruro+lidoca¡na   
+11382ranitidina+cinitaprida          
+11384erenumab                        
+11385insulina asp rtica bif sica     
+11386epinefrina                      
+11387sodio,cloruro+xilitol           
+11388lidoca¡na+priloca¡na            
+11389emtricitabina+tenofovir alafen.+
+11390aceite de argan+oro coloidal    
+11391clindamicina+xylitol+niacinamida
+11392darunavir+cobicistat+emtricitabi
+11393aquaxyl                         
+11394cytobiol iris                   
+11395oligovita                       
+11396emicizumab                      
+11397naltrexona+bupropion            
+11398ocrelizumab                     
+11399isavuconazol                    
+11400patiromer                       
+11401aceite de ch¡a+asoc.            
+11402talazoparib                     
+11403cabozantinib                    
+11404abemaciclib                     
+11405arginina+cistina+metionina+vit.b
+11406moringa+arginina                
+11407col geno hidrolizado+vit.c+vit.e
+11408zinc+vit.a+vit.c+asoc.          
+11409letermovir                      
+11410sodio,acexamato+cetrimida       
+11411doravirina                      
+11412doravirina+lamivudina+tenofovir 
+11413pitavastatina                   
+11416col geno tipo II no desnatur.+co
+11417selenio glicinato               
+11418centella asi tica+vit.a         
+11419vit.a+zinc,¢xido+xylitol+niacina
+11420acetilciste¡na+c£rcuma+vit.c+aso
+11421acalabrutinib                   
+11422macrogol (polietilenglicol 3350)
+11423ext.seco de ruscus+hesperidina+ 
+11424glicirricina+hexilresorcinol+aso
+11425adapaleno+xylitol+niacinamida   
+11426clorhexidina,gluconato+zinc+asoc
+11427col geno+c£rcuma+asoc.          
+11428magnesio+amino cidos+asoc.      
+11429 c.alfa-lipoico+asoc.           
+11430dupilumab                       
+11431faseolamina                     
+11433idelalisib                      
+11434sofosbuvir+velpatasvir+voxilapre
+11435eribulina                       
+11437drospirenona                    
+11438rintatolimod                    
+11439guselkumab                      
+11440nitisinona                      
+11441cisteamina                      
+11442remifentanilo                   
+11443c£rcuma+vit.e                   
+11444oxicodona+naloxona              
+11446tramadol+dexketoprofeno         
+11447zuclopentixol, decanoato        
+11448zuclopentixol, acetato          
+11449agua para inyectables           
+11450sodio,citrato                   
+11451sodio,acetato                   
+11452magnesio,cloruro                
+11453delafloxacino                   
+11454manitol                         
+11455crisaborol                      
+11456prote¡na de arveja              
+11457sumatript n+naproxeno           
+11458hialur¢nico, c.+urea+asoc.      
+11459dip‚ptido                       
+11460blinatumomab                    
+11461upadacitinib                    
+11462durvalumab                      
+11463sodio,cloruro+carragenina       
+11464rosuvastatina+candesartan+hidroc
+11465benralizumab                    
+11466cariprazina                     
+11467tintura madre de echinacea      
+11468extracto seco de echinacea      
+11469vit.c+l-lisina                  
+11470alpelisib                       
+11471risankizumab                    
+11472c£rcuma+capsaicina              
+11473troxerrutina+magn.ascorbato     
+11474migalastat                      
+11475neratinib                       
+11476edaravona                       
+11477vit.a+vit.d+vit.e+vit.k         
+11478glicopirronio+formoterol,fumarat
+11479 cido carglumico                
+11480tolvaptan                       
+11481 cido c¢lico                    
+11482arginina+astr galo+ginseng+asoc.
+11483factor VIII coagulaci¢n recomb.p
+11484dacomitinib                     
+11485zinc+vit.a+vit.d                
+11486 c. hipocloroso                 
+11487 c. hipocloroso+asoc.           
+11488fenoxietanol                    
+11489 c. docosahexaenoico (DHA)      
+11490vit.d+vit.c+zinc+calcio+magnesio
+11491linezolide                      
+11493aminexil+arginina+calcio        
+11494probi¢t.+vit.c+vit.d+beta-glucan
+11495bosutinib                       
+11496 cidos grasos hiperoxigenados+as
+11497menta+asoc.                     
+11498hierro bisglicinato             
+11499vit.k2+vit.d3+calcio            
+11500glucosamina+col geno tipo II no 
+11501RonaCare AP                     
+11502icatibant                       
+11503vit.d+magnesio                  
+11504Bacilo Calmette-Guerin (BCG)    
+11505esketamina                      
+11506evolocumab                      
+11507lorlatinib                      
+11508safinamida                      
+11509dolutegravir+lamivudina         
+11510EDTA+polihexanida               
+11511cistina+biotina+asoc.           
+11512tezacaftor+ivacaftor            
+11513cistina+biotina+hierro+zinc     
+11514cafe¡na,citrato                 
+11515brigatinib                      
+11516papa,extr.+asoc.                
+11517latanoprosteno bunod            
+11518 c.tranex mico+niacinamida+asoc.
+11519vit.b1+BHB+asoc.                
+11520phaseolus vulgaris+prote¡na de s
+11521carragenina                     
+11522vit.b                           
+11523hierbas para infusi¢n           
+11524teduglutida                     
+11525semaglutida                     
+11526bifidobacterias+lactobacillus+vi
+11527lactobacillus rhamnosus+vit.B6  
+11528cannabidiol                     
+11529vit.d+calcio                    
+11530brexpiprazol                    
+11531inotuzumab ozogamicina          
+11532inmunoglobulina equina antiSARS-
+11533netupitant+palonosetr¢n         
+11534romosozumab                     
+11535brolucizumab                    
+11536evogliptina                     
+11537col geno+c£rcuma+vit.d3         
+11538niacinamida                     
+11539lonoctocog alfa - Factor VIII Re
+11540albutrepenonacog alfa - Factor I
+11541siponimod                       
+11542lanadelumab                     
+11543triglic‚ridos cad. media        
+11545ins.glargina+lixisenatida       
+11546beta¡na anhidra                 
+11547fremanezumab-vfrm               
+11548vit.c+vit.d+zinc                
+11550Ca-HMB+vit.d+magnesio           
+11551vit.c+col g.tipo II no desnatur.
+11552vit.c+cetonas+vinagre de sidra+a
+11553vit.b1 b6 b12+DHA+fosfatidilseri
+11554vit.b1 b6 b12+cafe¡na+ginseng+gu
+11555pimavanserina                   
+11556L-cistina                       
+11557belinostat                      
+11558remdesivir                      
+11559acetilsalic., c+atorvastat¡n+ram
+11560vit.+minerales+coenzima Q10     
+11561amino cidos+col g.hidrolizado+vi
+11562vit.c+vit.d+zinc+asoc.          
+11563zinc+serrapeptasa               
+11564elosulfase alfa                 
+11565alfa cetoan logos de amino cidos
+11566l-triptofano+vit.b3+vit.b6      
+11567quercetina+zinc+vit.c+vit.d+asoc
+11568ketoconazol+ c.salic¡lico       
+11569col g.hidr.+magnesio+ c.hialur.+
+11570col g.hidr.+vit.c+ c.hialur.    
+11571phaseolus vulgaris+vit.e        
+11572homatropina,metilbr.+dipirona   
+11573bisoprolol+amlodipina           
+11575vit.e+eritritol                 
+11576diclofenac s¢dico+paracetamol   
+11577polidocanol+avena               
+11578irinotecan liposomal pegilado   
+11579nonacog beta pegol - Factor IX R
+11580col g.+Ca-HMB+ c.hialur.+vit.c+v
+11581ramipril+amlodipina             
+11582inmunoglobulina antihepatitis A 
+11583niraparib                       
+11584zinc+magnesio+selenio           
+11585folitropina delta               
+11586meclizina,clorhidrato           
+11587stevia+sucralosa                
+11588sodio zirconio ciclosilicato    
+11589elexacaftor+tezacaftor+ivacaftor
+11590titanio,di¢xido+zinc,¢xido      
+11591darolutamida                    
+11593inmunogl.humana+hialuronidasa   
+11594factor IX coagulaci¢n recomb.   
+11595case¡na,glicomacrop‚ptido       
+11596producto m‚dico                 
+11597cannabidiol+asoc.               
+11598autotest COVID                  
+11599tetraciclina+metronidazol+bismut
+11600clortalidona+valsart n          
+11601ozanimod                        
+11602Ca-HMB+vit.d                    
+11603goma x ntica                    
+11604hemina humana                   
+11605L-cistina+vit.b6+col g.         
+11606salic¡lico, c.+mand‚lico, c.    
+11607zinc,sulfato+vit.d              
+11608satralizumab                    
+11609galsulfasa                      
+11610rucaparib                       
+11611fexofenadina+montelukast        

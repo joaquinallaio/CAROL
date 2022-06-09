@@ -1,0 +1,66 @@
+00001No Clasificada                                    
+00002C†psulas/Softgels                                 
+00003Ampollas/Frascos-Ampolla/Liofilizados/Soluc.Parent
+00004Cremas/Geles/Pomadas/UngÅentos                    
+00005Supositorios                                      
+00006Polvo uso externo/Talco                           
+00007Ovulos/Comprimidos vaginales                      
+00008Gotas oft†lmicas/Colirios                         
+00009Gotas/Geles nasales                               
+00010Jarabe/Suspensi¢n oral/Polvo para uso oral        
+00012Shampoo/Jab¢n l°quido                             
+00013Chicles                                           
+00014Caramelos                                         
+00015Parches transdermicos                             
+00016Gotas orales                                      
+00017Enemas/Polvos para uso rectal                     
+00018Tiras reactivas                                   
+00019Geles oft†lmicos                                  
+00020Gotas ¢ticas                                      
+00021Toallitas embebidas                               
+00022Ampollas bebibles                                 
+00023Jab¢n                                             
+00024Sprays/Aerosoles/Soluciones para nebulizar        
+00026Crema de enjuague                                 
+00027Soluci¢n de uso externo/Loci¢n                    
+00029Peine                                             
+00030Jeringa prellenada                                
+00031Dispositivos especiales/Aplicadores               
+00032Saquitos                                          
+00033Tisanas                                           
+00034Accesorios medicinales                            
+00035Cepillos dentales                                 
+00036Colutorios/Buches                                 
+00037Hilos dentales/Palillos Interdentales             
+00038Barritas/Galletitas                               
+00039Cremas dentales                                   
+00040Emulsiones/Leches de Limpieza                     
+00041Kit                                               
+00042Lancetas/Agujas                                   
+00044Batidos/PurÇ/Jugos/Otros alimentos                
+00045Ap¢sitos/Curitas/Adhesivos                        
+00046L†pices labiales                                  
+00047Bombones                                          
+00048Granulados                                        
+00050Profil†cticos                                     
+00051Espumas                                           
+00052Jaleas                                            
+00054Comprimidos/Pastillas/Tabletas/Grageas            
+00055Leches enteras/descremadas                        
+00056Leches maternizadas                               
+00057Leches medicamentosas                             
+00058Aerosoles nasales                                 
+00059Sprays/Aerosoles/Soluc.p/nebulizar CON AEROCAMARA 
+00060Sprays/Aerosoles/Soluc.p/nebulizar CON APLICADOR  
+00061C†psulas para inhalar                             
+00062C†psulas para inhalar+aplicador                   
+00063DISKUS                                            
+00064Aerosoles nasales acuosos                         
+00065CosmÇticos                                        
+00066Granulado+Comprimidos                             
+00067Sobres con l†mina dispersable de uso bucal        
+00068Emulsiones orales                                 
+00069Gotas/Aerosoles nasales                           
+00070Inhalador HFA                                     
+00071Espumas/emulsiones                                
+00072soluc.p/lavado y conservaci¢n de ¢rganos          

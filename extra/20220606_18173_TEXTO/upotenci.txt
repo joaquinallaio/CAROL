@@ -1,0 +1,111 @@
+00001No Clasificada                                    
+00002%                                                 
+00003mg                                                
+00004mcg                                               
+00005mg/5 ml                                           
+00006g                                                 
+00007MUI                                               
+00008UI                                                
+00009mg/3 ml                                           
+00011U/ml                                              
+00012U                                                 
+00014mg/ml                                             
+00015mcg/2 ml                                          
+00016mcg/5 ml                                          
+00017mEq                                               
+00018mm                                                
+00019o/oo                                              
+00021mg/2 ml                                           
+00022mcg/ml                                            
+00023mcg/dosis                                         
+00024g/100 ml                                          
+00025mg/50 ml                                          
+00026g/100 g                                           
+00027g/10 ml                                           
+00028mg/100 g                                          
+00029mg/100 ml                                         
+00030mg/dosis                                          
+00031mg/0.2 ml                                         
+00032volumenes                                         
+00034mg/1.2 ml                                         
+00035mg/g                                              
+00036ml/5 ml                                           
+00039mg/10 ml                                          
+00040mg/4 ml                                           
+00041mg/60 ml                                          
+00042mg/40 ml                                          
+00043mg/0.5 ml                                         
+00045UI/ml                                             
+00046mcg/24 horas                                      
+00047UI/dosis                                          
+00048UI/g                                              
+00049U/0.5 ml                                          
+00050mcg/g                                             
+00051g/5 ml                                            
+00052mg/6 ml                                           
+00053mg/1.5 ml                                         
+00054mg/20 ml                                          
+00058ml/100 g                                          
+00059ml                                                
+00060mg/24 horas                                       
+00062mg/15 ml                                          
+00063mg/2.5 ml                                         
+00064UI/100 g                                          
+00068UI/5 ml                                           
+00069mg/30 ml                                          
+00071g/5 g                                             
+00072mcg/hora                                          
+00074UI/4 g                                            
+00075UI/10 ml                                          
+00076mg/0.6 ml                                         
+00079g/medida                                          
+00080ml/100 ml                                         
+00081MUI/g                                             
+00083mcg/0.5 ml                                        
+00087UI/0.5 ml                                         
+00088g %                                               
+00089mcg/gota                                          
+00090mg %                                              
+00091ng                                                
+00092MUI/ml                                            
+00093UI/0.2 ml                                         
+00094UI/0.3 ml                                         
+00095UI/0.6 ml                                         
+00096UI/0.8 ml                                         
+00097mg/UI                                             
+00098UI/1-0.5 ml                                       
+00099UI/2.5 ml                                         
+00100mcg/mg                                            
+00101MUI/mg                                            
+00102g%/mg                                             
+00103g%/MU%                                            
+00104mEq/ml                                            
+00105mEq/5 ml                                          
+00106mg/UI/ml                                          
+00107UFP                                               
+00108DICT 50                                           
+00109DL 50                                             
+00113UI/ml Cte.                                        
+00114UI/ml Lenta                                       
+00115UI/ml NPH                                         
+00116UI/ml PZ                                          
+00117UI/ml MC                                          
+00118UI/ml UL                                          
+00120UI/2 ml                                           
+00123UI/0.75 ml                                        
+00124UI/1.75 ml                                        
+00125UI/1.5 ml                                         
+00127g/4 ml                                            
+00128mg/0.4 ml                                         
+00130mg/0.3 ml                                         
+00131g%/UI/g%                                          
+00132mcg/0.3 ml                                        
+00133mcg/1.5 ml                                        
+00134mcg/0.75 ml                                       
+0013522mcg/0.5ml                                       
+00136mg/0.8 ml                                         
+00138UI/6 ml                                           
+00139mg/0.9 ml                                         
+00140mcg HA/cepa                                       
+00141mg/1.14 ml                                        
+00142ppm                                               
