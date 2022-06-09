@@ -1,4 +1,4 @@
-Principio activo;Potencia;Unidad de potencia;Unidades;Tipo;Forma farmacéutica;Precio de referencia
+Principio activo;Potencia;Unidad de potencia;Unidades;Tipo;Forma farmacï¿½utica;Precio de referencia
 acenocumarol;4;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.635,90
 allopurinol;100;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 441,12
 allopurinol;100;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 826,54
@@ -22,12 +22,12 @@ atenolol;50;mg;28;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 916,75
 atenolol;50;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 982,07
 atenolol;50;mg;56;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.909,82
 atenolol;50;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.964,34
-atorvastatín;10;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.869,56
-atorvastatín;10;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 5.260,23
-atorvastatín;20;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.545,36
-atorvastatín;20;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 8.703,31
-atorvastatín;40;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 5.312,01
-atorvastatín;80;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 7.806,26
+atorvastatï¿½n;10;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.869,56
+atorvastatï¿½n;10;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 5.260,23
+atorvastatï¿½n;20;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.545,36
+atorvastatï¿½n;20;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 8.703,31
+atorvastatï¿½n;40;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 5.312,01
+atorvastatï¿½n;80;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 7.806,26
 bezafibrato;400;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.011,36
 biperideno;2;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 662,98
 biperideno;2;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,74
@@ -80,8 +80,8 @@ espironolactona;100;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.49
 espironolactona;25;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.044,02
 espironolactona;50;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.847,42
 ezetimibe;10;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.567,63
-fenitoína;100;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.772,07
-fenitoína;100;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 6.129,59
+fenitoï¿½na;100;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.772,07
+fenitoï¿½na;100;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 6.129,59
 furosemida;40;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.474,83
 furosemida;40;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.419,05
 gabapentin;100;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.646,75
@@ -112,10 +112,10 @@ levotiroxina;25;mcg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 622,95
 levotiroxina;50;mcg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 828,37
 levotiroxina;75;mcg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.136,34
 levotiroxina;88;mcg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.469,46
-losartán;100;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.479,81
-losartán;100;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.123,50
-losartán;50;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.864,62
-losartán;50;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.610,83
+losartï¿½n;100;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.479,81
+losartï¿½n;100;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.123,50
+losartï¿½n;50;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.864,62
+losartï¿½n;50;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.610,83
 mesalazina;1200;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 12.097,26
 mesalazina;1200;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 23.750,29
 mesalazina;500;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 5.583,48
@@ -144,7 +144,9 @@ oxcarbazepina;300;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.921,
 oxcarbazepina;300;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 8.809,35
 oxcarbazepina;600;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 9.478,79
 oxcarbazepina;600;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 16.142,43
-paracetamol;600;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 500,00
+paracetamol;400;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 450,00
+paracetamol;500;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 500,00
+paracetamol;1;g;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 900,00
 pramipexol;0.25;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.606,16
 pramipexol;0.25;mg;100;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 6.876,97
 pramipexol;1;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 6.037,52
@@ -174,39 +176,39 @@ topiramato;25;mg;56;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.432,98
 topiramato;50;mg;28;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.444,27
 topiramato;50;mg;56;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 6.700,85
 verapamilo;240;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.666,51
-brimonidina;0.2;g %;1;unidades de 5 ml;Gotas oftálmicas/Colirios;$ 2.093,84
+brimonidina;0.2;g %;1;unidades de 5 ml;Gotas oftï¿½lmicas/Colirios;$ 2.093,84
 budesonide;0.1;g %;1;unidades de 20 ml;Sprays/Aerosoles/Soluciones para nebulizar;$ 2.229,25
 budesonide;200;mcg/dosis;200;dosis;Sprays/Aerosoles/Soluc.p/nebulizar CON APLICADOR;$ 1.719,53
 budesonide;50;mcg/dosis;200;dosis;Aerosoles nasales;$ 1.639,94
 budesonide+formoterol;160/4.5;mcg/dosis;120;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 8.906,61
-budesonide+formoterol;200/6;mcg/dosis;120;unidades;Cápsulas para inhalar;$ 9.251,42
-budesonide+formoterol;200/6;mcg/dosis;60;unidades;Cápsulas para inhalar;$ 7.003,54
+budesonide+formoterol;200/6;mcg/dosis;120;unidades;Cï¿½psulas para inhalar;$ 9.251,42
+budesonide+formoterol;200/6;mcg/dosis;60;unidades;Cï¿½psulas para inhalar;$ 7.003,54
 budesonide+formoterol;80/4.5;mcg/dosis;120;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 7.024,75
-budesonide+formoterol;400/12;mcg/dosis;60;unidades;Cápsulas para inhalar+aplicador;$ 9.136,16
-dorzolamida;2;g %;1;unidades de 5 ml;Gotas oftálmicas/Colirios;$ 2.585,11
-dorzolamida+timolol;2/0.5;g %;1;unidades de 5 ml;Gotas oftálmicas/Colirios;$ 3.102,40
+budesonide+formoterol;400/12;mcg/dosis;60;unidades;Cï¿½psulas para inhalar+aplicador;$ 9.136,16
+dorzolamida;2;g %;1;unidades de 5 ml;Gotas oftï¿½lmicas/Colirios;$ 2.585,11
+dorzolamida+timolol;2/0.5;g %;1;unidades de 5 ml;Gotas oftï¿½lmicas/Colirios;$ 3.102,40
 fluticasona;125;mcg/dosis;120;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 3.843,16
 fluticasona;250;mcg/dosis;120;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 4.095,64
 fluticasona;50;mcg/dosis;120;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 948,03
 fluticasona;50;mcg/dosis;60;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 540,21
 haloperidol;2;mg/ml;1;unidades de 30 ml;Gotas orales;$ 1.119,05
 ipratropio,bromuro;25;mg/100 ml;1;unidades de 20 ml;Sprays/Aerosoles/Soluciones para nebulizar;$ 928,19
-latanoprost;50;mcg/ml;1;unidades de 2.5 ml;Gotas oftálmicas/Colirios;$ 1.982,88
+latanoprost;50;mcg/ml;1;unidades de 2.5 ml;Gotas oftï¿½lmicas/Colirios;$ 1.982,88
 mesalazina;4000;mg;30;unidades;Granulados;$ 36.387,04
-montelukast;4;mg;30;unidades;Jarabe/Suspensión oral/Polvo para uso oral;$ 3.050,40
-risperidona;1;mg/ml;1;unidades de 30 ml;Jarabe/Suspensión oral/Polvo para uso oral;$ 2.697,46
+montelukast;4;mg;30;unidades;Jarabe/Suspensiï¿½n oral/Polvo para uso oral;$ 3.050,40
+risperidona;1;mg/ml;1;unidades de 30 ml;Jarabe/Suspensiï¿½n oral/Polvo para uso oral;$ 2.697,46
 salbutamol;0.5;g %;1;unidades de 20 ml;Sprays/Aerosoles/Soluciones para nebulizar;$ 1.016,20
 salbutamol;100;mcg/dosis;250;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 1.163,16
-timolol,maleato;0.5;g %;1;unidades de 5 ml;Gotas oftálmicas/Colirios;$ 1.235,46
-valproico,ác.;250;mg/5 ml;1;unidades de 120 ml;Jarabe/Suspensión oral/Polvo para uso oral;$ 1.032,98
+timolol,maleato;0.5;g %;1;unidades de 5 ml;Gotas oftï¿½lmicas/Colirios;$ 1.235,46
+valproico,ï¿½c.;250;mg/5 ml;1;unidades de 120 ml;Jarabe/Suspensiï¿½n oral/Polvo para uso oral;$ 1.032,98
 haloperidol;50;mg/ml;1;unidades de 3 ml;Ampollas/Frascos-Ampolla/Liofilizados/Soluc.Parent;$ 2.793,51
 acenocumarol;1;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 822,75
 acenocumarol;4;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.328,39
-acetilsalicílico,ác.;100;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 230,32
-acetilsalicílico,ác.;100;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 502,88
-acetilsalicílico,ác.;325;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 490,70
-acetilsalicílico,ác.;325;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 873,85
-valproico,ác.;250;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.858,10
+acetilsalicï¿½lico,ï¿½c.;100;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 230,32
+acetilsalicï¿½lico,ï¿½c.;100;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 502,88
+acetilsalicï¿½lico,ï¿½c.;325;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 490,70
+acetilsalicï¿½lico,ï¿½c.;325;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 873,85
+valproico,ï¿½c.;250;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.858,10
 allopurinol;300;mg;40;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.515,50
 allopurinol;300;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.543,64
 amantadina;100;mg;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.255,74
@@ -221,24 +223,24 @@ atenolol;100;mg;28;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.273,27
 atenolol;100;mg;56;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.537,59
 atenolol;25;mg;98;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 656,53
 atenolol;50;mg;100;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 714,78
-atorvastatín;10;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.610,77
-atorvastatín;10;mg;100;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.888,56
-atorvastatín;20;mg;100;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 8.709,51
-atorvastatín;40;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.054,08
+atorvastatï¿½n;10;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.610,77
+atorvastatï¿½n;10;mg;100;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.888,56
+atorvastatï¿½n;20;mg;100;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 8.709,51
+atorvastatï¿½n;40;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.054,08
 ipratropio,bromuro;20;mcg/dosis;250;dosis;Sprays/Aerosoles/Soluc.p/nebulizar CON APLICADOR;$ 1.484,19
 ipratropio,bromuro;21;mcg/dosis;120;dosis;Sprays/Aerosoles/Soluc.p/nebulizar CON APLICADOR;$ 892,43
 budesonide;200;mcg/dosis;200;dosis;Sprays/Aerosoles/Soluc.p/nebulizar CON AEROCAMARA;$ 1.938,42
 budesonide;100;mcg/dosis;100;dosis;Aerosoles nasales;$ 1.060,82
 budesonide;2;mg;14;unidades;Enemas/Polvos para uso rectal;$ 18.071,71
 budesonide;2;mg;7;unidades;Enemas/Polvos para uso rectal;$ 6.931,05
-budesonide;200;mcg/dosis;60;unidades;Cápsulas para inhalar;$ 2.476,73
+budesonide;200;mcg/dosis;60;unidades;Cï¿½psulas para inhalar;$ 2.476,73
 budesonide;200;mcg/dosis;100;dosis;Sprays/Aerosoles/Soluc.p/nebulizar CON AEROCAMARA;$ 6.186,44
 budesonide;200;mcg/dosis;60;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 584,04
 budesonide+formoterol;200/6;mcg/dosis;150;unidades;Sprays/Aerosoles/Soluciones para nebulizar;$ 3.303,79
 budesonide+formoterol;200/6;mcg/dosis;60;unidades;Sprays/Aerosoles/Soluciones para nebulizar;$ 1.413,23
 budesonide;200;mcg/dosis;100;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 2.914,84
 budesonide;3;mg;100;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 29.495,63
-budesonide;400;mcg/dosis;60;unidades;Cápsulas para inhalar;$ 2.485,97
+budesonide;400;mcg/dosis;60;unidades;Cï¿½psulas para inhalar;$ 2.485,97
 budesonide;400;mcg/dosis;200;dosis;Sprays/Aerosoles/Soluc.p/nebulizar CON AEROCAMARA;$ 3.726,32
 budesonide;400;mcg/dosis;100;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 5.002,14
 budesonide;50;mcg/dosis;200;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 4.077,74
@@ -246,7 +248,7 @@ budesonide;50;mcg/dosis;200;Frasco por 10ML;Frasco / Spray Intranasal;$ 907,93
 budesonide;50;mcg/dosis;200;dosis;Sprays/Aerosoles/Soluc.p/nebulizar CON AEROCAMARA;$ 7.873,47
 budesonide;9;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 15.966,66
 budesonide;100;mcg/dosis;100;Frasco por 10ML;Frasco / Spray Intranasal;$ 943,92
-carbamazepina;100;mg/5 ml;1;unidades de 100 ml;Jarabe/Suspensión oral/Polvo para uso oral;$ 708,02
+carbamazepina;100;mg/5 ml;1;unidades de 100 ml;Jarabe/Suspensiï¿½n oral/Polvo para uso oral;$ 708,02
 carbamazepina;400;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 6.545,42
 carbamazepina;400;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.889,84
 litio,carbonato;300;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.935,25
@@ -284,10 +286,10 @@ entacapone;200;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 7.729,87
 espironolactona;25;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.425,72
 espironolactona;25;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.398,32
 etosuximida;250;mg;25;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.489,65
-etosuximida;250;mg/5 ml;1;unidades de 120 ml;Jarabe/Suspensión oral/Polvo para uso oral;$ 2.538,71
+etosuximida;250;mg/5 ml;1;unidades de 120 ml;Jarabe/Suspensiï¿½n oral/Polvo para uso oral;$ 2.538,71
 ezetimibe;10;mg;28;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.727,21
-fenitoína;100;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.649,56
-fenitoína;100;mg;90;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 9.315,94
+fenitoï¿½na;100;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.649,56
+fenitoï¿½na;100;mg;90;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 9.315,94
 fenobarbital;100;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.770,91
 fenobarbital;15;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 715,86
 flecainida;100;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.294,34
@@ -321,8 +323,8 @@ leflunomida;20;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.828,90
 levomepromazina;100;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.849,10
 levomepromazina;2;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.020,21
 levomepromazina;2;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 801,91
-losartán;100;mg;28;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.777,57
-losartán;50;mg;15;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 444,94
+losartï¿½n;100;mg;28;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.777,57
+losartï¿½n;50;mg;15;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 444,94
 mesalazina;1000;mg;50;unidades;Granulados;$ 18.344,64
 mesalazina;1;g;30;unidades;Supositorios;$ 13.099,04
 mesalazina;1000;mg;7;unidades de 100 ml;Enemas/Polvos para uso rectal;$ 6.849,33
@@ -361,8 +363,8 @@ orlistat;120;mg;21;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.483,38
 orlistat;120;mg;42;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 6.321,63
 orlistat;120;mg;84;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 10.502,61
 orlistat;60;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 3.794,55
-oxcarbazepina;300;mg/5 ml;1;unidades de 100 ml;Jarabe/Suspensión oral/Polvo para uso oral;$ 3.081,32
-pilocarpina;2;g %;1;unidades de 15 ml;Gotas oftálmicas/Colirios;$ 858,84
+oxcarbazepina;300;mg/5 ml;1;unidades de 100 ml;Jarabe/Suspensiï¿½n oral/Polvo para uso oral;$ 3.081,32
+pilocarpina;2;g %;1;unidades de 15 ml;Gotas oftï¿½lmicas/Colirios;$ 858,84
 pilocarpina;5;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.543,82
 piribedil;50;mg;30;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.349,08
 piribedil;50;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.510,10
@@ -377,15 +379,15 @@ propafenona;150;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.428,24
 propafenona;300;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.098,76
 propafenona;300;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 4.536,15
 quinidina,sulfato;200;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.379,56
-risperidona;1;mg/ml;1;unidades de 100 ml;Jarabe/Suspensión oral/Polvo para uso oral;$ 9.713,98
+risperidona;1;mg/ml;1;unidades de 100 ml;Jarabe/Suspensiï¿½n oral/Polvo para uso oral;$ 9.713,98
 risperidona;25;mg;1;unidades;Ampollas/Frascos-Ampolla/Liofilizados/Soluc.Parent;$ 15.240,89
 risperidona;37.5;mg;1;unidades;Ampollas/Frascos-Ampolla/Liofilizados/Soluc.Parent;$ 22.469,28
 salbutamol;100;mcg/dosis;250;dosis;Sprays/Aerosoles/Soluc.p/nebulizar CON AEROCAMARA;$ 1.536,10
 metoprolol;100;mg;28;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.765,95
-brimonidina;0.15;g %;1;unidades de 5 ml;Gotas oftálmicas/Colirios;$ 2.632,05
-timolol,maleato;0.5;g %;1;unidades de 2.5 ml;Gotas oftálmicas/Colirios;$ 2.149,88
-timolol,maleato;0.25;g %;1;unidades de 5 ml;Gotas oftálmicas/Colirios;$ 648,50
-timolol,maleato;0.5;g %;1;unidades de 10 ml;Gotas oftálmicas/Colirios;$ 1.599,06
+brimonidina;0.15;g %;1;unidades de 5 ml;Gotas oftï¿½lmicas/Colirios;$ 2.632,05
+timolol,maleato;0.5;g %;1;unidades de 2.5 ml;Gotas oftï¿½lmicas/Colirios;$ 2.149,88
+timolol,maleato;0.25;g %;1;unidades de 5 ml;Gotas oftï¿½lmicas/Colirios;$ 648,50
+timolol,maleato;0.5;g %;1;unidades de 10 ml;Gotas oftï¿½lmicas/Colirios;$ 1.599,06
 topiramato;100;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 10.046,80
 topiramato;15;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 2.923,09
 topiramato;25;mg;60;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 5.037,93
@@ -398,6 +400,20 @@ warfarina;5;mg;20;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 754,39
 warfarina;5;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
 fluticasona+salmeterol;125/25;mcg/dosis;120;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 5.915,67
 fluticasona+salmeterol;250/25;mcg/dosis;120;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 7.485,35
-fluticasona+salmeterol;250/50;mcg/dosis;60;dosis;Cápsulas para inhalar+aplicador;$ 4.851,05
+fluticasona+salmeterol;250/50;mcg/dosis;60;dosis;Cï¿½psulas para inhalar+aplicador;$ 4.851,05
 fluticasona+salmeterol;50/25;mcg/dosis;120;dosis;Sprays/Aerosoles/Soluciones para nebulizar;$ 6.535,98
-fluticasona+salmeterol;500/50;mcg/dosis;60;dosis;Cápsulas para inhalar+aplicador;$ 4.873,93
+fluticasona+salmeterol;500/50;mcg/dosis;60;dosis;Cï¿½psulas para inhalar+aplicador;$ 4.873,93
+azitromicina;500;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+warfarina;5;mg;50;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+clonazepam;0.5;mg;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+clonazepam;0.25;mg;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+clonazepam;2;mg;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+ibuprofeno;400;mg;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+ibuprofeno;600;mg;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+ibuprofeno;1;g;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+ibuprofeno;1000;mg;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+amoxicilina;400;mg;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+amoxicilina;250;mg;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+amoxicilina;500;mg;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+amoxicilina;1000;mg;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
+amoxicilina;1;g;10;unidades;Comprimidos/Pastillas/Tabletas/Grageas;$ 1.698,01
