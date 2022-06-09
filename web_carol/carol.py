@@ -6,9 +6,6 @@ import numpy as np
 with open("style.css") as f:
      st.markdown(f'<style>(f.read())</style>', unsafe_allow_html=True)
 
-# with open('style.css')as f:
-#    st.markdown(f'<style>{f.read()}</style>',unsafe_allow_html=True)
-
 header=st.container()
 dataset=st.container()
 features = st.container()
@@ -42,14 +39,8 @@ if image is not None:
 
     # Detect text
     word_list = detect_text(image.getvalue())
-    print(word_list)
-
-    #
     st.markdown(word_list)
     prediction = predict(word_list)
-
-    print('prediction:', prediction)
-
     drugs = get_drugs(prediction)
     st.markdown(drugs)
 
@@ -67,27 +58,36 @@ if image is not None:
 #st.markdown('Resultado de la lectura de la receta:')
 
 # COnfirmar medicamentos y cantidad
-#st.write("#")
-#st.write("#")
-#st.write("#")
-#st.write("#")
-#st.write("#")
-#st.write("#")
-#st.write("#")
 
 '''
 ## 2️⃣Confirmá tus medicamentos acá 👇🏽
 '''
-# options = []
-# for drug in drugs:
-#     print(drug)
-#     options.append(drug['id'] + " " + drug['description'] + " " + drug['publicPrice'])
-
-#st.selectbox('Seleccioná tus medicamentos', drugs['description'])
-#drugs.style.hide_index()
 st.dataframe(drugs[['description', 'prices']].style.hide_index())
 
 '''
 ## Este es el precio de tu medicamento
 '''
 st.write("<h5 style='text-align: center; color: light green;'>🤑🤑Acá va el precio luego del query🤑🤑</h5>", unsafe_allow_html=True)
+
+
+
+if option == 1:
+    select_image()
+if option == 2:
+    take_photo()
+
+
+def select_image():
+    drugs = []
+    image = st.file_uploader("", type=["png", "jpg", "jpeg", "pdf"])
+    if image is not None:
+        st.image(image, use_column_width=True)
+        st.write("<h3 style='text-align: center; color: white;'>Cargaste tu receta!</h3>", unsafe_allow_html=True)
+        st.write("<h5 style='text-align: center; color: light green;'>Continuemos👇🏽</h5>", unsafe_allow_html=True)
+
+        # Detect text
+        word_list = detect_text(image.getvalue())
+        st.markdown(word_list)
+        prediction = predict(word_list)
+        drugs = get_drugs(prediction)
+        st.markdown(drugs)

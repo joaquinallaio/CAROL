@@ -1,0 +1,1032 @@
+00001Limpieza de pr¢tesis dentales   
+00002Hidratante                      
+00003T¢pico para verrugas            
+00004Antibi¢tico                     
+00005Trat.halitosis                  
+00006Hidratante Protector solar      
+00007Autocontrol diabetes/colester   
+00008Flebot¢nico                     
+00009Termodetector de celulitis      
+00010Antimic¢tico                    
+00011Biorregulador cut neo           
+00012Antis‚ptico                     
+00013Soluci¢n viscoel stica          
+00014Antioxidante Fotoprotector      
+00015Inmunosupresor                  
+00016Calciter pico                   
+00017Control Accutrend GC            
+00018Producto alimenticio            
+00019Anab¢lico                       
+00020Control glucosa                 
+00021Analg‚sico                      
+00022Anest‚sico                      
+00023Anorex¡geno                     
+00024Antiflatulento                  
+00025Anti cido                       
+00026Antiagregante plaquetario       
+00027Antial‚rgico                    
+00028Antian‚mico                     
+00029Antiarr¡tmico                   
+00030Antiartr¢sico                   
+00031Antiasm tico                    
+00032Anticelul¡tico                  
+00033Control colesterol              
+00034Anticoagulante                  
+00035Anticolin‚rgico                 
+00036Anticonceptivo                  
+00037Anticonvulsivo                  
+00038Antidiarreico                   
+00039Laxante de contacto             
+00040Antihistam¡nico Corticoster.    
+00041Antiem‚tico                     
+00042Antiespasm¢dico                 
+00043Antifatigante                   
+00044Antimic¢tico Antiseborreico     
+00045Antiinfeccioso urinario         
+00046Antigotoso                      
+00047Antigripal                      
+00048Antihepar¡nico                  
+00049Antihemorr gico                 
+00050Antihemorroidal                 
+00051Antimiast‚nico                  
+00052Antihistam¡nico                 
+00053Antiinflamatorio                
+00054Autocontrol diabetes            
+00055Antineopl sico                  
+00056Antimigra¤oso                   
+00057Antipruriginoso                 
+00058Antiparasitario                 
+00059Antiparkinsoniano               
+00060Antirreum tico                  
+00061Antis‚ptico vaginal             
+00062Antiseborreico                  
+00063Antihipertiroideo               
+00064Antit¢xico                      
+00065Antitusivo Expectorante         
+00066Antiulceroso                    
+00067Antivaricoso                    
+00068Antiosteopor¢tico               
+00069Analg‚sico Antis‚p.bucofar.     
+00070Activador metab¢lico muscular   
+00071Cardiot¢nico                    
+00072Antidiarreico Antiflatulento    
+00073Citost tico                     
+00074Antihemorroidal Antiinflamat.   
+00075Bals mico                       
+00076Colagogo                        
+00077Coler‚tico                      
+00078Inmunoterapia pasiva            
+00079Corticosteroide                 
+00080Regularizador femenino          
+00081Dermatol¢gico                   
+00082Vacuna antisarampionosa         
+00083Digestivo                       
+00084Lubricante Suavizante           
+00085Diur‚tico                       
+00086Edulcorante                     
+00088Oxigenador pulmonar             
+00089F¢rmula de inicio               
+00090Estrogenoterapia                
+00091Evacuante intestinal            
+00092Injerto ¢seo osteoconductor     
+00093Fibrinol¡tico                   
+00094Laxante Lubricante              
+00095Gonadotropinoterapia            
+00096Heparinoide                     
+00097Hepatoprotector                 
+00098Hiperglucemiante                
+00099F¢rmula de continuaci¢n         
+00100Trat.t¢pico de la ros cea       
+00101Hipocolesterolemiante           
+00102Hipolipemiante                  
+00103Hipoglucemiante                 
+00104Antagonista benzodiazep¡nico    
+00105Laxante Digestivo               
+00106Vacuna antit¡fica               
+00107Inductor ovulaci¢n              
+00108Inmunomodulador                 
+00109Bronceador                      
+00110Inmunoestimulante               
+00111Flebotr¢fico                    
+00112Gastrocin‚tico                  
+00113Antiisqu‚mico celular           
+00114Esclerosante                    
+00115F¢rmula para prematuros         
+00116Ocit¢cico                       
+00117Lipol¡tico                      
+00118Mucol¡tico                      
+00119Neurol‚ptico                    
+00120Reconstituyente flora intest.   
+00121Simpaticol¡tico                 
+00122Antibacteriano Cicatrizante     
+00123Diur‚tico Antihistam¡nico       
+00124Pantalla solar                  
+00125T¢pico gingival                 
+00126Medio de diagn¢stico            
+00127Orex¡geno                       
+00128Antivertiginoso                 
+00129Ectoparasiticida                
+00130Neurorregenerador               
+00131Bloqueante alfa-1 selectivo     
+00132Trat.dermatitis del pa¤al       
+00133Antiarrugas                     
+00134F¢rmula hipoalerg‚nica          
+00135Estimulante del tej.conjuntivo  
+00136Antibacteriano Antiinflam.      
+00137Epitelizante Regenerador        
+00138Quimioter pico                  
+00139Revitalizante Antiast‚nico      
+00140Citoprotector                   
+00141Mejorador calidad de la piel    
+00142Rehidratante oral               
+00143Antiinfeccioso Antibi¢tico      
+00144Hipn¢tico no barbit£rico        
+00145Antiosteol¡tico                 
+00146Uterot¢nico                     
+00147Simpaticomim‚tico               
+00148Repelente de insectos           
+00149Quimioter pico Expectorante     
+00150Protector labial                
+00151Hormonosupresor                 
+00152Vasorregulador Antioxidante     
+00153Soluciones parenterales         
+00154Aplicador de insulina           
+00155Dermoaclarante                  
+00156Suplemento nutricional          
+00157Vacuna                          
+00158Vasodilatador                   
+00159Antibi¢tico Antineopl sico      
+00160Tonificante muscular            
+00161Tricomonicida                   
+00162Procin‚tico esof gico           
+00163Antisarro Anticaries            
+00164Vacuna antiacneica              
+00165Limpieza capilar                
+00166Vasodilatador perif‚rico        
+00167Prevenci¢n reinfest.piojos      
+00168Refrescante de la piel          
+00169Analg‚sico Rubefaciente         
+00170Test de embarazo                
+00171Medio de contraste no i¢nico    
+00172Antiinflam.prost tico           
+00173Activador cerebral              
+00174F rmaco antiobesidad no sist‚m. 
+00175Broncodilatador                 
+00176Cicatrizante                    
+00177Antitusivo Bals mico            
+00178Nutrici¢n esp.p/HIV o SIDA      
+00179Blanqueador dental              
+00180Antihipertensivo                
+00181Antibacteriano                  
+00182Antineur¡tico                   
+00183Venot¢nico                      
+00184Antiprost tico                  
+00185Antidepresivo                   
+00186Nutrici¢n p/pacientes renales   
+00187Ansiol¡tico                     
+00188Antitusivo                      
+00190Inhibidor fotoenvejecimiento    
+00191Anhidr¢tico                     
+00192Antiedematoso                   
+00193Anticaspa                       
+00195Hipoalerg‚nico                  
+00196Vacuna contra el c¢lera         
+00197Antianginoso                    
+00198Bioestimulante                  
+00199Descongestivo prost tico        
+00200Antibi¢tico Tuberculost tico    
+00201Modulador 1§ tiempo digesti¢n   
+00202Sustituto lacrimal              
+00203Test r pido de diagn.card¡aco   
+00204Pediculicida                    
+00205Descongestivo nasal y ocular    
+00206Factor estim.crec.granulocitos  
+00207Estimulante crec.faneras        
+00208Nutrici¢n isot¢nica balanceada  
+00209Fitoter pico                    
+00210Relajante muscular              
+00211Antilitog‚nico Litol¡tico       
+00212Regulador sue¤o-vigilia         
+00213Descongestivo                   
+00214Antibacteriano intestinal       
+00215Bactericida                     
+00216Miorrelajante col¢nico          
+00217Biosensor de glucosa            
+00218Inmunizaci¢n antitet nica       
+00219Trat.hiperpotasemia             
+00220Trat.s¡ndrome premenstrual      
+00221Higiene personal                
+00222Humectante                      
+00223Hidratante Nutriente d‚rmico    
+00224Progest geno                    
+00225Soluci¢n p/lavado intestinal    
+00226Hipertensor                     
+00227Laxante                         
+00228Expectorante                    
+00229Vasodilatador cerebral          
+00230Soluci¢n cardiopl‚jica          
+00231Antitromb¢tico                  
+00232Antiviral                       
+00233Roc¡o vegetal oleoso            
+00234Vasoactivador cerebral          
+00235Midri tico                      
+00236Lubricante                      
+00237Lubricante vaginal              
+00238Betabloqueante                  
+00239Bioenergizante                  
+00240Antiherp‚tico                   
+00241Limpiador enzim tico            
+00242Desinfectante                   
+00243Trat.de la obesidad             
+00244Tricogen‚tico Antiseborreico    
+00245Digestivo enzim tico            
+00246Antiestrog‚nico                 
+00248Antibi¢tico vaginal             
+00249Antial‚rgico Antiinflamatorio   
+00250Antioxidante Protector d‚rmico  
+00251Electrolito Regulador           
+00252Antiinflam.Antipruriginoso      
+00253Protector solar                 
+00254Vacuna contra hepatitis B       
+00255Energizante masculino           
+00256Trat.p/pieles intolerantes      
+00257Antiglaucomatoso                
+00258Antibi¢tico Descongest.         
+00259Antis‚ptico Desinfectante       
+00260Limpiador p/piel acneica        
+00261Detecci¢n sangre en mat.fecal   
+00262Surfactante pulmonar            
+00263Antibi¢tico Anest‚sico bucof.   
+00264Timol‚ptico                     
+00265Antiacneico                     
+00266Inmunoterapia oral              
+00267Anticatarata                    
+00268Sal bajo cont.en sodio          
+00269Evita el contagio de piojos     
+00270Reconstituyente                 
+00271Antibi¢tico Analg‚sico          
+00272Ciclopl‚jico                    
+00273Ansiol¡tico Neurol‚ptico        
+00274Trat.retenci¢n urinaria         
+00275Inhibidor de la proteasa        
+00276Contraste radiol¢gico           
+00277Higiene de p rpados             
+00278Anest‚sico gral.                
+00279Terap‚utica prost tica          
+00280Coadyuvante en oncolog¡a        
+00282Normalizador de la mucosa       
+00283Complemento dietario            
+00284Crema dental                    
+00285Depresor del musc.liso          
+00286Crema ¡ntima masculina          
+00287Anticariog‚nico                 
+00288Vacuna conj.Haemophilus b       
+00289Antiast‚nico                    
+00290Vacuna antitricomoni sica       
+00291Hipn¢tico                       
+00292Higiene facial                  
+00293Antidisp‚ptico Antiem‚tico Antin
+00294Neurorregulador                 
+00295Antihelm¡ntico                  
+00296Vacuna contra hepatitis A       
+00297Hemost tico                     
+00298Anticelul¡tico Reductor         
+00299Antidiab‚tico                   
+00300Antagonista de narc¢ticos       
+00301Antigiardi sico                 
+00302Antigripal Expectorante         
+00303Filtro solar                    
+00304Antiespasm¢dico Colagogo        
+00305Desensibilizante                
+00306Quelante                        
+00307Antis‚ptico Cicatrizante        
+00308Reposici¢n de potasio           
+00309Acelerador de bronceado         
+00310Vacuna antirr bica              
+00311Rehidratante Energizante        
+00312Vacuna antipoliomiel¡tica       
+00313Antiprotozoario                 
+00314Antiandr¢geno                   
+00315Factor de difusi¢n tisular      
+00316Vacuna antirrube¢lica           
+00317Vacuna antiparot¡dica           
+00318Acidificante urinario           
+00319Soluci¢n bucal                  
+00320Laxante Diur‚tico               
+00321Suplemento mineral              
+00322Antipsori sico                  
+00323Antiinfeccioso                  
+00324Antitricomoni sico              
+00325Nutrici¢n p/pacientes diab‚ticos
+00326Hormonoterapia                  
+00327Inmunizaci¢n pasiva             
+00328Hipoglucemiante oral            
+00329Antialop‚cico                   
+00330Antihipotensor                  
+00331Antiplaca Antisarro             
+00332Disposit.p/fisioterapia resp.   
+00333Antigonadotr¢pico               
+00334Control Precision QID           
+00335Digitopunzor                    
+00336Antiviral contra virus gripe    
+00337Antiacneico Antiseborreico      
+00338Test de fertilidad              
+00339Control Accutrend Sensor        
+00340Neuroprotector                  
+00341Regulador intestinal            
+00342Anticardiot¢xico                
+00343Antiacneico Antipruriginoso     
+00344Trat.litiasis renal             
+00345Citoprotector g strico          
+00346Suplemento dietario             
+00347Antiesp stico                   
+00348Antiulceroso Antihelicobacter   
+00349Descongestivo Antihistam¡nico   
+00350Hipotensor ocular               
+00351Protector funci¢n visual        
+00352Medio de contraste p/RMN        
+00353Analg‚sico Antirreum tico       
+00354F¢rmula p/lactant.antireflujo   
+00355Determ.glucosuria/cetonuria     
+00356Antihipertensivo Diur‚tico      
+00357Antiosteopor¢tico Antian‚mico   
+00358Vasodilatador coronario         
+00359Test p/Helicobacter pylori      
+00360Anti cido Antiulceroso          
+00361Trat.de estr¡as                 
+00362Diag.de amenorreas              
+00363Reductor                        
+00364Analg‚sico t¢pico Antiinfl.     
+00365Antis‚ptico Anest‚sico          
+00366Tonificante venoso capilar      
+00367Regenerador capilar             
+00368Crema dental Antisarro          
+00369Crema dental p/dien.sensibles   
+00370Antiplaca Antisarro Refresc.    
+00371Antitromb¢tico Vasodilatador    
+00372Productos homeop ticos          
+00373Corticosteroide oft lmico       
+00374Factor recombinante humano      
+00375Vacuna contra la varicela       
+00376Trat.neumon¡a por P.carnii      
+00377Nutriente Restaurador           
+00378Acaricida ambiental             
+00379Sedante                         
+00380Antiprost tico Antihipertens.   
+00381Exfoliante                      
+00382Suavizante p/manos y cuerpo     
+00383Trat.de cicatrices              
+00384Gastrocin‚tico Antiflatulento   
+00385Humectante Astringente          
+00386Antibi¢tico urinario            
+00387Crema dental p/fumadores        
+00388Queratol¡tico                   
+00389Humectante de p rpados          
+00390Antidiur‚tico                   
+00391Suplemento de iodo              
+00392Suplemento electrol¡tico        
+00393Reconstituyente Vasodil.cereb.  
+00394Inhibidor de la melanog‚nesis   
+00395Corrector signos envejecimiento 
+00396Analg‚sico Miorrelaj.           
+00397Antiinfeccioso Antiinflamat.    
+00398Lubricante ocular               
+00399Transmetilante                  
+00401Trombol¡tico                    
+00402Trat.pediculosis                
+00403Anovulatorio                    
+00404Analg‚sico Anti cido            
+00405Ant¡doto organofosforados       
+00406Antiepil‚ptico                  
+00407Productos odontol¢gicos         
+00408Accesorios                      
+00409Soluciones glucosadas           
+00410Soluciones fisiol¢gicas         
+00411Agua destilada                  
+00412Dermatocosm‚ticos               
+00413Antileuc‚mico                   
+00414Soluciones cloruradas           
+00415Dispositivos especiales         
+00416Tisanas                         
+00417Profil cticos                   
+00418Antipal£dico                    
+00419Nootr¢pico                      
+00420No clasificada                  
+00421Antianginoso Vasodil.coron.     
+00422Productos para contactolog¡a    
+00423Cicatrizante Anest‚sico         
+00424Tos,dolor de garganta           
+00425F¢rmula p/lactantes s/lactosa   
+00426Polivitam¡nico                  
+00427Antis‚ptico Hemost tico         
+00428Terap.horm.reemp.p/climaterio   
+00429Antitab quico                   
+00430Antiinflam.Citoprotector        
+00431Crema evanescente               
+00432Vacuna antitet nica             
+00433Analg‚sico Antiinflam.          
+00434Accesorio radiol¢gico           
+00435Antis‚ptico bucofar¡ngeo        
+00436Inhibidor d/aldosa reductasa    
+00437Estroprogestacional             
+00438Antihistam¡nico Mucol¡tico      
+00439Removedor de callos             
+00440Protector de la mucosa          
+00441Descongestivo d‚rmico           
+00442Antiact¡nico                    
+00443Estimulante SNC                 
+00444Desodorante                     
+00445Trat.menopausia                 
+00446Corticosteroide Antimicrobiano  
+00447F¢rmula infantil                
+00448Humectante vaginal              
+00449Micronutrientes Electrolitos    
+00450Micronutrientes Oligoelementos  
+00451Hipnosedante Anticonvulsivo     
+00452Hipnosedante                    
+00453Regulador calcemia              
+00454Somatotr¢pico                   
+00455Trat.alcoholismo                
+00456Antiisqu‚mico Antianginoso      
+00457Trat.disfunci¢n sexual masc.    
+00458Normalizador de la potasemia    
+00459Depurativo                      
+00460Digestivo Ansiol¡tico           
+00462Adelgazante                     
+00463Antioxidante                    
+00464Supl.diet.p/hombres/Red.grasas  
+00465Estimulante secrec.salival      
+00466Medio de contraste p/IRM        
+00467Antiespasm¢dico Sedante         
+00468Higiene de la piel              
+00469Trat.carcinoma de vejiga        
+00470Analg‚sico t¢pico               
+00471Expansor coloidal               
+00472Coadyuvante coagulaci¢n         
+00473Trat.angioedema hereditario     
+00474Antian‚mico Antineur¡tico       
+00475Trat.cistitis intersticial      
+00476Adhesivo Hemost tico            
+00477Antial‚rgico ocular             
+00478Anti cido Antiespasm.           
+00479Antibi¢tico Antiulceroso        
+00480Trat.polineuritis diab‚tica     
+00481Vacuna antineumoc¢ccica         
+00482Trat.estr¡as/grietas del pez¢n  
+00483Vitam¡nico                      
+00484Cicatrizante Antibi¢tico        
+00485Contraste p/ecograf¡a           
+00486Bactericida Antipruriginoso     
+00487Vacuna SRP (saramp/rub‚ol/paper)
+00488Expectorante Bals mico          
+00489Bals mico Descongestivo         
+00490Antial‚rgico Antipruriginoso    
+00491Crema ungueal                   
+00492Androgenoterapia                
+00493Para dejar de morderse las u¤as 
+00494Antiinflam.Antirreum tico       
+00495Miorrelajante                   
+00496Afirmante Antiflaccidez         
+00497Antieccematoso                  
+00498Polivitam¡nico Polimineral      
+00499Bactericida Expectorante        
+00501Antirronquido                   
+00502Revelador de placa bacteriana   
+00503Art.p/prep.agua dial¡tica       
+00504Antiinflam.Descongestivo        
+00505Diag./Trat.disfun.piso pelviano 
+00506Descongestivo oft lmico         
+00508Hormonoterapia antineopl sica   
+00509Vacuna contra hepatitis A y B   
+00510Reconstituyente psicointelec.   
+00511Reactivador cerebrovascular     
+00512Inhibidor alcoh¢lico            
+00513Inmunoterapia activa            
+00514Estimulante cort.suprarrenal    
+00515Antianginoso Antihipertensivo   
+00516Antiinflam.Queratol¡tico        
+00517Analg‚sico Antifebril           
+00518Protector d‚rmico               
+00519Analg‚sico Refrigerante         
+00520Regulador neurovegetativo       
+00521Colecistocin‚tico               
+00522Trat.gripe/Inhib.oral neuramin. 
+00523Expectorante Mucol¡tico         
+00524Antibi¢tico Expectorante        
+00525Antipsori sico Antieccematoso   
+00526Antibi¢tico oft lmico           
+00527Alimento infantil               
+00528Emoliente                       
+00529Antimicrobiano                  
+00530Antis‚ptico Astringente         
+00531Antis‚ptico Bals mico           
+00532Antihistam¡nico Antitusivo      
+00533Antibi¢tico Bals mico           
+00534Antitusivo Mucol¡tico           
+00535Ansiol¡tico Anticonvulsivo      
+00536Energizante psicof¡sico         
+00537Trat.vejiga hiperactiva         
+00538Antibi¢tico Antiinfl.Antimicot. 
+00539Inhibidor secr.prolactina       
+00540Nutriente d‚rmico               
+00541Disminuye rechazo transp.renal  
+00543Analg‚sico Antiespasm¢dico      
+00544Antidisp‚ptico biliar           
+00545Anab¢lico Hipocolesterol.       
+00546Antibi¢tico Broncodilatador     
+00547Anti cido Antiem‚tico           
+00548Antiespasm¢dico vesical         
+00549Anest‚sico local                
+00550Antiespasm¢dico Antiflatulento  
+00551Trat.llagas/aftas               
+00552Leche p/embarazadas             
+00553F¢rmula p/lactantes             
+00554Regulador del metabol.¢seo      
+00555Anest‚sico t¢pico               
+00556Descongestivo Antial‚rgico nasal
+00557Antial‚rgico Descongestivo      
+00558Vasodilatador cereb.y perif.    
+00559Antibi¢tico Mucol¡tico          
+00560Removedor de cerumen            
+00561Colagogo Coler‚tico             
+00562Analg‚sico Antineur¡tico        
+00563Red.grasas/Tonif.muscular       
+00564Laxante Anti cido               
+00565Cuidado de heridas              
+00566Inhibidor de la conv.testost.   
+00567Test de ovulaci¢n               
+00568Antiinflam.Analg‚sico.Miorrelaja
+00569Antiinflam.intestinal           
+00570Trombol¡tico Antiinflamatorio   
+00571Vasorregulador                  
+00572Antis‚ptico Bactericida         
+00573Anticaspa Antiseborreico        
+00574Detersivo                       
+00575Enjuague bucal Antisarro        
+00576Antihemof¡lico                  
+00577Analg‚sico ¢tico                
+00578Ansiol¡tico Antidepresivo       
+00579Hipn¢tico Tranquilizante        
+00580Higiene femenina                
+00581Astringente                     
+00582Trat.enf.de Paget               
+00583Descongestivo nasal             
+00584Nutrici¢n enteral               
+00585Antibi¢tico Corticosteroide     
+00586Espermicida                     
+00587Anest‚sico Refrigerante         
+00588Antibi¢tico Antiinfl.           
+00589Antiparasitario externo         
+00590Antistress                      
+00591T¢nico del m£sc.ciliar          
+00592Medio de contraste p/ultrasonido
+00593Antiflog¡stico Analg.percut neo 
+00594Antis‚ptico ocular              
+00595Ansiol¡tico Antiespasm.         
+00596Sistema administ.transdermal    
+00597Trat.de la hepatitis C cr¢nica  
+00598Evacuante vesicular             
+00599Anorex¡geno Lipol¡tico          
+00600Antiviral contra HIV            
+00601Antidiarreico Quimioter pico    
+00602Trat.contractura lumbar cr¢nica 
+00603Antiinflam.t¢pico               
+00604Trat.hipersensibilidad dental   
+00605Inductor del parto              
+00606Terap‚utica tiroidea            
+00607Anti cido Antiflatulento        
+00608Antiem‚tico Antiflatulento      
+00609Digestivo Antidisp‚ptico        
+00610Digestivo Antiflatulento        
+00611Antibacteriano t¢pico           
+00612Neurol‚ptico Antihistam¡nico    
+00613Coadyuvante en anestesia        
+00614Quimioter pico urinario         
+00615Alfabloqueante Vasodilatador    
+00616Tricomonicida Amebicida         
+00617Antiinflam.oft lmico            
+00618Flebot¢nico Antihemorroidal     
+00619Inductor del sue¤o              
+00620Agonista dopamin‚rgico          
+00621Mi¢tico                         
+00622Antiinflam.Bactericida vaginal  
+00623Determinaci¢n de glucosuria     
+00624Analg‚sico Antibi¢tico ¢tico    
+00625Tricomonicida Antimic¢tico      
+00626Antiseborreico Astringente      
+00627Antirreum tico Inmunomodulador  
+00628Desodorante p‚dico              
+00629Reconstituyente d‚rmico         
+00630Normalizador neuromuscular      
+00631Vasculoprotector                
+00632Antibi¢tico t¢pico              
+00633Vacuna antigripal               
+00634Anest‚sico inhalatorio          
+00635Nutrici¢n parenteral            
+00636Mucol¡tico oft lmico            
+00637Antineur lgico Antian‚mico      
+00638Antichag sico                   
+00639Vacuna anticatarral             
+00640Hipolipemiante Hipoglucemian.   
+00641Hidratante d‚rmico              
+00642Agonista LHRH                   
+00643Antimic¢tico Antiinflamatorio   
+00644Alimento diet‚tico              
+00645Antiescaras                     
+00646Antis‚ptico urinario            
+00647Antipitiri sico                 
+00648Antiem‚tico Sedante             
+00649Hipnoanalg‚sico                 
+00650Fort.leche materna p/prematuros 
+00651Bactericida Mucol¡tico          
+00652Broncodilatador Mucol¡tico      
+00653Midri tico Vasoconstrictor      
+00654Analg.Antib.Antis‚p.bucofar¡ngeo
+00655Antibi¢tico Antial‚rgico        
+00656Antimic¢tico Antial‚rgico       
+00657Prev.enf.resp.por VSR en ni¤os  
+00658Relajante uterino               
+00659Hipolipemiante Antihipertens.   
+00660Antial‚rgico Antihistam¡nico    
+00661Antipruriginoso Ansiol¡tico     
+00662Inmunizaci¢n activa             
+00663Reg.eritrosis cut nea           
+00664Desensibilizante gingival       
+00665Digestivo Hepatoprotector       
+00666Soluc.nat.contra piojos/liendres
+00667Ap¢sito biol¢gico               
+00668Antiulceroso Anti-reflujo       
+00669Agente inotr¢pico positivo      
+00670Antimic¢tico t¢pico             
+00671Analg‚sico Descongestivo        
+00672Activador metab¢lico celular    
+00673Parasimpaticomim‚tico           
+00674Antiinflam.bucofar¡ngeo         
+00675Aceite para masajes musculares  
+00676Antipsic¢tico                   
+00677Aromaterapia                    
+00678Antitusivo Broncodilatador      
+00679Analg‚sico Antigripal           
+00680Vacuna antituberculosa          
+00681Vacuna triple                   
+00682Vacuna doble                    
+00683Reconstituyente gral.           
+00684Corticosteroide t¢pico          
+00685Vacuna qu¡ntuple                
+00686Espesante instant.p/alimentos   
+00687Cicatrizante corneal            
+00688Antibi¢tico Antiinfl.Anest.     
+00689Vacuna qu¡ntuple acelular       
+00690Vacuna triple acelular          
+00691Abrasivo de limpieza            
+00692Sedante Ansiol¡tico             
+00693Antimic¢tico Antibacteriano     
+00694Adhesivo p/pr¢tesis dentales    
+00695Lactoquin‚tico                  
+00696Vacuna cu druple                
+00697Antis‚ptico bucal               
+00698B lsamo labial preventivo       
+00699Control Glucotrend 2            
+00700Antibi¢tico orofar¡ngeo         
+00701Inmunoterapia respiratoria      
+00702Energizante masc/fem.Supl.diet. 
+00703Queratol¡tico Queratopl stico   
+00704Trat.artritis reumatoidea       
+00705Antianginoso Diur‚tico          
+00706Revitalizador Humectante        
+00707Protector rayos U.V.            
+00708Sustituto enzimas pancreaticas  
+00710Vitaminoterapia d               
+00711Aguja p/aplicador de insulina   
+00712Trat.enf.fibroquist.p ncreas    
+00713Preservativo femenino           
+00714Agente estimulante osteobl stico
+00715Descongestivo Inmunog‚nico      
+00716Coler‚tico Espasmol¡tico        
+00717Vacuna antimeningoc¢ccica       
+00718Analg‚sico urinario             
+00719Test cut neo                    
+00720Reconstituyente neuronal        
+00721Freno a las calor¡as            
+00722Saliva artificial               
+00723Lavaje gastrointestinal         
+00724Factor estimulante plaquetario  
+00725Inmunoter pico biol¢gico        
+00726Hipouricemiante                 
+00727Nutrici¢n semielemental         
+00728Enjuague bucal Antiplaca        
+00729Nutrici¢n elemental             
+00730Antiviral Antibacteriano        
+00731Humect.facial c/prot.solar      
+00732Endoceptivo                     
+00733Antibi¢tico oft lm.Descong.     
+00734Antibi¢tico Antimic¢tico        
+00735Cerumenol¡tico Otoprotector     
+00736Activador metab¢lico cerebral   
+00737Expectorante Descongest.nasal   
+00738Film de poliuretano             
+00739Trat.£lceras art.y venosas      
+00741Trat.artritis reumat.y enf.Crohn
+00742Alimento funcional              
+00743Antian‚mico Polivitam¡nico      
+00744Antiplaquetario Vasodilatador   
+00745Antiinflam.Antineur¡tico        
+00746Dieta elemental c/glutamina     
+00747Trat.de la constipaci¢n         
+00748Agente despertador no anfetam.  
+00749Control Glucotrend 2 Plus       
+00750Trat.fragilidad cabellos/u¤as   
+00751Trat.enf.Alzheimer              
+00752Antis‚ptico respiratorio        
+00753Higiene vaginal                 
+00754Relajante neuromuscular         
+00755Analg‚sico Anticefaleico        
+00756Dinamizante fisiol¢gico         
+00757Test de alcoholemia             
+00758Film celulosa microfibrilar     
+00759Potabilizador biol¢gico de agua 
+00760Reconstituyente flora vaginal   
+00761Antimic¢tico Anticaspa          
+00762Antitranspirante                
+00763Fitoestrogenoterapia            
+00764Antagonista liberaci¢n LHRH     
+00765Vacuna s‚xtuple                 
+00766Antiedematizante corneal        
+00767Control Envejecimiento Cut neo  
+00768Antimetabolito                  
+00769Inhibidor de la ocitocina       
+00770Trat.trastornos gastrointest.   
+00771Supl.nutricional p/cuidado piel 
+00772Crema dental p/enc¡as irritadas 
+00773Regulador de la flora intestinal
+00774Trat.de la fisura anal          
+00775Antivaricoso t¢pico             
+00776Descongest.Antihist.Antial‚rgico
+00777Antitusivo Descong.Antihistam¡n.
+00778Antiinflam.Corticosteroide      
+00780Control Accu-Chek Sensor        
+00781Trat.enf.de Wilson              
+00782Prevenci¢n cardiovascular       
+00783Queratol¡tico/T¢pico p/verrugas 
+00784Inhibidor resorc.osteocl stica  
+00785Hidratante Protector piel seca  
+00786Inhibid.absorci¢n de colesterol 
+00787Trat.dermatitis at¢pica         
+00788Estimulador cut neo             
+00789Productos de Farmacopea         
+00790Determ.cetonas en sangre        
+00791Trat.queratoconjuntivitis       
+00792Analg‚sico Diur‚tico Antihistam.
+00793Control Ascensia Entrust        
+00794Trat.de la hepatitis B cr¢nica  
+00795Control Accu-Chek Active        
+00796Regulador de la despigmentaci¢n 
+00797Antipsic¢tico Antidepresivo     
+00798Reemplazante de l¡quido sinovial
+00799Solvente indoloro               
+00800Antiparkinsoniano Antiviral     
+00801Antigripal Antihistam¡nico      
+00802An logo hormona de crecimiento  
+00803Trat.hipertensi¢n arterial pulmo
+00804Antirresaca                     
+00805Trat.insuf.card¡aca             
+00806Antifibrinol¡t.Inhib.proteinasa 
+00807Vacuna contra gastroenteritis   
+00808Agente reductor de plaquetas    
+00809Combate 7 signos envej.facial   
+00810Antibi¢tico intest.Antidiarreico
+00811Suplemento digestivo            
+00812Regulador de pH vaginal         
+00813Antagonista Endocannabinoide    
+00814Vacuna contra la fiebre amarilla
+00815Desensibilizante Antis‚ptica    
+00816Anti cido Anest‚sico T¢pico     
+00817Vac.contra virus Papiloma Humano
+00818Antis‚ptico t¢pico Antiinfl.    
+00819Anticonceptivo/Supl.de Hierro   
+00820Antioxidante Exfoliativo        
+00821Vacuna contra hepat.B coadyuvada
+00822An logo sint‚tico de Vitamina D 
+00823Trat.de la cesaci¢n tab quica   
+00824Antis‚ptico Exfoliante          
+00825Desensib. Antisarro Anticaries  
+00826Limp.intestinal p/diag.y cirug¡a
+00827Antitusivo Mucol¡tico Analg‚sico
+00829Trat.de la hepatitis B          
+00830Lubricante ¡ntimo               
+00831Trat.anafilaxis                 
+00832Antiulceroso Antiem‚tico        
+00833Trat.degeneraci¢n macular(DMAE) 
+00834Sustituto de la sal             
+00835Hipolipemiante Antiag.plaquetar.
+00836Neurotr¢fico Neuroprotector     
+00837Antihistam¡nico Descongestivo   
+00838Inhib.de la tirosina quinasa    
+00839Antiinflam.Inhib.secrec. c.g st.
+00841Fotoinmunoprotector oral        
+00842Descongestivo Far¡ngeo          
+00843Anticelul¡tico Antin¢dulos      
+00844Trat.regenerador corrector      
+00845Exfoliante corporal             
+00846Reductor y reafirmante corporal 
+00847Estimulador de la eritropoyesis 
+00848Antioxidante Reconstituyente    
+00849Trat.combinado de HPB           
+00850Trat.s¡ndrome piernas inquietas 
+00851Soluciones isot¢nicas           
+00852Corticosteroide nasal uso t¢pico
+00853Soluci¢n p/di lisis peritoneal  
+00854Compensador hidrolipidico cap.  
+00855Vasopresor                      
+00856Medio de contraste isosmolar    
+00857Antialdoster¢nico               
+00858Trat.de infecciones urinarias   
+00859Antimic¢tico uso sist‚mico      
+00860Vac.antimeningoc¢ccica ACYW-135 
+00861Antihistam¡nico de uso t¢pico   
+00862Precursor s¡ntesis serotonina   
+00863Hidratante Autobronceante       
+00865Antimicrobiano.Reepitaliz.vag.  
+00866Repelente de mosquitos          
+00867Tratamiento del hirsutismo      
+00868Analg‚sico Narc¢tico            
+00869Complemento vitam¡nico          
+00870Trat.de la hipertermia maligna  
+00871Vacuna antigripal trivalente    
+00872Trat.de la eyaculaci¢n precoz   
+00873Antifibrinolitico.Antihemorrag. 
+00874Trat.de la acromegalia          
+00875Estimul.cicatriz.y citoprotector
+00876Reafirmante modelador           
+00877Antiartr¢sico Antiinflamatorio  
+00878Litiasis renal                  
+00879Sellador Quirurgico             
+00880Agente antidemencia             
+00881Vac.antimeningococcica conjugada
+00882F¢rmula lactantes hasta 6 meses 
+00883F¢rm.lactante de 6 meses a 1 a¤o
+00884Antibi¢tico de uso inhalatorio  
+00885Disp.intrauterino-Preservativo  
+00886Trat.hipotricosis de pesta¤as   
+00888Antitusivo Expect. Mucolitico   
+00889Antiendometri¢sico              
+00890Fluidificante de las v¡as a‚reas
+00891Antiparatiroideo                
+00892Antihipertensivo Hipolipemiante 
+00893Agente Antidisquin‚tico         
+00894Trat.p/hiperfenilalaninemia     
+00895Tratamiento HPB/Tratamiento DE  
+00896Trat.de la disfunci¢n er‚ctil   
+00897Analg‚sico Antiinfl.Antifebril  
+00898Trat.p/CAPS                     
+00899Alimentos prop¢s.m‚dico espec¡f.
+00901Trat.de la fibrosis ideop tica  
+00902Inhib.del factor necrosis tumora
+00903Antiinfeccioso Antibacteriano   
+00904Ag.inmun.Vac.c/influenza        
+00905Polineuropat¡a diab‚tica        
+00906Cosm‚tico Capilar               
+00907Estimulante folicular           
+00908Hipn¢tico no benzodiazepinico   
+00909Inhibidor del Factor XA         
+00910Selenito de Sodio               
+00911Antial‚rgico Corticosteroide    
+00912Inhibidor de la janus quinasa   
+00913Trat.de la tos y ronquera       
+00914Antagonista muscar¡nico         
+00915Estimulante sexual femenino     
+00916F¢rm.p/prop¢s.m‚dico+antidiarre.
+00917F¢rm.p/prop¢s.m‚dico+antiflatul.
+00918F¢rmula hipoalerg‚nica+trat.APLV
+00919F¢rm.p/prop¢s.m‚dico+trat.APLV  
+00920F¢rmula p/prop¢sito m‚dico      
+00921Trat.de cicat.hipert.y queloides
+00922Vacuna contra el herpes zoster  
+00923Vac.s‚xtuple acelular           
+00924Anticonvulsivo Anticiclante     
+00999Pendiente                       
+01000Citot¢xico                      
+01001Vacuna antitet nica/antigripal  
+01002Antiinflam.respirat.Broncodil.  
+01003Trat.acromegalia/tum.neuroend¢c.
+01004Fijador p/pr¢tesis ¢seas        
+01006Antiosteopor¢t.Hipocalcemiante  
+01007Estomatol¢gico                  
+01008Bloqueante neuromusc.no despol. 
+01009Activador muscular              
+01010Sistema de hidrataci¢n facial   
+01011Analg‚sico Antihistam¡nico      
+01012Anest‚sico Antiinflam.          
+01013Antiinfeccioso vaginal          
+01014Trat.n useas/v¢mitos en embarazo
+01015Trat.d‚ficit atenc/hiperac(ADHD)
+01016Prevenci¢n de la migra¤a        
+01017Control del apetito             
+01019Trat.del mal aliento cr¢nico y o
+01020Trat.de la afectaci¢n pseudobulb
+01021moviliz.de c‚lulas madres hemato
+01022inhib.de la secrec. cida g stric
+01023Trat.de la tracci¢n vitreomacula
+01024Anticuerpo monoclonal. Inhib. de
+01025Supl.dietario a base de Calcio y
+01026F¢rmula de continuaci¢n s/lactos
+01027F¢rmula infantil s/lactosa      
+01028Estimulante de la motilidad inte
+01029Protector Hep tico.Antit¢xico   
+01030Agonista adrenorreceptor alfa-2 
+01031Inhibidor de protiosoma         
+01032Trat.de la esclerosis m£ltiple  
+01033Antiem‚tico Antinauseoso        
+01035Inhib. Neprilisina y Angiotensin
+01036Antienvejecimiento              
+01037soluc.p/conservaci¢n de ¢rganos 
+01038Trat.edema macular              
+01039Agente desbridante              
+01040Antiangiog‚nico                 
+01041Desmaquillante/Limpieza facial  
+01042Anticuerpo monoclonal humano    
+01043Regenerador del Cart¡lago       
+01044Antiartr¢sico+Anest‚sico local  
+01045Limp.Intestinal p/diag. y cirug¡
+01046Analg‚sico central              
+01047Medio de contraste hepatoespec¡f
+01048Suplementaci¢n viscoelastica    
+01049Facilita la fecundaci¢n         
+01050Reafirmante y fortificador el cu
+01051Humectante y Lubricante ocular  
+01052Descongestivo Antifebril        
+01054Trat.de miomas uterinos         
+01055Trat.de £lceras                 
+01056Energizante psico intelectual   
+01057Espuma microbicida y acaricida  
+01058Antiinflamatorio. Relajante Musc
+01059Fortalecedor ungueal            
+01060Agente p/constipaci¢n           
+01061Inhibidor de la betalactamasa   
+01062Vacuna meningoc¢cica            
+01063Antihistam¡nico Antileucotrieno 
+01064Glucocorticoesteroide           
+01065Moduladores para Fibrosis Qu¡sti
+01066Agente reversor espec¡fico de Da
+01067Inhib.de la prote¡na quinasa    
+01068inhib.select.de la recapt.de ser
+01069Antibi¢tico y quimioter pico p/u
+01070Agente modificador de l¡pidos   
+01071Test r pido de detecci¢n de glut
+01072Inic.de maduraci¢n cervical     
+01073vacuna antigripal tetravalente  
+01074Potencia el crecimiento de pesta
+01075Reparador labial                
+01076trat.del hiperparatiroidismo sec
+01077Polip‚ptido con acci¢n ACTH     
+01078Regulador energ‚tico            
+01079Antihistam¡nico Antipruriginoso 
+01080Supl.dietario/Cuidado de la piel
+01081Crema antiage                   
+01082Gastroprocin‚tico               
+01083Anticuerpo monoclonal           
+01085Agonista selectivo de los recept
+01086Antiacneico Bactericida Antiinfl
+01087Psicoanal‚ptico Anticolinester s
+01088Antif£ngico                     
+01089Trat.hiperkalemia e hiperfosfate
+01090Inhibidor de las enzimas poli AD
+01091Agente selectivo de uni¢n a bloq
+01092Antiespasm¢dico urinario        
+01093Trat.p/tirosinemia tipo I       
+01094Trat.cistinosis                 
+01095Analg‚sico opioide              
+01096Exfoliante d‚rmico              
+01097Anest‚sico Antibi¢tico Antis‚pti
+01098Trat.del eccema at¢pico         
+01099inhalatorio para uso sist‚mico  
+01100Antial‚rgico Antiinflamatorio An
+01101Medicamento Herbario            
+01103Antineopl sico. Inhibidor de la 
+01104Chaperona farmacol¢gica         
+01105Trat.nutricional de pacientes fi
+01106Trat.de la hiperamonemia        
+01108Diur‚tico. Antagonista de la vas
+01109Trat.de errores cong‚nitos      
+01110purificador                     
+01111Trat.queratosis act¡nica (QA)   
+01112Anti Edad                       
+01113Inmunoterapia                   
+01114Inhibidor no-competitivo del rec
+01115Trat.eritema facial             
+01116Trat.s¡ndrome de intestino corto
+01117Trat. enferm. causada por SARS-C
+01118Anest‚sico opioide              
+01119Terapia de reemplazo enzim tico 
+01120Trat.osteoporosis               
+01121Trat.homocistinuria             
+01122Antagonista CGRP                
+01123Antiag.plaq. Hipolipem. Antihipe
+01124Estabilizador transtiretina (TTR
+01125Profilaxis hepatitis A          
+01126Reparaci¢n epid‚rmica vulvo-vagi
+01127Producto Cosm‚tico              
+01128Test p/ detecci¢n del ant¡geno d
+01129Antibioticoterapia para H.Pylori
+01130Agente hematol¢gico             
+01131Trat. Mucopolisacaridosis tipo V

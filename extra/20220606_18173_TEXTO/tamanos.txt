@@ -1,0 +1,10 @@
+01MENOR                           
+02SIGUIENTE                       
+03GRANDE (DE 2 PRES.)             
+04GIGANTE                         
+05GRANDE (DE + DE 2 PRES.)        
+06ANTIBIOTICO MONODOSIS           
+07ANTIBIOTICO MULTIDOSIS          
+08SOLUCIONES PARENTERALES         
+10NO CLASIFICADO                  
+11HOSPITALARIO                    

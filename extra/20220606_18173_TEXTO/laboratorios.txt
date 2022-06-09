@@ -1,0 +1,755 @@
+00001Abbott                                            
+00002GÇminis                                           
+00004Laboratorio Albula                                
+00005Alcon                                             
+00006Elvetium Alet                                     
+00007Austral                                           
+00008Vitanatural                                       
+00009Andr¢maco                                         
+00011Apolo                                             
+00013Ariston                                           
+00015Botiven                                           
+00017Aulo Gelio Arg.                                   
+00018Eurofarma                                         
+00019Bonru Perel                                       
+00021Bag¢                                              
+00022Bajer                                             
+00023Baliarda                                          
+00025Benitol                                           
+00026Argenova Farm                                     
+00027Italo-C                                           
+00028Bayer                                             
+00029Billiet                                           
+00030Biol                                              
+00032Beta                                              
+00035Roche Diag.                                       
+00036Boehringer Ingelheim                              
+00037Bouzen                                            
+00038Reckitt Benckiser                                 
+00039Takeda                                            
+00040Corion                                            
+00042CosmÇtica MÇdica                                  
+00043Cabuchi                                           
+00044Cachamai                                          
+00045Casasco                                           
+00046Cassar†                                           
+00047Celtia                                            
+00048Cetus                                             
+00049Novartis                                          
+00051Cimpion                                           
+00052Pablo M†rquez                                     
+00053Climax                                            
+00054Corbaplant                                        
+00055Costec                                            
+00056Craveri                                           
+00057Cyclina                                           
+00058Dallas                                            
+00060Defuen                                            
+00061L.D.A.                                            
+00064Klonal                                            
+00065DulkrÇ                                            
+00066Columbia                                          
+00067Dom°nguez                                         
+00069DNR Farma                                         
+00071Dromicap                                          
+00072Drawer                                            
+00073Dumont                                            
+00074Duncan                                            
+00076Dupomar                                           
+00077Valeant Argentina                                 
+00078El Monje                                          
+00079Elea (inactivo)                                   
+00080E.J.Gezzi                                         
+00081Karphos                                           
+00082Esme                                              
+00083Reig                                              
+00084Ethicus                                           
+00085Ewe                                               
+00086Electroqu°mica MÇdica                             
+00087Fabra                                             
+00088Fada Pharma                                       
+00091Farmaquim                                         
+00092Fecofar                                           
+00093Lapafer                                           
+00094Fidex                                             
+00095Finadiet                                          
+00097Filaxis                                           
+00098LKM                                               
+00099Fortbenton                                        
+00100Millet-Franklin                                   
+00101Fucus                                             
+00102Iris                                              
+00103Gador                                             
+00104Schwabe                                           
+00105Apifed                                            
+00106Bacteriol                                         
+00107GlaxoSmithKline                                   
+00108Gobbi                                             
+00109Gordon                                            
+00110Gram¢n                                            
+00111Gray                                              
+00112Hautel                                            
+00113Hemoderivados                                     
+00114Heredia                                           
+00115Hetty                                             
+00116H.MÇdica Argentina                                
+00118R.P.Scherer                                       
+00119Medipharma                                        
+00120AstraZeneca                                       
+00121International Plasma                              
+00122Baxter Argentina                                  
+00123Incaico                                           
+00124Ingram                                            
+00125Investi                                           
+00126Veinfar                                           
+00127Janssen-Cilag                                     
+00128Lagos                                             
+00129Nutricia-Bag¢                                     
+00130Knoll                                             
+00131Wyeth                                             
+00132LBA Farma                                         
+00134Lacefa                                            
+00135Lafage                                            
+00136Lando                                             
+00137Laboratorio Merlino                               
+00138Lazar                                             
+00140Lepetit                                           
+00141Lersan                                            
+00142Linfar                                            
+00143Liqrem                                            
+00144Allergan-Loa                                      
+00145Qu°mica Luar                                      
+00146Martian                                           
+00147Massone                                           
+00148Mead Johnson                                      
+00149Grupo Andino                                      
+00150Medical's P.                                      
+00151Merck Serono                                      
+00152Merck Sharp & Dohme                               
+00153Sanofi Pasteur                                    
+00154Monserrat                                         
+00155Mertens ***BAJA***                                
+00156Serch                                             
+00157Laboratorios Bernab¢                              
+00158New Pharma                                        
+00160Piper Pol                                         
+00162Montpellier                                       
+00164Naf                                               
+00165Neo-Dermos                                        
+00166Nestle                                            
+00167Epicaris                                          
+00169Northia                                           
+00170Drog.Martin                                       
+00171Omega                                             
+00172Organon Arg.                                      
+00173Oriental                                          
+00175Pasteurine                                        
+00177Parke Davis                                       
+00178Gurfi                                             
+00179Pfizer                                            
+00180Phoenix                                           
+00182PÇrez                                             
+00183Plos                                              
+00184Poen                                              
+00185Promeco                                           
+00186Post Chirurg                                      
+00187Beresa                                            
+00188Purissimus                                        
+00189Odol                                              
+00190Qu°mica Medical                                   
+00191Roux Ocefa                                        
+00192Raffo                                             
+00193Raymos-Megalabs Argentina                         
+00194Richmond                                          
+00196Richet                                            
+00199Rioplatense                                       
+00200Rontag                                            
+00201Rivero                                            
+00202Roche                                             
+00203Roemmers                                          
+00205Rigecin                                           
+00206S.Antonio                                         
+00207Soubeiran Chobet                                  
+00209Pharma Argentina                                  
+00211Novartis - Sandoz                                 
+00212Sanitas                                           
+00213Sant Gall                                         
+00214Bayer (PH)                                        
+00216Serono                                            
+00217Sidus                                             
+00218Sildor                                            
+00219Sintesina                                         
+00221Maigal                                            
+00222Spedrog Caillon                                   
+00223Stafford                                          
+00224Stiefel Arg.                                      
+00225Teingro                                           
+00226Trb-Pharma                                        
+00228Szama                                             
+00229Temis-Lostal¢                                     
+00231SmithKlineBeccham                                 
+00232Farmagal                                          
+00233IMA                                               
+00234Vent 3                                            
+00235Microsules Arg.                                   
+00238Villar                                            
+00239Vita                                              
+00240Volpino                                           
+00241Waco                                              
+00242Walker                                            
+00244Welt                                              
+00245Weltrap                                           
+00246Asmopul                                           
+00247Wyeth Div.CHC                                     
+00248York                                              
+00249Androsa                                           
+00250Novofarma                                         
+00251Asofarma                                          
+00252Elvetium                                          
+00254Vondermix                                         
+00255Sivaderm                                          
+00256Plumbland Holdings                                
+00257Bristol                                           
+00258Gast¢n Giscard*****BAJA****                       
+00259Servier                                           
+00262LAIF                                              
+00263Szab¢                                             
+00266Dharam Singh                                      
+00267Inmunolab                                         
+00268Dexter                                            
+00269Sancor                                            
+00270Framingham Pharma                                 
+00271Natufarma                                         
+00272Barone                                            
+00273Aspen                                             
+00274C.G.C.                                            
+002755J                                                
+00276Delta Farma                                       
+00277Image                                             
+00278Romeca                                            
+00281Farmpur                                           
+00282Frasca                                            
+00283Quin-Farma                                        
+00284Pyam                                              
+00287Tuteur                                            
+00290Del Bel                                           
+00291Butyl                                             
+00294Experientia                                       
+00297Grifols                                           
+00298Abello                                            
+00299Assistance                                        
+00300Argenfarma                                        
+00301Pavlova                                           
+00302Dissa                                             
+00303Garden House Argentina                            
+00304Euroderm                                          
+00305Justesa Imagen                                    
+00306Survival                                          
+00307Bel Cos                                           
+00308Inpar                                             
+00310Futerman Internat.Products                        
+00311Typen                                             
+00312Denver Farma                                      
+00313Elisium                                           
+00314Del Sol                                           
+00315Dasipa                                            
+00316Qu°mica Estrella                                  
+00317Anzon                                             
+00318Tecnonat                                          
+00319Brouwer                                           
+00320Biotenk                                           
+00321Galderma                                          
+00322Playboy                                           
+00324Vianature                                         
+00325Laborit                                           
+00326Impovit                                           
+00328Vannier                                           
+00330Prodava                                           
+00332D.Sam-L.Chile                                     
+00333Fapromed                                          
+00334Derclee                                           
+00335Quimisal                                          
+00336Drog.Argentina                                    
+00337Newark                                            
+00338La Roche-Posay                                    
+00339Pack Seal                                         
+00340Jamerar                                           
+00341Fimotec                                           
+00342Britania                                          
+00343Rig¢                                              
+00344Pharmatrix                                        
+00345Ciba Vision                                       
+00346Danes Internac.                                   
+00347Clark                                             
+00348Juplast                                           
+00349Step Arg.                                         
+00350Protecno Labofarm                                 
+00351Broni                                             
+00353Eli Lilly                                         
+00354Gillette                                          
+00355Scidia                                            
+003563 M                                               
+00357Gemepe                                            
+00358Guerbet Argentina                                 
+00359Rhone Poulenc                                     
+00361Arion                                             
+00362Lasifarma                                         
+00364Ferring                                           
+00365Forder                                            
+00366Dr.Madaus                                         
+00367Puebla                                            
+00368Natura Vigor                                      
+00369Ecopharma                                         
+00370Cartilade Arg.                                    
+00371H y R                                             
+00372ISA                                               
+00373Pr°mula                                           
+00374Combe                                             
+00375G.A.D.Internac./Grupo M de O                      
+00376Rider                                             
+00378Biocontrol                                        
+00380Bionatural                                        
+00381Grimberg                                          
+00382Johnson & Johnson                                 
+00383Biocrom                                           
+00384Promocrystal Arg.                                 
+00385Varifarma                                         
+00386Bioprofarma Bag¢                                  
+00388Platters                                          
+00389Protecnoar                                        
+00390Twinlab-Watley                                    
+00391Celina                                            
+00392Crema de Orde§e                                   
+00393Duncan-Fimotec                                    
+00394Bacon                                             
+00395Laboratorio ENA                                   
+00397Lafedar                                           
+00398Lafarmen                                          
+00400C¢rdoba                                           
+00401Nucleosan                                         
+00402C N S                                             
+00404Scott-Cassar†                                     
+00405Donato Zurlo                                      
+00406Fabelmet                                          
+00407La F†rmaco Arg.                                   
+00409Paul Hnos.                                        
+00410Toril                                             
+00411Colgate                                           
+00413Baxter                                            
+00414Imvi                                              
+00415Dronor                                            
+00419Wunder Pharm                                      
+00420Ugau                                              
+00421Dermosoluxion                                     
+00422Interbelle Cosmetics                              
+00423Vichy                                             
+00424Lemos                                             
+00425Priroda                                           
+00427Source Naturals                                   
+00431Axcan Difa                                        
+00432Piel Vital                                        
+00435Litex                                             
+00436Nycomed Amersham                                  
+00437Bio-Labo                                          
+00438Gaveteco                                          
+00439Natural Health                                    
+00441Knop                                              
+00442Dr.Preston                                        
+00444Novo Nordisk                                      
+00445Ceade                                             
+00446Biogam                                            
+00448Ferrer                                            
+00449Biferdil                                          
+00450Neosol                                            
+00453Productos Saludables                              
+00454Enzimas                                           
+00455Talcris                                           
+00456Naturalis                                         
+00459G & M                                             
+00460PGN                                               
+00461Jergens                                           
+00462Marck Up                                          
+00463New Concept                                       
+00464Landi                                             
+00465Dos B                                             
+00466Panalab                                           
+00467Coloplast                                         
+00468La Serranita                                      
+00469Natural Life                                      
+00470Kamp Dental                                       
+00471Procter & Gamble                                  
+00472Kedrion-Scott Cassar†                             
+00473Sertex                                            
+00475Valles de Aloe                                    
+00476Dosa                                              
+00477Beiersdorf                                        
+00478Eczane                                            
+00479Weleda                                            
+00481Medinova                                          
+00482Zine/Mimetix                                      
+00484Mentholatum                                       
+00485GrÅnenthal                                        
+00486Brassora                                          
+00487Boxalpharma                                       
+00488Omedir                                            
+00489Pharma del Plata                                  
+00490Krîne Arg.                                        
+00491Nort                                              
+00492WR                                                
+00493Fabop                                             
+00495Sojar                                             
+00496A.M. Farma Activ                                  
+00497Kerofarma                                         
+00498Elea                                              
+00499Mar                                               
+00500Gemepe-Medinova                                   
+00502Crealko                                           
+00503B.Braun                                           
+00504Cevallos                                          
+00507Prolife                                           
+00508Ingens                                            
+00509Pierre Fabre MÇdicament                           
+00510Pierre Fabre Dermo-CosmÇtique ****BAJA****        
+00511Elhoim                                            
+00512Key Pharma                                        
+00513Medimar-Fidex                                     
+00514Farmoterapia                                      
+00515Excelentia                                        
+00516Cinetic                                           
+00517Norgreen                                          
+00518Teva argentina (ex Ivax)                          
+00521Neuropharma                                       
+00523Biotech Farma (DADO DE BAJA)                      
+00524Matersan                                          
+00525Bausch & Lomb Arg.                                
+00526Dist.Villa Luro                                   
+00527Johnson & Johnson Medical                         
+00528C & V Internac.                                   
+00529Indeco                                            
+00530Prieto                                            
+00531Biofar-Bioder                                     
+00532Amenite                                           
+00533Valmax                                            
+00534Corpus                                            
+00535G & M CosmÇtica y Medicinal                       
+00536Shabba                                            
+00538Feel Young                                        
+00539Capilatis  ****BAJA****                           
+00540Tanki                                             
+00541Hexil                                             
+00542Hannah Collins                                    
+00543Hiperfarm                                         
+00544GenTech                                           
+00545Biofactor                                         
+00546Breachdan                                         
+00547Hoyos S.M.                                        
+00549Powergenics                                       
+00550Pint Pharma                                       
+00551Ferrini                                           
+00553Dimel & Diagos                                    
+00556Sigma                                             
+00557Glenmark                                          
+00558SW Pharma                                         
+00559Merisant Argentina ***BAJA***                     
+00560Dentaid                                           
+00561Hierbas del Oasis                                 
+00562Abin                                              
+00565The Sports Company                                
+00566Hoisin                                            
+00567New Life                                          
+00568Gador Aventis                                     
+00569Iraola                                            
+00572Medac                                             
+00573Tacha Sur                                         
+00574Ronnet                                            
+00576All Pro Salud                                     
+00577Valuge                                            
+00578Krolton Pharma                                    
+00579Paylos                                            
+00580A.M.G. Farma                                      
+00581Lundbeck                                          
+00582CSL Behring                                       
+00583Biokosma                                          
+00584Gen Med                                           
+00585Atlas - Lab Internacional Argentino               
+00586Novartis Consumer Health                          
+00588Global Med                                        
+00589Bionutre                                          
+00590Farmaderm                                         
+00591Laboratorio Alvear                                
+00592AMO                                               
+00593Nativa                                            
+00594Provinat                                          
+00596All Lab                                           
+00597GÇminis FarmacÇutica                              
+00599Pharmalab                                         
+00600PharmaDorf                                        
+00601Drog.Florida                                      
+00602Pharmafem                                         
+00603Dicofar                                           
+00604Monte Verde                                       
+00605JTW Pharma                                        
+00608Vicami                                            
+00609LAMSA-Frasca                                      
+00610Patejim                                           
+00611Vicrofer                                          
+00612Betterlife SRL                                    
+00613Kron                                              
+00615Buxton                                            
+00616Fresenius Kabi                                    
+00617Health Pharma                                     
+00618All Protein                                       
+00619Dispolab                                          
+00622Raysan                                            
+00623Natulab                                           
+00624Nucleopharm                                       
+00625Biosintex                                         
+00626Nexo Pharmaceutical Group                         
+00628Penn Pharmaceuticals                              
+00629Tetrafarm                                         
+00630Cinetic-Valuge                                    
+00631Labonatur                                         
+00632Roberto A.S†nchez                                 
+00633Eurolab                                           
+00634D.G. Distribuciones                               
+00635Labsa                                             
+00636Drog.Garz¢n                                       
+00637Mapa Vital                                        
+00638Nutrihealth Argentina                             
+00639Pierre Fabre Oral Care                            
+00640Lesag                                             
+00641Status Salud                                      
+00642Unanut                                            
+00643Genpharma                                         
+00646Helen Farm                                        
+00647Olpesce                                           
+00648Pecomet                                           
+00649IMD                                               
+00650Extraloe                                          
+00651Rospaw                                            
+00652Adox/Indeco                                       
+00653Pierre Fabre Oncologie                            
+00654Bayer Consumer                                    
+00655Driburg                                           
+00657Lanpharm                                          
+00658Vitarum                                           
+00659Altius FarmacÇutica                               
+00660Lemax                                             
+00661Italpharma Argentina                              
+00662Provefarma                                        
+00663Nutricional Argentina                             
+00664San Ceferino                                      
+00665Savant Pharma                                     
+00666Isdin                                             
+00667Saturn Supplements                                
+00668Novara                                            
+00669Permatec                                          
+00670Dermopharma                                       
+00671Q-Pharma                                          
+00672Laboratorio IT                                    
+00673Amhof                                             
+00674Bine                                              
+00675Zasu                                              
+00676Pualy                                             
+00678Campo Esmeralda                                   
+00679Nova Argentia                                     
+00681HLB Pharma                                        
+00682CAIF                                              
+00683Copahue                                           
+00684Lamsa-Biocrom                                     
+00685Lamsa                                             
+00686Sanifill                                          
+00687Odontofarma                                       
+00688Latin Plus                                        
+00689Omicron                                           
+00690Bioworld                                          
+00692Li Feng                                           
+00693Cultural Abad°a del Ni§o Dios                     
+00694BD                                                
+00696Conifarma                                         
+00697Pharma Group                                      
+00698Kilab                                             
+00699Ayurvida                                          
+00700Nutrilef                                          
+00701Sunstar                                           
+00702Ecoton                                            
+00703Sanofi-Aventis                                    
+00704Francelab                                         
+00705Bsderm                                            
+00706Drog.del Sud                                      
+00708Bionet Lab                                        
+00709Cosinter-Red Apple                                
+00710Techsphere                                        
+00711Disop/Visiontech                                  
+00712Verminal                                          
+00713Novamen                                           
+00714Max Vision                                        
+00715Genomma Lab.                                      
+00716Eriochem                                          
+00717Fac                                               
+00718D.R.D S.A.                                        
+00719Pharmamerican S.R.L.                              
+00720Lativ                                             
+00721Sempre Giovane                                    
+00722F & F Farma                                       
+00723Mi Flora                                          
+00724Rominafort S.H.                                   
+00725Cromoion                                          
+00726GP Pharm                                          
+00727Hochwertig                                        
+00728Schafer                                           
+00729Larco                                             
+00730Sanofi-Aventis OTC                                
+00731D & R Medical Depot                               
+00732ReAct                                             
+00733Giscard Laboratories                              
+00734Genser                                            
+00735Laboratorios Tauro                                
+00736Laboratorios Puntanos                             
+00737Nutrilab                                          
+00738MB Distribuciones                                 
+00739Wyeth Div.VACUNAS                                 
+00741Microfar                                          
+00742Biotoscana                                        
+00744Ariston Derma                                     
+00745AMN                                               
+00746Bioderma                                          
+00747Hyaltec                                           
+00748D'armerie                                         
+00749Pcgen                                             
+00750Tahefarma                                         
+00751Rossmore Pharma                                   
+00752JorgeHane                                         
+00753Felsan                                            
+00754Novoplos                                          
+00755Paradigma                                         
+00756Biotechno Pharma                                  
+00757Gronin One                                        
+00758Apotex                                            
+00759Merck                                             
+00760Drog.Droser                                       
+00761Novartis Vacunas                                  
+00762Protan                                            
+00763Gram¢n-Millet                                     
+00764Bailleul Biorga Arg.                              
+00765S.D.A.                                            
+00766Merck Qu°mica                                     
+00767Laboratorio Sana                                  
+00768AndrÇ Masy                                        
+00769Pharmanove                                        
+00770Produmedix                                        
+00771Oxapharma                                         
+00772Nutratec                                          
+00773EpuyÇn                                            
+00774Bioamerica Farma                                  
+00775Aloe + Salud                                      
+00776LKM Pharma                                        
+00777LKM Onco/Especiales                               
+00778Laboratorios Ion                                  
+00780Scott Pharma                                      
+00781Kassel Pharmaceutical                             
+00782C&R                                               
+00784Garre Guevara                                     
+00785Mead Johnson Nutrition                            
+00786Daxley                                            
+00788Formulab                                          
+00789Toppik                                            
+00790HG Lab.                                           
+00792G.M.B. Pharma                                     
+00793Biobrik                                           
+00794Cepage                                            
+00796Straqual                                          
+00797Lab Internacional Argentino                       
+00798Aminel                                            
+00800Acary                                             
+00801Everex                                            
+00802Nipro Medical Corporation                         
+00803MSD Argentina SRL                                 
+00804El Sol C¢smetica Natural                          
+00805Medisol                                           
+00806Savant Consumer                                   
+00807Kuidar                                            
+00808Generideas                                        
+00809Pharmainco                                        
+00810Cosmevet                                          
+00813Gemabiotech                                       
+00814Aerofarma                                         
+00817Plastimed                                         
+00819Bio Helper                                        
+00820Ingerics                                          
+00821Novarum Pharma                                    
+00822B-Life                                            
+00823Biopas Argentina                                  
+00824Techsphere - Aspen                                
+00825Eco Oil                                           
+00826Roche Diabetes                                    
+00827Abbott Diabetes                                   
+00828Abbott Nutricion                                  
+00829Abbott EPD                                        
+00830Nutrigenomics                                     
+00831Abbvie                                            
+00832Dalon Perello                                     
+00833Dux Pharm                                         
+00834Biogen                                            
+00835Aponor                                            
+00836Innovapharma                                      
+00837Mundipharma                                       
+00838Argentina Medical Prod.                           
+00839Kemex                                             
+00842Quality Pharma                                    
+00843Laboratorio Biosol                                
+00845Centro de Mezclas Intravenosas                    
+00846Celnova Argentina                                 
+00847Federal Med                                       
+00848Cosmeceuticals                                    
+00849Jayor                                             
+00850Ultra Pharma                                      
+00851Ethical Nutrition                                 
+00852Verrugol                                          
+00853Bisa Consumer                                     
+00854Delier                                            
+00855Berpharma                                         
+00856NutCare                                           
+00857Synthon Bag¢                                      
+00858Biosidus Farma                                    
+00859Biosintex Retail                                  
+00860Merz                                              
+00862Heurecca Pharma                                   
+00863Shire                                             
+00864Novagob Pharma                                    
+00865NestlÇ Health Science                             
+00866Cuidados Alternativos                             
+00867Vannier - Grunenthal                              
+00869Bag¢ - Arcor                                      
+00870Lecco                                             
+00871Pharma Alioth                                     
+00872Tabor                                             
+00873Amgen                                             
+00874Seqirus                                           
+00875Drog.Meta                                         
+00876Eximia                                            
+00877Pretoria                                          
+00878Aspen Argentina                                   
+00879MR Pharma                                         
+00880Lab. Fin del Mundo                                
+00883IBC                                               
+00884Sidus - Lifescan                                  
+00885Ugal FarmacÇutica                                 
+00886Olbia Pharma                                      
+00888Alef Medical Argentina                            
+00889mAbxience                                         
+00890Pharmalep S.A                                     
+00891Savant Generic                                    
+00892Nutentar                                          
+00893Celnova LH                                        
+00894Donnax/SD Biosensor                               
+00895La Sibila                                         
+00896Bina Pharma S.A.                                  
+00897Laboratorios Farmacoop                            
+00898Takeda Argentina S.A.                             
+00899Celtyc                                            
+00900Opella Healthcare Arg                             
+00901Supplerlabs                                       
+00902Silfab                                            
+00903Siegfried                                         
+00904Dromex Biotech                                    
