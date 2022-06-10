@@ -5,10 +5,11 @@ from google.cloud import vision
 def detect_text(image_file):
     """Detects text in the file."""
     client = vision.ImageAnnotatorClient()
+    print("before type")
+    #image = vision.Image(content=image_file)
+    #type(image)
 
-    image = vision.Image(content=image_file)
-
-    response = client.text_detection(image=image ,image_context={"language_hints": ["es"]})  # Bengali
+    response = client.text_detection(image=image_file ,image_context={"language_hints": ["es"]})  # Bengali
 
     texts = response.text_annotations
     print('Texts:')
