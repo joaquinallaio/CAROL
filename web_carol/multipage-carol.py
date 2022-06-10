@@ -3,17 +3,13 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as components
 from PIL import Image
-
 import json
 import requests
 from streamlit_lottie import st_lottie
 
-
 # image = Image.open("../marcacarol.png", "rb")
 
 # st.image(image, caption='Sunrise by the mountains')
-
-
 
 def load_lottieurl(url:str):
     r=requests.get(url)
@@ -47,8 +43,18 @@ st.markdown(
        ## 1️⃣ Cómo querés cargar tu receta?
         """
         )
+
+def get_drugs():
+    print("callback")
+    print(type(image))
+    params = {"img_file": image.getvalue()}
+    api_url = "http://127.0.0.1:8000/medicines"
+    res = requests.post(api_url,files=params)
+    drugs = res.content
+    print(drugs)
+
 if st.button(' 💻 Cargá tu receta desde tu dispositivo'):
-        image = st.file_uploader("", type=["png", "jpg", "jpeg", "pdf"])
+    image = st.file_uploader("", type=["png", "jpg", "jpeg", "pdf"], on_change=get_drugs)
 
 # with st.spinner('Wait for it...'):
 #     time = time.sleep(5)

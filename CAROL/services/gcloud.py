@@ -1,13 +1,9 @@
-import pandas as pd
-import numpy as np
 from google.cloud import vision
 
 def detect_text(image_file):
     """Detects text in the file."""
     client = vision.ImageAnnotatorClient()
     print("before type")
-    #image = vision.Image(content=image_file)
-    #type(image)
 
     response = client.text_detection(image=image_file ,image_context={"language_hints": ["es"]})  # Bengali
 

@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from gcloud import detect_text, predict, get_drugs
 import numpy as np
+import requests
 
 with open("style.css") as f:
      st.markdown(f'<style>(f.read())</style>', unsafe_allow_html=True)
@@ -33,16 +34,29 @@ st.write("#")
 drugs = []
 image = st.file_uploader("", type=["png", "jpg", "jpeg", "pdf"])
 if image is not None:
-    st.image(image, use_column_width=True)
-    st.write("<h3 style='text-align: center; color: white;'>Cargaste tu receta!</h3>", unsafe_allow_html=True)
-    st.write("<h5 style='text-align: center; color: light green;'>Continuemos👇🏽</h5>", unsafe_allow_html=True)
+    #st.image(image, use_column_width=True)
+    #st.write("<h3 style='text-align: center; color: white;'>Cargaste tu receta!</h3>", unsafe_allow_html=True)
+    #st.write("<h5 style='text-align: center; color: light green;'>Continuemos👇🏽</h5>", unsafe_allow_html=True)
 
     # Detect text
-    word_list = detect_text(image.getvalue())
-    st.markdown(word_list)
-    prediction = predict(word_list)
-    drugs = get_drugs(prediction)
-    st.markdown(drugs)
+    # word_list = detect_text(image.getvalue())
+    # st.markdown(word_list)
+    # prediction = predict(word_list)
+    # drugs = get_drugs(prediction)
+    # st.markdown(drugs)
+    print("loading img")
+    params = {"img_file": image.getvalue()}
+    api_url = "http://127.0.0.1:8000/medicines"
+
+    res = requests.post(api_url,files=params)
+
+    # res = requests.post(api_url, {"img_file": image.getvalue()})
+
+    #params = {"img_file": image}
+    #response = requests.post('http://127.0.0.1:8000/medicines', {"img_file": image})
+    drugs = res.content
+    print(drugs)
+    st.dataframe(drugs)
 
 # Botón cámara
 '''
@@ -62,32 +76,9 @@ if image is not None:
 '''
 ## 2️⃣Confirmá tus medicamentos acá 👇🏽
 '''
-st.dataframe(drugs[['description', 'prices']].style.hide_index())
+
 
 '''
 ## Este es el precio de tu medicamento
 '''
-st.write("<h5 style='text-align: center; color: light green;'>🤑🤑Acá va el precio luego del query🤑🤑</h5>", unsafe_allow_html=True)
-
-
-
-if option == 1:
-    select_image()
-if option == 2:
-    take_photo()
-
-
-def select_image():
-    drugs = []
-    image = st.file_uploader("", type=["png", "jpg", "jpeg", "pdf"])
-    if image is not None:
-        st.image(image, use_column_width=True)
-        st.write("<h3 style='text-align: center; color: white;'>Cargaste tu receta!</h3>", unsafe_allow_html=True)
-        st.write("<h5 style='text-align: center; color: light green;'>Continuemos👇🏽</h5>", unsafe_allow_html=True)
-
-        # Detect text
-        word_list = detect_text(image.getvalue())
-        st.markdown(word_list)
-        prediction = predict(word_list)
-        drugs = get_drugs(prediction)
-        st.markdown(drugs)
+#st.write("<h5 style='text-align: center; color: light green;'>🤑🤑Acá va el precio luego del query🤑🤑</h5>", unsafe_allow_html=True)

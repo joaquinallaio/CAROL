@@ -27,3 +27,7 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# frontend
+streamlit_lottie
+streamlit_option_menu
