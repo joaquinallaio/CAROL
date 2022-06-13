@@ -47,14 +47,25 @@ st.markdown(
 def get_drugs():
     print("callback")
     print(type(image))
+    if image!=None:
+        params = {"img_file": image.getvalue()}
+        api_url = "http://127.0.0.1:8000/medicines"
+        res = requests.post(api_url,files=params)
+        drugs = res.content
+        print(drugs)
+
+#if st.button(' 💻 Cargá tu receta desde tu dispositivo'):
+image = st.file_uploader("", type=["png", "jpg", "jpeg", "pdf"])
+if image is not None:
+    print("ahi vamos")
     params = {"img_file": image.getvalue()}
     api_url = "http://127.0.0.1:8000/medicines"
     res = requests.post(api_url,files=params)
     drugs = res.content
     print(drugs)
+else:
+    print("no hay nada")
 
-if st.button(' 💻 Cargá tu receta desde tu dispositivo'):
-    image = st.file_uploader("", type=["png", "jpg", "jpeg", "pdf"], on_change=get_drugs)
 
 # with st.spinner('Wait for it...'):
 #     time = time.sleep(5)
