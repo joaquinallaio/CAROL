@@ -13,5 +13,8 @@ def index():
 @app.post("/medicines")
 def get_medicines(img_file: UploadFile = File(...)):
     list_of_words = detect_text(img_file.file)
+    print("list_of_words" , list_of_words)
     predictions = predict(list_of_words)
+    print("predictions", predictions)
+
     return get_products(predictions)
