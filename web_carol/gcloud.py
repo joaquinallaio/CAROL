@@ -64,9 +64,9 @@ def get_prob_value(target,columna,thr):
 def predict(target):
     final_list = []
     for w in target:
-        droga_pred= get_prob_value(w ,'Principio activo',0.8)
-        gramaje_pred= get_prob_value(w,'Potencia',0.9)
-        unidad_pred= get_prob_value(w,'Unidad de potencia',0.8)
+        droga_pred= get_prob_value(w.lower() ,'Principio activo',0.8)
+        gramaje_pred= get_prob_value(w.lower(),'Potencia',0.9)
+        unidad_pred= get_prob_value(w.lower(),'Unidad de potencia',0.8)
 
         if droga_pred != "error":
             final_list.append(droga_pred)
